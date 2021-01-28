@@ -1,0 +1,497 @@
+﻿<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/tp_section_2.svg"></visiobas>
+	</g>
+<!--Trends-->
+<g class='graph' transform='translate(20,430)' gr-width="500" gr-height='300' id='gr_chartist'></g>
+
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_1.svg" transform="translate(49,327)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 1</replace>
+</visiobas>
+</g>
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_3.svg" transform="translate(178,327)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 3</replace>
+</visiobas>
+</g>
+<!--reference-->
+<g class="reference" reference="../svg/TP_10_kV.svg" transform="translate(467,83)">
+<visiobas src="../svg/svg-element/TP/HREF_10.svg">
+<replace find="SVG_FILE">Секция 10kV</replace>
+</visiobas>
+</g>
+<g class='trendlog'>
+<!-- temp_0.4kv_1 -->
+	<g id="QF_FULL" transform="translate(100,80)">
+		<visiobas src="../svg/svg-element/TP/temp.svg">
+        <replace find="TEMP">RU_400V_TEMP</replace>
+        </visiobas>
+	</g>
+
+<!-- temp_TR-2 -->
+	<g id="QF_FULL" transform="translate(435,160)">
+		<visiobas src="../svg/svg-element/TP/temp.svg">
+        <replace find="TEMP">ROOM_TR_2_TEMP</replace>
+        </visiobas>
+	</g>
+
+
+<!-- QF_2 -->
+	<g id="QF_FULL" transform="translate(405,222)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
+        <replace find="QF_NAME">QF2</replace>
+        
+        <replace find="CURRENT1">QF2_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF2_VOLTAGE</replace>
+        
+        <replace find="ALARM">QF2_ALARM</replace>
+        <replace find="ON">QF2_ON</replace>
+        <replace find="OFF">QF2_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- QF_4 -->
+	<g id="QF_FULL" transform="translate(282,256)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_L.svg">
+        <replace find="QF_NAME">QF4</replace>
+        
+        <replace find="CURRENT1">QF4_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF4_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF4_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF4_VOLTAGE</replace>
+        
+        <replace find="ALARM">QF4_ALARM</replace>
+        <replace find="ON">QF4_ON</replace>
+        <replace find="OFF">QF4_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_26 -->
+	<g id="QF_FULL" transform="translate(1155,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF26</replace>
+        <replace find="LINE_NAME">2П-26</replace>
+        <replace find="EC_NAME">Набережная</replace>
+        <replace find="CURRENT1">QF2_26_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_26_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_26_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_26_ALARM</replace>
+        <replace find="ON">QF2_26_ON</replace>
+        <replace find="OFF">QF2_26_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+
+<!-- 2QF_30 -->
+	<g id="QF_FULL" transform="translate(1115,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF30</replace>
+        <replace find="LINE_NAME">2П-30</replace>
+        <replace find="EC_NAME">Вулкан</replace>
+        <replace find="CURRENT1">QF2_30_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_30_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_30_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_30_ALARM</replace>
+        <replace find="ON">QF2_30_ON</replace>
+        <replace find="OFF">QF2_30_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_29 -->
+	<g id="QF_FULL" transform="translate(1075,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF29</replace>
+        <replace find="LINE_NAME">2П-29</replace>
+        <replace find="EC_NAME">Алтай Баня</replace>
+        <replace find="CURRENT1">QF2_29_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_29_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_29_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_29_ALARM</replace>
+        <replace find="ON">QF2_29_ON</replace>
+        <replace find="OFF">QF2_29_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_28 -->
+	<g id="QF_FULL" transform="translate(1050,427)">
+		<visiobas src="../svg/svg-element/TP/QF_MIN_R.svg">
+        <replace find="QF_NAME">2QF28</replace>
+        <replace find="LINE_NAME">2П-28</replace>
+        <replace find="EC_NAME">ЩАП-12</replace>
+        <replace find="CURRENT1">QF2_28_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_28_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_28_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_28_ALARM</replace>
+        <replace find="ON">QF2_28_ON</replace>
+        <replace find="OFF">QF2_28_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_27 -->
+	<g id="QF_FULL" transform="translate(1010,427)">
+		<visiobas src="../svg/svg-element/TP/QF_MIN_R.svg">
+        <replace find="QF_NAME">2QF27</replace>
+        <replace find="LINE_NAME">2П-27</replace>
+        <replace find="EC_NAME">ЩПСН-2.ЯСН-В2</replace>
+        <replace find="CURRENT1">QF2_27_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_27_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_27_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_27_ALARM</replace>
+        <replace find="ON">QF2_27_ON</replace>
+        <replace find="OFF">QF2_27_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_24 -->
+	<g id="QF_FULL" transform="translate(955,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF24</replace>
+        <replace find="LINE_NAME">2П-24</replace>
+        <replace find="EC_NAME">ПАРК.ВРУ-2</replace>
+        <replace find="CURRENT1">QF2_24_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_24_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_24_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_24_ALARM</replace>
+        <replace find="ON">QF2_24_ON</replace>
+        <replace find="OFF">QF2_24_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_23 -->
+	<g id="QF_FULL" transform="translate(915,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF23</replace>
+        <replace find="LINE_NAME">2П-23</replace>
+        <replace find="EC_NAME">АСУД.СОТВ</replace>
+        <replace find="CURRENT1">QF2_23_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_23_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_23_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_23_ALARM</replace>
+        <replace find="ON">QF2_23_ON</replace>
+        <replace find="OFF">QF2_23_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_22 -->
+	<g id="QF_FULL" transform="translate(875,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF22</replace>
+        <replace find="LINE_NAME">2П-22</replace>
+        <replace find="EC_NAME">Нар.Осв.</replace>
+        <replace find="CURRENT1">QF2_22_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_22_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_22_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_22_ALARM</replace>
+        <replace find="ON">QF2_22_ON</replace>
+        <replace find="OFF">QF2_22_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_21 -->
+	<g id="QF_FULL" transform="translate(835,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF21</replace>
+        <replace find="LINE_NAME">2П-21</replace>
+        <replace find="EC_NAME">НС ЯПС</replace>
+        <replace find="CURRENT1">QF2_21_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_21_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_21_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_21_ALARM</replace>
+        <replace find="ON">QF2_21_ON</replace>
+        <replace find="OFF">QF2_21_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_20 -->
+	<g id="QF_FULL" transform="translate(795,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF20</replace>
+        <replace find="LINE_NAME">2П-20</replace>
+        <replace find="EC_NAME">КНС-5</replace>
+        <replace find="CURRENT1">QF2_20_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_20_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_20_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_20_ALARM</replace>
+        <replace find="ON">QF2_20_ON</replace>
+        <replace find="OFF">QF2_20_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_19 -->
+	<g id="QF_FULL" transform="translate(755,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF19</replace>
+        <replace find="LINE_NAME">2П-19</replace>
+        <replace find="EC_NAME">ЛОС</replace>
+        <replace find="CURRENT1">QF2_19_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_19_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_19_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_19_ALARM</replace>
+        <replace find="ON">QF2_19_ON</replace>
+        <replace find="OFF">QF2_19_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_18 -->
+	<g id="QF_FULL" transform="translate(715,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF18</replace>
+        <replace find="LINE_NAME">2П-18</replace>
+        <replace find="EC_NAME">Ав.пол.ВВ</replace>
+        <replace find="CURRENT1">QF2_18_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_18_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_18_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_18_ALARM</replace>
+        <replace find="ON">QF2_18_ON</replace>
+        <replace find="OFF">QF2_18_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_17 -->
+	<g id="QF_FULL" transform="translate(675,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF17</replace>
+        <replace find="LINE_NAME">2П-17</replace>
+        <replace find="EC_NAME">Коттедж 3</replace>
+        <replace find="CURRENT1">QF2_17_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_17_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_17_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_17_ALARM</replace>
+        <replace find="ON">QF2_17_ON</replace>
+        <replace find="OFF">QF2_17_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_16 -->
+	<g id="QF_FULL" transform="translate(635,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF16</replace>
+        <replace find="LINE_NAME">2П-16</replace>
+        <replace find="EC_NAME">Коттедж 2</replace>
+        <replace find="CURRENT1">QF2_16_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_16_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_16_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_16_ALARM</replace>
+        <replace find="ON">QF2_16_ON</replace>
+        <replace find="OFF">QF2_16_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_15 -->
+	<g id="QF_FULL" transform="translate(595,427)">
+		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+        <replace find="QF_NAME">2QF15</replace>
+        <replace find="LINE_NAME">2П-15</replace>
+        <replace find="EC_NAME">Коттедж 1</replace>
+        <replace find="CURRENT1">QF2_15_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_15_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_15_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_15_ALARM</replace>
+        <replace find="ON">QF2_15_ON</replace>
+        <replace find="OFF">QF2_15_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_14 -->
+	<g id="QF_FULL" transform="translate(1167,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF14</replace>
+        <replace find="LINE_NAME">2П-14</replace>
+        <replace find="EC_NAME">Рютен.Вес.В.</replace>
+        <replace find="CURRENT1">QF2_14_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_14_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_14_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_14_ALARM</replace>
+        <replace find="ON">QF2_14_ON</replace>
+        <replace find="OFF">QF2_14_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_13 -->
+	<g id="QF_FULL" transform="translate(1127,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF13</replace>
+        <replace find="LINE_NAME">2П-13</replace>
+        <replace find="EC_NAME">Яп.Баня.СОДО</replace>
+        <replace find="CURRENT1">QF2_13_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_13_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_13_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_13_ALARM</replace>
+        <replace find="ON">QF2_13_ON</replace>
+        <replace find="OFF">QF2_13_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_12 -->
+	<g id="QF_FULL" transform="translate(1087,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF12</replace>
+        <replace find="LINE_NAME">2П-12</replace>
+        <replace find="EC_NAME">Чайный дом</replace>
+        <replace find="CURRENT1">QF2_12_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_12_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_12_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_12_ALARM</replace>
+        <replace find="ON">QF2_12_ON</replace>
+        <replace find="OFF">QF2_12_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_11 -->
+	<g id="QF_FULL" transform="translate(1047,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF11</replace>
+        <replace find="LINE_NAME">2П-11</replace>
+        <replace find="EC_NAME">КНС-6</replace>
+        <replace find="CURRENT1">QF2_11_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_11_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_11_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_11_ALARM</replace>
+        <replace find="ON">QF2_11_ON</replace>
+        <replace find="OFF">QF2_11_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_10 -->
+	<g id="QF_FULL" transform="translate(1007,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF10</replace>
+        <replace find="LINE_NAME">2П-10</replace>
+        <replace find="EC_NAME">Коллектор</replace>
+        <replace find="CURRENT1">QF2_10_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_10_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_10_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_10_ALARM</replace>
+        <replace find="ON">QF2_10_ON</replace>
+        <replace find="OFF">QF2_10_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_9 -->
+	<g id="QF_FULL" transform="translate(967,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF9</replace>
+        <replace find="LINE_NAME">2П-9</replace>
+        <replace find="EC_NAME">ДЦ ВРУ-2</replace>
+        <replace find="CURRENT1">QF2_9_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_9_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_9_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_9_ALARM</replace>
+        <replace find="ON">QF2_9_ON</replace>
+        <replace find="OFF">QF2_9_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_8 -->
+	<g id="QF_FULL" transform="translate(927,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF8</replace>
+        <replace find="LINE_NAME">2П-8</replace>
+        <replace find="EC_NAME">ДЦ ВРУ-1</replace>
+        <replace find="CURRENT1">QF2_8_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_8_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_8_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_8_ALARM</replace>
+        <replace find="ON">QF2_8_ON</replace>
+        <replace find="OFF">QF2_8_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_7 -->
+	<g id="QF_FULL" transform="translate(887,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF7</replace>
+        <replace find="LINE_NAME">2П-7</replace>
+        <replace find="EC_NAME">КЦ ВРУ-3</replace>
+        <replace find="CURRENT1">QF2_7_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_7_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_7_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_7_ALARM</replace>
+        <replace find="ON">QF2_7_ON</replace>
+        <replace find="OFF">QF2_7_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_6 -->
+	<g id="QF_FULL" transform="translate(847,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF6</replace>
+        <replace find="LINE_NAME">2П-6</replace>
+        <replace find="EC_NAME">КЦ ВРУ-2</replace>
+        <replace find="CURRENT1">QF2_6_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_6_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_6_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_6_ALARM</replace>
+        <replace find="ON">QF2_6_ON</replace>
+        <replace find="OFF">QF2_6_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_5 -->
+	<g id="QF_FULL" transform="translate(807,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF5</replace>
+        <replace find="LINE_NAME">2П-5</replace>
+        <replace find="EC_NAME">КЦ ВРУ-1</replace>
+        <replace find="CURRENT1">QF2_5_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_5_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_5_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_5_ALARM</replace>
+        <replace find="ON">QF2_5_ON</replace>
+        <replace find="OFF">QF2_5_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_4 -->
+	<g id="QF_FULL" transform="translate(767,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF4</replace>
+        <replace find="LINE_NAME">2П-4</replace>
+        <replace find="EC_NAME">Кот.РЧВ</replace>
+        <replace find="CURRENT1">QF2_4_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_4_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_4_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_4_ALARM</replace>
+        <replace find="ON">QF2_4_ON</replace>
+        <replace find="OFF">QF2_4_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_3 -->
+	<g id="QF_FULL" transform="translate(727,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF3</replace>
+        <replace find="LINE_NAME">2П-3</replace>
+        <replace find="EC_NAME">Амер.Горки</replace>
+        <replace find="CURRENT1">QF2_3_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_3_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_3_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_3_ALARM</replace>
+        <replace find="ON">QF2_3_ON</replace>
+        <replace find="OFF">QF2_3_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_2 -->
+	<g id="QF_FULL" transform="translate(687,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF2</replace>
+        <replace find="LINE_NAME">2П-2</replace>
+        <replace find="EC_NAME">АБК Парк.ВРУ-1</replace>
+        <replace find="CURRENT1">QF2_2_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_2_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_2_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_2_ALARM</replace>
+        <replace find="ON">QF2_2_ON</replace>
+        <replace find="OFF">QF2_2_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_1 -->
+	<g id="QF_FULL" transform="translate(647,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF1</replace>
+        <replace find="LINE_NAME">2П-1</replace>
+        <replace find="EC_NAME">НС РПТ</replace>
+        <replace find="CURRENT1">QF2_1_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_1_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_1_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_1_ALARM</replace>
+        <replace find="ON">QF2_1_ON</replace>
+        <replace find="OFF">QF2_1_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+<!-- 2QF_25 -->
+	<g id="QF_FULL" transform="translate(607,134)">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+        <replace find="QF_NAME">2QF25</replace>
+        <replace find="LINE_NAME">2П-25</replace>
+        <replace find="EC_NAME">ДЭС.ШСН-2</replace>
+        <replace find="CURRENT1">QF2_25_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF2_25_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF2_25_L3_CURRENT</replace>
+        <replace find="ALARM">QF2_25_ALARM</replace>
+        <replace find="ON">QF2_25_ON</replace>
+        <replace find="OFF">QF2_25_OFF</replace>
+          	              	    	</visiobas>
+	</g>
+</g>
+</svg>

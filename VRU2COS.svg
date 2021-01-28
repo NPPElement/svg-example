@@ -1,0 +1,162 @@
+﻿<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/vru2.svg"></visiobas>
+	</g>
+<!-- Qs1-->
+	<g id="QS1-ST1" transform="translate(243,203)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-vru.svg">
+        <replace find="QF-ON">2QS1-1ST</replace>
+               	</visiobas>
+	</g>
+<!-- Qs1-->
+	<g id="QS1-ST2" transform="translate(312,203)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-vru.svg">
+        <replace find="QF-STATUS">2QS1-2ST</replace>
+               	</visiobas>
+	</g>
+<!-- Qs2-->
+	<g id="QS2-ST1" transform="translate(218,470)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-vru.svg">
+        <replace find="QF-STATUS">2QS2-1ST</replace>
+               	</visiobas>
+	</g>
+<!-- Qs2-->
+	<g id="QS2-ST2" transform="translate(288,470)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-vru.svg">
+        <replace find="QF-STATUS">2QS2-2ST</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-->
+	<g id="21QF1" transform="translate(383,203)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-tu.svg">
+        <replace find="QF-ON">21QF1-OFF</replace>
+       <replace find="QF-ALARM">21QF1-ALARM</replace>
+               	</visiobas>
+	</g>
+
+<!-- QF1-1-->
+	<g id="2QF11" transform="translate(532,201)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-1-OFF</replace>
+         <replace find="QF-ALARM">2QF1-1-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-2-->
+	<g id="2QF12" transform="translate(583,201)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-2-OFF</replace>
+          <replace find="QF-ALARM">2QF1-2-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-3-->
+	<g id="2QF13" transform="translate(634,201)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-3-OFF</replace>
+              <replace find="QF-ALARM">2QF1-3-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-4-->
+	<g id="2QF14" transform="translate(685,201)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-4-OFF</replace>
+              <replace find="QF-ALARM">2QF1-4-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-5-->
+	<g id="2QF15" transform="translate(736,201)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-5-OFF</replace>
+              <replace find="QF-ALARM">2QF1-5-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-6-->
+	<g id="2QF16" transform="translate(787,201)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+            <replace find="QF-ON">2QF1-6-OFF</replace>
+           <replace find="QF-ALARM">2QF1-6-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF1-7-->
+	<g id="2QF17" transform="translate(838,201)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF1-7-OFF</replace>
+              <replace find="QF-ALARM">2QF1-7-ALARM</replace>
+        
+               	</visiobas>
+	</g>
+<!-- QF1-8-->
+	<g id="2QF18" transform="translate(920,201)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-tu.svg">
+         <replace find="QF-ON">2QF1-8-OFF</replace>
+              <replace find="QF-ALARM">2QF1-8-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-->
+	<g id="21QF2" transform="translate(380,470)">
+		<visiobas src="../svg/svg-element/vru/qf-min-min-tu.svg">
+        <replace find="QF-ON">2QF2-OFF</replace>
+              <replace find="QF-ALARM">2QF2-ALARM</replace>
+       
+               	</visiobas>
+	</g>
+
+<!-- QF2-8-->
+	<g id="2QF28" transform="translate(530,470)">
+			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-8-OFF</replace>
+              <replace find="QF-ALARM">2QF2-8-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-7-->
+	<g id="2QF27" transform="translate(580,470)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-7-OFF</replace>
+              <replace find="QF-ALARM">2QF2-7-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-6-->
+	<g id="2QF26" transform="translate(625,470)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-6-OFF</replace>
+              <replace find="QF-ALARM">2QF2-6-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-5-->
+	<g id="2QF25" transform="translate(675,470)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-5-OFF</replace>
+              <replace find="QF-ALARM">2QF2-5-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-4-->
+	<g id="2QF24" transform="translate(725,470)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-4-OFF</replace>
+              <replace find="QF-ALARM">2QF2-4-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-3-->
+	<g id="2QF23" transform="translate(775,470)">
+		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-3-OFF</replace>
+              <replace find="QF-ALARM">2QF2-3-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-2-->
+	<g id="2QF22" transform="translate(826,470)">
+	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+        <replace find="QF-ON">2QF2-2-OFF</replace>
+              <replace find="QF-ALARM">2QF2-2-ALARM</replace>
+               	</visiobas>
+	</g>
+<!-- QF2-1-->
+	<g id="2QF21" transform="translate(881,469)">
+	<visiobas src="../svg/svg-element/vru/qf-min-min-tu.svg">
+        <replace find="QF-ON">2QF2-1-OFF</replace>
+              <replace find="QF-ALARM">2QF2-1-ALARM</replace>
+               	</visiobas>
+	</g>
+</svg>

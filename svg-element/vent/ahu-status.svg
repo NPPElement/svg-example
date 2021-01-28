@@ -1,0 +1,46 @@
+<svg width="109" height="53" viewBox="0 0 109 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 13">
+<g id="Group 14">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M101 19H9V42H101V19ZM15 21.3H11V39.7H15V21.3ZM39 21.3H43V39.7H39V21.3ZM29 21.3H25V39.7H29V21.3ZM18 21.3H22V39.7H18V21.3ZM36 21.3H32V39.7H36V21.3ZM46 21.3H50V39.7H46V21.3ZM78 21.3H74V39.7H78V21.3ZM60 21.3H64V39.7H60V21.3ZM57 21.3H53V39.7H57V21.3ZM67 21.3H71V39.7H67V21.3ZM92 21.3H88V39.7H92V21.3ZM81 21.3H85V39.7H81V21.3ZM99 21.3H95V39.7H99V21.3Z" fill="url(#GROUPpaint0_linear)"/>
+</g>
+<g class="fault inactive" reference="AHU-STATUS">
+<g  class="animation-fail">
+<path id="Polygon" d="M27 35.998L24.4019 25.9974H29.5981L27 35.998Z" fill="#4CD964"/>
+<path id="Polygon_2" d="M13 34.334L10.4019 24.3334H15.5981L13 34.334Z" fill="#4CD964"/>
+<path id="Polygon_3" d="M20 34.334L17.4019 24.3334H22.5981L20 34.334Z" fill="#4CD964"/>
+<path id="Polygon_4" d="M48 35.998L45.4019 25.9974H50.5981L48 35.998Z" fill="#4CD964"/>
+<path id="Polygon_5" d="M34 35.998L31.4019 25.9974H36.5981L34 35.998Z" fill="#4CD964"/>
+<path id="Polygon_6" d="M41 35.998L38.4019 25.9974H43.5981L41 35.998Z" fill="#4CD964"/>
+<path id="Polygon_7" d="M69 35.998L66.4019 25.9974H71.5981L69 35.998Z" fill="#4CD964"/>
+<path id="Polygon_8" d="M55 35.998L52.4019 25.9974H57.5981L55 35.998Z" fill="#4CD964"/>
+<path id="Polygon_9" d="M62 35.998L59.4019 25.9974H64.5981L62 35.998Z" fill="#4CD964"/>
+<path id="Polygon_10" d="M90 34.334L87.4019 24.3334H92.5981L90 34.334Z" fill="#4CD964"/>
+<path id="Polygon_11" d="M97 34.334L94.4019 24.3334H99.5981L97 34.334Z" fill="#4CD964"/>
+<path id="Polygon_12" d="M76 35.998L73.4019 25.9974H78.5981L76 35.998Z" fill="#4CD964"/>
+<path id="Polygon_13" d="M83 35.998L80.4019 25.9974H85.5981L83 35.998Z" fill="#4CD964"/>
+</g>
+</g>
+<g id="Group 11">
+<path id="Rectangle 2" d="M0 22.6087C41.9609 -7.17504 65.812 -7.89524 109 22.6087V25.6087C66.5919 28.2458 42.8071 28.3294 0 25.6087V22.6087Z" fill="url(#GROUPpaint1_linear)"/>
+<path id="Rectangle 3" d="M0 22.5957C43.1746 24.2689 67.091 24.3739 109 22.5957V25.5957C67.4621 28.1496 43.6975 28.3075 0 25.5957V22.5957Z" fill="#848484"/>
+</g>
+<g id="Group 13_2">
+<rect id="Rectangle" x="4" y="42" width="101" height="7" fill="#848484"/>
+<rect id="Rectangle_2" x="9" y="49" width="92" height="4" fill="url(#GROUPpaint2_linear)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="GROUPpaint0_linear" x1="55" y1="19.1082" x2="55" y2="49.4846" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A6A5A5"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="GROUPpaint1_linear" x1="54.5" y1="0.12995" x2="54.5" y2="36.6054" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A6A5A5"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="GROUPpaint2_linear" x1="55" y1="49.0188" x2="55" y2="54.3017" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A6A5A5"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>

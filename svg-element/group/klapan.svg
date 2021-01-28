@@ -1,0 +1,19 @@
+<svg width="108" height="138" viewBox="0 0 108 138" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<g id="CONTROL-STATUS">
+<g id="flags">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M95.666 42C95.666 65.196 76.862 84 53.666 84C30.47 84 11.666 65.196 11.666 42C11.666 18.8041 30.47 0 53.666 0C76.862 0 95.666 18.8041 95.666 42ZM90.0915 41.9984C90.0915 62.1173 73.7819 78.4269 53.6629 78.4269C33.544 78.4269 17.2344 62.1173 17.2344 41.9984C17.2344 21.8794 33.544 5.56976 53.6629 5.56976C73.7819 5.56976 90.0915 21.8794 90.0915 41.9984Z"/>
+</g>
+<g class="fault" format="%.0f" reference="PROP-TEXT">
+	<text x="50%" y="115" font-size="22px" font-family="Antonio-Regular" text-anchor="middle">PROP-TEXT</text>
+</g>
+<g class="fault" format="%.0f" reference="PROP-VALUE">
+
+<g id="flags">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M95.666 42C95.666 65.196 76.862 84 53.666 84C30.47 84 11.666 65.196 11.666 42C11.666 18.8041 30.47 0 53.666 0C76.862 0 95.666 18.8041 95.666 42ZM90.0915 41.9984C90.0915 62.1173 73.7819 78.4269 53.6629 78.4269C33.544 78.4269 17.2344 62.1173 17.2344 41.9984C17.2344 21.8794 33.544 5.56976 53.6629 5.56976C73.7819 5.56976 90.0915 21.8794 90.0915 41.9984Z"/>
+</g>
+<text x="50%" y="40%" font-size="32px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+</g>
+</g>
+</svg>

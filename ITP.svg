@@ -1,0 +1,15 @@
+﻿<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" ><svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+		<visiobas src="../svg/svg-schemes/itp_battlers.svg"></visiobas>
+	</g>
+<!-- ВЕНТИЛЯТОР ПРИТОЧКИ-->
+    <g id="SPEN" transform="translate(830,412)">
+		<visiobas src="../svg/svg-element/vent/vent-p-status.svg">
+     
+         <replace find="VENT-P-STATUS">HIGH_SPEED_STATUS</replace>
+       
+    </visiobas>
+	</g>
+
+</svg>

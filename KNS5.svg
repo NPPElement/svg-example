@@ -1,0 +1,102 @@
+﻿<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/kns5.svg"></visiobas>
+	</g>
+				<!-- PE-2 -->
+	<g id="PE-2" transform="translate(963,162)">
+		<visiobas src="../svg/svg-element/sen/sen-rl.svg">
+    		<replace find="SEN-RL">KNS5_PE2-STSTUS</replace>
+           	</visiobas>
+	</g>
+<!-- PUMP-1 -->
+	<g id="PUMP-1" transform="translate(892,487)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
+    		<replace find="PUMP-FECAL-STATUS">KNS5_N1-STATUS</replace>
+        <replace find="ALARM-PUMP-FECAL">KNS5_N1-ALARM</replace>
+           	</visiobas>
+	</g>
+	<!-- PUMP-2 -->
+	<g id="PUMP-2" transform="translate(956,487)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
+    		<replace find="PUMP-FECAL-STATUS">KNS5_N2-STATUS</replace>
+        <replace find="ALARM-PUMP-FECAL">KNS5_N2-ALARM</replace>
+           	</visiobas>
+	</g>
+		<!-- PUMP-3 -->
+	<g id="PUMP-3" transform="translate(1050,487)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal.svg">
+    		<replace find="PUMP-FECAL-STATUS">KNS5_N3-STATUS</replace>
+        <replace find="ALARM-PUMP-FECAL">KNS5_N3-ALARM</replace>
+           	</visiobas>
+	</g>
+	<!-- Управление МКО -->
+	<g id="CONTROL-MKO" transform="translate(710,230)">
+		<visiobas src="../svg/svg-element/control/control.svg">
+    		<replace find="CONTROL">KNS5_MKO-CONTROL</replace>
+           	</visiobas>
+	</g>
+	<!-- Управление ГК -->
+	<g id="CONTROL-GK" transform="translate(560,230)">
+		<visiobas src="../svg/svg-element/control/control.svg">
+    		<replace find="CONTROL">KNS5_GK-START</replace>
+           	</visiobas>
+	</g>
+	<!-- Управление B1 -->
+	<g id="CONTROL-B1" transform="translate(402,230)">
+		<visiobas src="../svg/svg-element/control/control.svg">
+    		<replace find="CONTROL">KNS5_B1-CONTROL</replace>
+           	</visiobas>
+	</g>
+<!-- расходомер QE1 -->
+	<g id="QE1" transform="translate(1025,119)">
+		<visiobas src="../svg/svg-element/counter/qe.svg">
+    		<replace find="CONTROL">KNS5_WQE-1</replace>
+           	</visiobas>
+	</g>
+<!-- расходомер QE2 -->
+	<g id="QE2" transform="translate(1025,202)">
+		<visiobas src="../svg/svg-element/counter/qe.svg">
+    		<replace find="CONTROL">KNS5_WQE-2</replace>
+           	</visiobas>
+	</g>
+<!-- Авария Газоана-ра -->
+	<g id="GAS-ALARM" transform="translate(960,302)">
+		<visiobas src="../svg/svg-element/alarm/alarm.svg">
+    		<replace find="ALARM">KNS5_SEN-GAS-ALARM</replace>
+           	</visiobas>
+	</g>
+<!-- неисправность Газоана-ра -->
+	<g id="GAS-ALARM" transform="translate(960,302)">
+		<visiobas src="../svg/svg-element/alarm/alarm.svg">
+    		<replace find="ALARM">KNS5_SEN-GAS-FAULT</replace>
+           	</visiobas>
+	</g>
+<!-- Авария MKO -->
+	<g id="MKO-ALARM" transform="translate(718,140)">
+		<visiobas src="../svg/svg-element/alarm/alarm.svg">
+    		<replace find="ALARM">KNS5_MKO-ALARM</replace>
+           	</visiobas>
+	</g>
+<!-- Авария GK -->
+	<g id="GK-ALARM" transform="translate(568,140)">
+		<visiobas src="../svg/svg-element/alarm/alarmrev.svg">
+    		<replace find="ALARM">KNS5_GK-ALARM</replace>
+           	</visiobas>
+	</g>
+<!-- Авария переполнение -->
+	<g id="HI-LEVEL-ALARM" transform="translate(860,322)">
+		<visiobas src="../svg/svg-element/alarm/alarm.svg">
+    		<replace find="ALARM">KNS5_LEVEL-HI-ALARM</replace>
+           	</visiobas>
+	</g>
+<!-- Авария КНС-6 -->
+	<g id="KNS-ALARM" transform="translate(860,322)">
+		<visiobas src="../svg/svg-element/alarm/alarm.svg">
+    		<replace find="ALARM">KNS5_COM-ALARM</replace>
+           	</visiobas>
+	</g>
+
+</svg>

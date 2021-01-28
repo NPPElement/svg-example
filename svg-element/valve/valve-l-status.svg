@@ -1,0 +1,29 @@
+<svg width="30" height="18" viewBox="0 0 30 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+<g class="fault inactive" reference="VALVE-L-STATUS">
+<g id="flage">
+<rect id="Rectangle" width="16" height="30" transform="matrix(0 -1 -1 0 30 17)"/>
+<path id="Exclude" fill-rule="evenodd" clip-rule="evenodd" d="M30 17L30 1L0 1L0 17L30 17ZM15 9L6 16L6 2L15 9ZM15 9L24 16L24 2L15 9ZM13.5 9L7 14L7 4L13.5 9Z" fill="#007AFF"/>
+</g>
+<g class="animation-hide">
+<path id="Exclude_2" fill-rule="evenodd" clip-rule="evenodd" d="M30 17L30 1L0 1L0 17L30 17ZM15 9L6 16L6 2L15 9ZM15 9L24 16L24 2L15 9ZM13.5 9L7 14L7 4L13.5 9ZM23 4L16.5 9L23 14L23 4Z" fill="#007AFF"/>
+</g>
+<g id="Group">
+<path id="Vector" d="M30 18H25L25 0H30L30 18Z" fill="url(#VALVE-L-STATUS-paint0_linear)"/>
+<path id="Vector_2" d="M0 0L5 0L5 18L0 18L0 0Z" fill="url(#VALVE-L-STATUS-paint1_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="VALVE-L-STATUS-paint0_linear" x1="27.5" y1="18" x2="27.5" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F4F4F"/>
+<stop offset="0.491713" stop-color="white"/>
+<stop offset="1" stop-color="#4F4F4F"/>
+</linearGradient>
+<linearGradient id="VALVE-L-STATUS-paint1_linear" x1="2.5" y1="0" x2="2.5" y2="18" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4F4F4F"/>
+<stop offset="0.491713" stop-color="white"/>
+<stop offset="1" stop-color="#4F4F4F"/>
+</linearGradient>
+</defs>
+</svg>

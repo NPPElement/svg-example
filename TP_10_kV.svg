@@ -1,0 +1,161 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/tp_10_kV.svg"></visiobas>
+	</g>
+
+<!--Trends-->
+<g class='graph' transform='translate(860,430)' gr-width="400" gr-height='250' id='gr_chartist'></g>
+
+
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_2.svg" transform="translate(395,630)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 2</replace>
+</visiobas>
+</g>
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_1.svg" transform="translate(700,630)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 1</replace>
+</visiobas>
+</g>
+<g class='trendlog'>
+<!-- temp_10kv_1 -->
+	<g id="QF_FULL" transform="translate(100,80)">
+		<visiobas src="../svg/svg-element/TP/temp.svg">
+        <replace find="TEMP">RU_10kV_TEMP</replace>
+        </visiobas>
+	</g>
+<!-- temp_TR-1 -->
+	<g id="QF_FULL" transform="translate(800,520)">
+		<visiobas src="../svg/svg-element/TP/temp.svg">
+        <replace find="TEMP">ROOM_TR_1_TEMP</replace>
+        </visiobas>
+	</g>
+<!-- temp_TR-2 -->
+	<g id="QF_FULL" transform="translate(495,520)">
+		<visiobas src="../svg/svg-element/TP/temp.svg">
+        <replace find="TEMP">ROOM_TR_2_TEMP</replace>
+        </visiobas>
+	</g>
+<!--Noname-->
+<g id="sepam" transform="translate(565,158)">
+<visiobas src="../svg/svg-element/TP/none_qf.svg">
+
+
+</visiobas>
+</g>
+         
+<!-- sepam7-->
+<g id="sepam" transform="translate(447,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">1Q3</replace>
+<replace find="EC_NAME">ТР-ОР №2</replace>
+<replace find="CURRENT1">SEP_7_CUR1</replace>
+<replace find="CURRENT2">SEP_7_CUR2</replace>
+<replace find="CURRENT3">SEP_7_CUR3</replace>
+<replace find="VOLTAGE">SEP_7_VOLT</replace>
+<replace find="FREQUENCY">SEP_7_FREQ</replace>
+    
+<replace find="ON">SEP_7_ON</replace>
+<replace find="OFF">SEP_7_OFF</replace>
+</visiobas>
+</g>
+           
+<!-- sepam8-->
+<g id="sepam" transform="translate(347,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">1Q2</replace>
+<replace find="EC_NAME">ВВОД №2</replace>
+<replace find="CURRENT1">SEP_8_CUR1</replace>
+<replace find="CURRENT2">SEP_8_CUR2</replace>
+<replace find="CURRENT3">SEP_8_CUR3</replace>
+      
+<replace find="ON">SEP_8_ON</replace>
+<replace find="OFF">SEP_8_OFF</replace>
+</visiobas>
+</g>
+<!-- sepam9-->
+<g id="sepam" transform="translate(247,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">1Q1</replace>
+<replace find="EC_NAME">РЕЗЕРВ</replace>
+<replace find="CURRENT1">SEP_9_CUR1</replace>
+<replace find="CURRENT2">SEP_9_CUR2</replace>
+<replace find="CURRENT3">SEP_9_CUR3</replace>
+     
+<replace find="ON">SEP_9_ON</replace>
+<replace find="OFF">SEP_9_OFF</replace>
+</visiobas>
+</g>
+<!-- sepam5-->
+<g id="sepam" transform="translate(651,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">2Q4</replace>
+<replace find="EC_NAME">СВ</replace>
+<replace find="CURRENT1">SEP_5_CUR1</replace>
+<replace find="CURRENT2">SEP_5_CUR2</replace>
+<replace find="CURRENT3">SEP_5_CUR3</replace>
+      
+<replace find="ON">SEP_5_ON</replace>
+<replace find="OFF">SEP_5_OFF</replace>
+</visiobas>
+</g>
+<!-- sepam4-->
+<g id="sepam" transform="translate(752,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">2Q3</replace>
+<replace find="EC_NAME">TР-ОР №1</replace>
+<replace find="CURRENT1">SEP_4_CUR1</replace>
+<replace find="CURRENT2">SEP_4_CUR2</replace>
+<replace find="CURRENT3">SEP_4_CUR3</replace>
+<replace find="VOLTAGE">SEP_4_VOLT</replace> 
+<replace find="FREQUENCY">SEP_4_FREQ</replace>  
+
+<replace find="ON">SEP_4_ON</replace>
+<replace find="OFF">SEP_4_OFF</replace>
+</visiobas>
+</g>
+<!-- sepam3-->
+<g id="sepam" transform="translate(852,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">2Q2</replace>
+<replace find="EC_NAME">ВВОД №1</replace>
+<replace find="CURRENT1">SEP_3_CUR1</replace>
+<replace find="CURRENT2">SEP_3_CUR2</replace>
+<replace find="CURRENT3">SEP_3_CUR3</replace>
+       
+<replace find="ON">SEP_3_ON</replace>
+<replace find="OFF">SEP_3_OFF</replace>
+</visiobas>
+</g>
+<!-- sepam2-->
+<g id="sepam" transform="translate(952,158)">
+<visiobas src="../svg/svg-element/TP/SEPAM.svg">
+<replace find="QF_NAME">2Q1</replace>
+<replace find="EC_NAME">ОТХ.ЛИНИЯ</replace>
+<replace find="CURRENT1">SEP_2_CUR1</replace>
+<replace find="CURRENT2">SEP_2_CUR2</replace>
+<replace find="CURRENT3">SEP_2_CUR3</replace>
+      
+<replace find="ON">SEP_2_ON</replace>
+<replace find="OFF">SEP_2_OFF</replace>
+</visiobas>
+</g>
+<!-- COUNTER2-->
+<g id="sepam" transform="translate(177,280)">
+<visiobas src="../svg/svg-element/TP/COUNTER.svg">
+
+</visiobas>
+</g>
+<!-- COUNTER1-->
+<g id="sepam" transform="translate(1058,280)">
+<visiobas src="../svg/svg-element/TP/COUNTER.svg">
+
+</visiobas>
+</g>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="340" height="200" viewBox="0 0 340 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+        #tempult
+        {
+        	font-family: "Antonio-Regular";
+			font-style: normal;
+			font-weight: normal;
+			font-size: 200px;
+			text-align: center;
+        }
+   	</style>
+<g id="tempult" class="fault" format="%.1f" reference="SEN-TEXST">
+<text x="50%" y="95%" text-anchor="middle">...</text>
+</g>
+</svg>

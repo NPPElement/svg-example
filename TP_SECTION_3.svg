@@ -1,0 +1,96 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/tp_section_3.svg"></visiobas>
+	</g>
+
+<!--Trends-->
+<g class='graph' transform='translate(840,110)' gr-width="400" gr-height='300' id='gr_chartist'></g>
+
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_1.svg" transform="translate(38,522)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 1</replace>
+</visiobas>
+</g>
+<!--reference-->
+<g class="reference" reference="../svg/TP_SECTION_2.svg" transform="translate(1127,522)">
+<visiobas src="../svg/svg-element/TP/HREF.svg">
+<replace find="SVG_FILE">Секция 2</replace>
+</visiobas>
+</g>
+
+<g class='trendlog'>
+<!-- QF_7 -->
+	<g id="QF_FULL" transform="translate(384,248)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
+        <replace find="QF_NAME">QF7</replace>
+           </visiobas>
+	</g>
+<!-- QF_8 -->
+	<g id="QF_FULL" transform="translate(623,248)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
+        <replace find="QF_NAME">QF8</replace>
+           </visiobas>
+	</g>
+<!-- QF_5 -->
+	<g id="QF_FULL" transform="translate(496,416)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
+        <replace find="QF_NAME">QF5</replace>
+         <replace find="CURRENT1">QF5_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF5_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF5_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF5_VOLTAGE</replace>
+        
+        <replace find="ALARM">QF5_ALARM</replace>
+        <replace find="ON">QF5_ON</replace>
+        <replace find="OFF">QF5_OFF</replace>
+          	              	    	</visiobas>
+           
+	</g>
+<!-- QF_6 -->
+	<g id="QF_FULL" transform="translate(735,416)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
+        <replace find="QF_NAME">QF6</replace>
+        <replace find="CURRENT1">QF6_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF6_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF6_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF6_VOLTAGE</replace>
+       
+        <replace find="ALARM">QF6_ALARM</replace>
+        <replace find="ON">QF6_ON</replace>
+        <replace find="OFF">QF6_OFF</replace>
+           </visiobas>
+	</g>
+<!-- QF_4-->
+	<g id="QF_FULL" transform="translate(898,450)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_R.svg">
+        <replace find="QF_NAME">QF4</replace>
+        <replace find="CURRENT1">QF4_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF4_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF4_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF4_VOLTAGE</replace>
+        
+        <replace find="ALARM">QF4_ALARM</replace>
+        <replace find="ON">QF4_ON</replace>
+        <replace find="OFF">QF4_OFF</replace>
+           </visiobas>
+	</g>
+<!-- QF_3-->
+	<g id="QF_FULL" transform="translate(208,452)">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_L.svg">
+        <replace find="QF_NAME">QF3</replace>
+        <replace find="CURRENT1">QF3_L1_CURRENT</replace>
+        <replace find="CURRENT2">QF3_L2_CURRENT</replace>
+        <replace find="CURRENT3">QF3_L3_CURRENT</replace>
+         <replace find="VOLTAGE2">QF3_VOLTAGE</replace>
+        
+        <replace find="ALARM">QF3_ALARM</replace>
+        <replace find="ON">QF3_ON</replace>
+        <replace find="OFF">QF3_OFF</replace>
+           </visiobas>
+	</g>
+</g>
+</svg>

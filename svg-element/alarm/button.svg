@@ -1,0 +1,10 @@
+<svg width="223" height="50" viewBox="0 0 223 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g class="fault inactive" reference="ALARM-BUTTON">
+	<g class="animation-fail">
+		<path id="Button_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 8C0 3.58172 3.58172 0 8 0H215C219.418 0 223 3.58172 223 8V42C223 46.4183 219.418 50 215 50H8C3.58172 50 0 46.4183 0 42V8Z" fill="#FF0000"/>
+		<text id="Directions" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF UI Display" font-size="17" font-weight="600" letter-spacing="-0.0241176em" text-anchor="middle"><tspan x="111.5" y="20.8994">{%W1%}</tspan></text>
+		<text id="6 min drive" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF UI Display" font-size="15" letter-spacing="-0.016em"><tspan x="111.5" y="38.2822" text-anchor="middle">{%W2%}</tspan></text>
+		
+	</g>
+</g>
+</svg>

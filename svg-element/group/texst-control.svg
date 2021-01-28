@@ -1,0 +1,15 @@
+<svg width="88" height="80" viewBox="0 0 88 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+        #SEN
+        {
+        	font-family: "Antonio-Regular";
+			font-style: normal;
+			font-weight: normal;
+			font-size: 36px;
+			text-align: center;
+        }
+   	</style>
+<g id="SEN" class="click fault" format="%.1f" reference="TEXST-CONTROL">
+<text x="50%" y="50%" text-anchor="middle">...</text>
+</g>
+</svg>

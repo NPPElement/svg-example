@@ -1,0 +1,23 @@
+<svg width="23" height="32" viewBox="0 0 23 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g class="fault inactive" reference="GS">
+<g id="Group">
+<g id="Subtract" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.7071 0L10.7437 0V4.37929H4V18.9769H10.7437V23.3562V23.8428H11.7071V23.3562V18.9769H18.4508V4.37929H11.7071V0ZM17.4917 5.34499H4.96766V17.9963H17.4917V5.34499Z"/>
+</g>
+</g>
+<g class="animation-display">
+<rect id="Rectangle 3" x="5.94922" y="6.33008" width="10.5972" height="10.7049" fill="#E646E6"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="22.4508" height="31.8428" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

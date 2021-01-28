@@ -1,0 +1,18 @@
+<svg width="78" height="77" viewBox="0 0 78 77" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+        #senout
+        {
+        	font-family: "Antonio-Regular";
+			font-style: normal;
+			font-weight: normal;
+			font-size: 18px;
+			text-align: center;
+        }
+   	</style>
+<g>
+<g id="senout" class="fault" format="%.1f" reference="SEN-T-OUT">
+<text x="50%" y="33" text-anchor="middle">...</text>
+</g>
+
+</g>
+</svg>

@@ -1,0 +1,158 @@
+<svg width="56" height="40" viewBox="0 0 56 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="on-off">
+<g id="INACTIVE">
+<g id="13">
+<rect id="Rectangle 2.1" x="52" y="35.999" width="48" height="32" rx="5" transform="rotate(180 52 35.999)" fill="url(#FON-paint0_linear)"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M6.83691 19.9191C6.83691 26.9132 12.5068 32.583 19.5009 32.583H35.8414C42.8356 32.583 48.5054 26.9132 48.5054 19.9191V19.9191C48.5054 12.9249 42.8356 7.2551 35.8415 7.2551L19.5009 7.2551C12.5068 7.2551 6.83691 12.9249 6.83691 19.9191V19.9191Z" fill="url(#FON-paint1_linear)"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M46.3311 19.9178C46.3311 13.723 41.3092 8.70117 35.1144 8.70117H20.6413C14.4465 8.70117 9.42468 13.723 9.42468 19.9178V19.9178C9.42468 26.1126 14.4465 31.1345 20.6413 31.1345H35.1144C41.3092 31.1345 46.3311 26.1126 46.3311 19.9178V19.9178Z" fill="#007AFF"/>
+</g>
+<g id="12">
+<g id="Oval" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.5 27C24.3579 27 21 23.6421 21 19.5C21 15.3579 24.3579 12 28.5 12C32.6421 12 36 15.3579 36 19.5C36 23.6421 32.6421 27 28.5 27Z" fill="#E5E5E5"/>
+</g>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M28.5 26.25C24.7721 26.25 21.75 23.2279 21.75 19.5C21.75 15.7721 24.7721 12.75 28.5 12.75C32.2279 12.75 35.25 15.7721 35.25 19.5C35.25 23.2279 32.2279 26.25 28.5 26.25Z" fill="white"/>
+</g>
+<g id="11">
+<path id="flage" d="M36.0979 17.7402C36.0979 16.7637 36.2737 16.0931 36.6253 15.7285C36.902 15.4421 37.304 15.2988 37.8313 15.2988C38.5996 15.2988 39.0911 15.6146 39.3059 16.2461C39.4329 16.6204 39.4964 17.1185 39.4964 17.7402V21.5293C39.4964 22.4245 39.371 23.0771 39.1204 23.4873C38.8697 23.8942 38.4303 24.0977 37.802 24.0977C37.177 24.0977 36.7359 23.8926 36.4788 23.4824C36.2249 23.0723 36.0979 22.4212 36.0979 21.5293V17.7402ZM38.4856 17.6816C38.4856 17.1315 38.4417 16.7425 38.3538 16.5146C38.2659 16.2835 38.0885 16.168 37.8216 16.168C37.5546 16.168 37.3691 16.2852 37.2649 16.5195C37.1607 16.7539 37.1087 17.1396 37.1087 17.6768V21.5391C37.1087 22.1934 37.1542 22.6393 37.2454 22.877C37.3365 23.1113 37.5204 23.2285 37.7971 23.2285C38.0738 23.2285 38.2578 23.1097 38.3489 22.8721C38.44 22.6312 38.4856 22.1868 38.4856 21.5391V17.6816ZM43.4563 15.4062H44.3499V24H43.6077L41.679 18.1016L41.7376 20.2695V24H40.805V15.4062H41.5667L43.5589 21.2559L43.4563 18.7705V15.4062Z" fill="white"/>
+<path id="flage_2" d="M9.93093 17.7402C9.93093 16.7637 10.1067 16.0931 10.4583 15.7285C10.735 15.4421 11.137 15.2988 11.6643 15.2988C12.4326 15.2988 12.9241 15.6146 13.1389 16.2461C13.2659 16.6204 13.3294 17.1185 13.3294 17.7402V21.5293C13.3294 22.4245 13.204 23.0771 12.9534 23.4873C12.7027 23.8942 12.2633 24.0977 11.635 24.0977C11.01 24.0977 10.569 23.8926 10.3118 23.4824C10.0579 23.0723 9.93093 22.4212 9.93093 21.5293V17.7402ZM12.3186 17.6816C12.3186 17.1315 12.2747 16.7425 12.1868 16.5146C12.0989 16.2835 11.9215 16.168 11.6546 16.168C11.3876 16.168 11.2021 16.2852 11.0979 16.5195C10.9938 16.7539 10.9417 17.1396 10.9417 17.6768V21.5391C10.9417 22.1934 10.9872 22.6393 11.0784 22.877C11.1695 23.1113 11.3535 23.2285 11.6301 23.2285C11.9068 23.2285 12.0908 23.1097 12.1819 22.8721C12.2731 22.6312 12.3186 22.1868 12.3186 21.5391V17.6816ZM14.6331 15.4062H17.221V16.251H15.6389V18.9658H17.1233V19.8203H15.6389V24H14.6331V15.4062ZM18.2757 15.4062H20.8635V16.251H19.2815V18.9658H20.7659V19.8203H19.2815V24H18.2757V15.4062Z" fill="#5B5B5F"/>
+</g>
+</g>
+<g id="fon">
+<g id="FLAGE">
+<rect id="Rectangle 2.1_2" y="40" width="4" height="28" rx="2" transform="rotate(-90 0 40)" fill="white"/>
+<rect id="Rectangle 2.4" y="4" width="4" height="28" rx="2" transform="rotate(-90 0 4)" fill="white"/>
+<rect id="Rectangle 2.3" width="4" height="40" rx="2" fill="white"/>
+<rect id="Rectangle 3" x="26" width="2" height="4" fill="white"/>
+<rect id="Rectangle 3.1" x="26" y="36" width="2" height="4" fill="white"/>
+<path id="Rectangle 4" d="M4 4H9C9 4 7.04738 4.28595 5.66667 5.66667C4.28595 7.04738 4 9 4 9V4Z" fill="white"/>
+<path id="Rectangle 4.1" d="M4 36L4 31C4 31 4.29412 33.388 5.71429 34.5714C7.13445 35.7549 10 36 10 36H4Z" fill="white"/>
+</g>
+<g id="FLAGE_2">
+<rect id="Rectangle 3_2" x="28" width="2" height="4" fill="white"/>
+<rect id="Rectangle 3.1_2" x="28" y="36" width="2" height="4" fill="white"/>
+<rect id="Rectangle 2.3_2" x="52" width="4" height="40" rx="2" fill="white"/>
+<rect id="Rectangle 2.1_3" x="28" y="40" width="4" height="28" rx="2" transform="rotate(-90 28 40)" fill="white"/>
+<rect id="Rectangle 2.4_2" x="28" y="4" width="4" height="28" rx="2" transform="rotate(-90 28 4)" fill="white"/>
+<path id="Rectangle 4_2" d="M52 4V9C52 9 51.714 6.61204 50.3333 5.42857C48.9526 4.2451 47 4 47 4L52 4Z" fill="white"/>
+<path id="Rectangle 4.1_2" d="M52 36H46C46 36 48.8656 35.7549 50.2857 34.5714C51.7059 33.388 52 31 52 31V36Z" fill="white"/>
+</g>
+</g>
+<g class="fault inactive" reference="OFF">
+	<g class="animation-display">
+<rect id="Rectangle 2" x="4" y="4" width="48" height="32" rx="5" fill="url(#FON-paint2_linear)"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M48.5059 19.9188C48.5059 12.9247 42.836 7.25488 35.8419 7.25488H19.5013C12.5072 7.25488 6.83737 12.9247 6.83737 19.9188C6.83737 26.9129 12.5072 32.5828 19.5013 32.5828H35.8419C42.836 32.5828 48.5059 26.9129 48.5059 19.9188Z" fill="url(#FON-paint3_linear)"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M46.3311 19.9178C46.3311 13.723 41.3092 8.70117 35.1144 8.70117H20.6413C14.4465 8.70117 9.42468 13.723 9.42468 19.9178C9.42468 26.1126 14.4465 31.1345 20.6413 31.1345H35.1144C41.3092 31.1345 46.3311 26.1126 46.3311 19.9178Z" fill="white"/>
+<g id="Group">
+<g id="Oval_3" filter="url(#filter1_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21 30C15.4772 30 11 25.5228 11 20C11 14.4772 15.4772 10 21 10C26.5228 10 31 14.4772 31 20C31 25.5228 26.5228 30 21 30Z" fill="#E5E5E5"/>
+</g>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M21 29C16.0294 29 12 24.9706 12 20C12 15.0294 16.0294 11 21 11C25.9706 11 30 15.0294 30 20C30 24.9706 25.9706 29 21 29Z" fill="white"/>
+</g>
+<path id="flage_3" d="M33.4456 18.376C33.4456 17.3994 33.6214 16.7288 33.9729 16.3643C34.2496 16.0778 34.6516 15.9346 35.179 15.9346C35.9472 15.9346 36.4387 16.2503 36.6536 16.8818C36.7805 17.2562 36.844 17.7542 36.844 18.376V22.165C36.844 23.0602 36.7187 23.7129 36.468 24.123C36.2174 24.5299 35.7779 24.7334 35.1497 24.7334C34.5247 24.7334 34.0836 24.5283 33.8264 24.1182C33.5725 23.708 33.4456 23.057 33.4456 22.165V18.376ZM35.8333 18.3174C35.8333 17.7673 35.7893 17.3783 35.7014 17.1504C35.6135 16.9193 35.4361 16.8037 35.1692 16.8037C34.9023 16.8037 34.7167 16.9209 34.6126 17.1553C34.5084 17.3896 34.4563 17.7754 34.4563 18.3125V22.1748C34.4563 22.8291 34.5019 23.2751 34.593 23.5127C34.6842 23.7471 34.8681 23.8643 35.1448 23.8643C35.4215 23.8643 35.6054 23.7454 35.6966 23.5078C35.7877 23.2669 35.8333 22.8226 35.8333 22.1748V18.3174ZM38.1477 16.042H40.7356V16.8867H39.1536V19.6016H40.638V20.4561H39.1536V24.6357H38.1477V16.042ZM41.7903 16.042H44.3782V16.8867H42.7962V19.6016H44.2805V20.4561H42.7962V24.6357H41.7903V16.042Z" fill="#5B5B5F"/>
+<g id="FLAGE_3">
+<rect id="Rectangle 2.1_4" y="40" width="4" height="28" rx="2" transform="rotate(-90 0 40)"/>
+<rect id="Rectangle 2.4_3" y="4" width="4" height="28" rx="2" transform="rotate(-90 0 4)"/>
+<rect id="Rectangle 2.3_3" width="4" height="40" rx="2"/>
+<rect id="Rectangle 3_3" x="26" width="2" height="4"/>
+<rect id="Rectangle 3.1_3" x="26" y="36" width="2" height="4"/>
+<path id="Rectangle 4_3" d="M4 4H9C9 4 7.04738 4.28595 5.66667 5.66667C4.28595 7.04738 4 9 4 9V4Z"/>
+<path id="Rectangle 4.1_3" d="M4 36L4 31C4 31 4.29412 33.388 5.71429 34.5714C7.13445 35.7549 10 36 10 36H4Z"/>
+</g>
+</g>
+</g>
+<g class="click fault inactive" reference="OFF">
+<rect id="Rectangle" opacity="0.01" width="28" height="40" fill="#C4C4C4"/>
+</g>
+<g class="fault inactive" reference="ON">
+	<g class="animation-display">
+<rect id="Rectangle 2_2" x="52" y="35.999" width="48" height="32" rx="5" transform="rotate(180 52 35.999)" fill="url(#FON-paint4_linear)"/>
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M6.83691 19.9191C6.83691 26.9132 12.5068 32.583 19.5009 32.583H35.8414C42.8356 32.583 48.5054 26.9132 48.5054 19.9191C48.5054 12.9249 42.8356 7.2551 35.8415 7.2551L19.5009 7.2551C12.5068 7.2551 6.83691 12.9249 6.83691 19.9191Z" fill="url(#FON-paint5_linear)"/>
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M46.3311 19.9178C46.3311 13.723 41.3092 8.70117 35.1144 8.70117H20.6413C14.4465 8.70117 9.42468 13.723 9.42468 19.9178C9.42468 26.1126 14.4465 31.1345 20.6413 31.1345H35.1144C41.3092 31.1345 46.3311 26.1126 46.3311 19.9178Z" fill="#007AFF"/>
+<g id="Group_2">
+<g id="Oval_5" filter="url(#filter2_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35 30C29.4772 30 25 25.5228 25 20C25 14.4772 29.4772 10 35 10C40.5228 10 45 14.4772 45 20C45 25.5228 40.5228 30 35 30Z" fill="#E5E5E5"/>
+</g>
+<path id="Oval_6" fill-rule="evenodd" clip-rule="evenodd" d="M35 29C30.0294 29 26 24.9706 26 20C26 15.0294 30.0294 11 35 11C39.9706 11 44 15.0294 44 20C44 24.9706 39.9706 29 35 29Z" fill="white"/>
+</g>
+<path id="flage_4" d="M14.0061 18.376C14.0061 17.3994 14.1819 16.7288 14.5335 16.3643C14.8102 16.0778 15.2122 15.9346 15.7395 15.9346C16.5078 15.9346 16.9993 16.2503 17.2141 16.8818C17.3411 17.2562 17.4046 17.7542 17.4046 18.376V22.165C17.4046 23.0602 17.2792 23.7129 17.0286 24.123C16.7779 24.5299 16.3385 24.7334 15.7102 24.7334C15.0852 24.7334 14.6441 24.5283 14.387 24.1182C14.1331 23.708 14.0061 23.057 14.0061 22.165V18.376ZM16.3938 18.3174C16.3938 17.7673 16.3499 17.3783 16.262 17.1504C16.1741 16.9193 15.9967 16.8037 15.7298 16.8037C15.4628 16.8037 15.2773 16.9209 15.1731 17.1553C15.069 17.3896 15.0169 17.7754 15.0169 18.3125V22.1748C15.0169 22.8291 15.0624 23.2751 15.1536 23.5127C15.2447 23.7471 15.4287 23.8643 15.7053 23.8643C15.982 23.8643 16.166 23.7454 16.2571 23.5078C16.3482 23.2669 16.3938 22.8226 16.3938 22.1748V18.3174ZM21.3645 16.042H22.2581V24.6357H21.5159L19.5872 18.7373L19.6458 20.9053V24.6357H18.7132V16.042H19.4749L21.4671 21.8916L21.3645 19.4062V16.042Z" fill="white"/>
+<g id="FLAGE_4">
+<rect id="Rectangle 3_4" x="28" width="2" height="4"/>
+<rect id="Rectangle 3.1_4" x="28" y="36" width="2" height="4"/>
+<rect id="Rectangle 2.3_4" x="52" width="4" height="40" rx="2"/>
+<rect id="Rectangle 2.1_5" x="28" y="40" width="4" height="28" rx="2" transform="rotate(-90 28 40)"/>
+<rect id="Rectangle 2.4_4" x="28" y="4" width="4" height="28" rx="2" transform="rotate(-90 28 4)"/>
+<path id="Rectangle 4_4" d="M52 4V9C52 9 51.714 6.61204 50.3333 5.42857C48.9526 4.2451 47 4 47 4L52 4Z"/>
+<path id="Rectangle 4.1_4" d="M52 36H46C46 36 48.8656 35.7549 50.2857 34.5714C51.7059 33.388 52 31 52 31V36Z"/>
+</g>
+</g>
+</g>
+<g class="click fault inactive" reference="ON">
+<rect id="onn" x="28" opacity="0.01" width="28" height="40" fill="#C4C4C4"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="19" y="12" width="19" height="19" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="9" y="10" width="24" height="24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="23" y="10" width="24" height="24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="FON-paint0_linear" x1="49.758" y1="52.0308" x2="107.064" y2="52.0308" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+<linearGradient id="FON-paint1_linear" x1="4.89068" y1="19.8939" x2="54.6373" y2="19.8939" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+<linearGradient id="FON-paint2_linear" x1="1.75804" y1="20.0317" x2="59.0636" y2="20.0317" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+<linearGradient id="FON-paint3_linear" x1="50.4521" y1="19.944" x2="0.705482" y2="19.944" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+<linearGradient id="FON-paint4_linear" x1="49.758" y1="52.0308" x2="107.064" y2="52.0308" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+<linearGradient id="FON-paint5_linear" x1="4.89068" y1="19.8939" x2="54.6373" y2="19.8939" gradientUnits="userSpaceOnUse">
+<stop offset="0.1537" stop-color="white"/>
+<stop offset="0.3915" stop-color="#F6F6F8"/>
+<stop offset="0.77" stop-color="#DFDFE6"/>
+<stop offset="1" stop-color="#CECED9"/>
+</linearGradient>
+</defs>
+</svg>

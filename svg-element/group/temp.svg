@@ -1,0 +1,17 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+        #TEM
+        {
+        	font-family: "Antonio-Regular";
+			font-style: normal;
+			font-weight: normal;
+			font-size: 18px;
+			text-align: center;
+        }
+   	</style>
+<g id="TEM" class="click fault" format="%.1f" reference="TEMP">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M50 25C50 38.8071 38.8071 50 25 50C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0C38.8071 0 50 11.1929 50 25ZM46.682 24.9991C46.682 36.9747 36.9739 46.6828 24.9983 46.6828C13.0227 46.6828 3.31462 36.9747 3.31462 24.9991C3.31462 13.0235 13.0227 3.31543 24.9983 3.31543C36.9739 3.31543 46.682 13.0235 46.682 24.9991Z"/>
+
+		<text x="50%" y="30" text-anchor="middle">...</text>
+</g>
+</svg>

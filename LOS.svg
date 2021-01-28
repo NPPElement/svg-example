@@ -1,0 +1,160 @@
+﻿<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/los.svg"></visiobas>
+	</g>
+<!-- Насос  Н-1-->
+	<g id="PUMP-N1" transform="translate(220,183)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
+    		<replace find="PUMP-FECAL-STATUS">LOS_N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N1-ALARM</replace>
+        	<replace find="HAND-PUMP-FECAL">LOS_N1-HAND-MODE</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N1-OVERTEMP</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N1-OVERLOAD</replace>
+           	</visiobas>
+	</g>
+<!-- Насос  Н-2-->
+	<g id="PUMP-N2" transform="translate(284,183)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
+    		<replace find="PUMP-FECAL-STATUS">LOS_N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N2-ALARM</replace>
+        	<replace find="HAND-PUMP-FECAL">LOS_N2-HAND-MODE</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N2-OVERTEMP</replace>
+        	<replace find="ALARM-PUMP-FECAL">LOS_N2-OVERLOAD</replace>
+           	</visiobas>
+	</g>
+<!-- Насос  Н-6-->
+	<g id="PUMP-N6" transform="translate(128,183)">
+		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
+   
+        
+           	</visiobas>
+	</g>
+<!-- Насос фильтров Н-3-->
+	<g id="PUMP-N3" transform="translate(274,460)">
+		<visiobas src="../svg/svg-element/pump/pump-t.svg">
+    		<replace find="PUMP-T-STATUS">LOS_N3-STATUS</replace>
+        	<replace find="ALARM-PUMP-T">LOS_N3-ALARM</replace>
+    	</visiobas>
+	</g>
+<!-- Насос фильтров Н-4-->
+	<g id="PUMP-N4" transform="translate(326,460)">
+		<visiobas src="../svg/svg-element/pump/pump-t.svg">
+    		<replace find="PUMP-T-STATUS">LOS_N4-STATUS</replace>
+        	<replace find="ALARM-PUMP-T">LOS_N4-ALARM</replace>
+    	</visiobas>
+	</g>
+<!-- UFO-1-->
+	<g id="UFO-1" transform="translate(370,580)">
+		<visiobas src="../svg/svg-element/ufo/ufo.svg">
+        <replace find="CONTROL-UFO">LOS_UFO-1-START</replace>
+         <replace find="ALARM-UFO">LOS_UFO-1-ALARM</replace>
+        <replace find="STATUS-UFO">LOS_UFO-1-READY</replace>
+    		    	</visiobas>
+	</g>
+<!-- UFO-2-->
+	<g id="UFO-2" transform="translate(455,580)">
+		<visiobas src="../svg/svg-element/ufo/ufo.svg">
+        <replace find="CONTROL-UFO">LOS_UFO-2-START</replace>
+         <replace find="ALARM-UFO">LOS_UFO-2-ALARM</replace>
+        <replace find="STATUS-UFO">LOS_UFO-2-READY</replace>
+    		    	</visiobas>
+	</g>
+<!-- Насос MPC Н-7-->
+	<g id="PUMP-N7" transform="translate(82,286)">
+		<visiobas src="../svg/svg-element/pump/pump-r.svg">
+            	<replace find="ALARM-PUMP-R">LOS_MPC-ALARM</replace>
+    	</visiobas>
+	</g>
+<!-- Насос MPC Н-8-->
+	<g id="PUMP-N8" transform="translate(82,328)">
+		<visiobas src="../svg/svg-element/pump/pump-r.svg">
+            	<replace find="ALARM-PUMP-R">LOS_MPC-ALARM</replace>
+    	</visiobas>
+	</g>
+<!-- Насос MPC Н-9-->
+	<g id="PUMP-N9" transform="translate(82,370)">
+		<visiobas src="../svg/svg-element/pump/pump-r.svg">
+            	<replace find="ALARM-PUMP-R">LOS_MPC-ALARM</replace>
+    	</visiobas>
+	</g>
+<!-- Насос MPC PE-->
+	<g id="MPC-PE" transform="translate(234,350)">
+		<visiobas src="../svg/svg-element/sen/sen-rr.svg">
+            	<replace find="SEN-RR">LOS_MPC-PRESS</replace>
+    	</visiobas>
+	</g>
+<!-- УПРАВЛЕНИЕ MPC-->
+	<g id="MPC-CONTROL" transform="translate(24,330)">
+		<visiobas src="../svg/svg-element/control/control-min.svg">
+            	<replace find="CONTROL-MIN">LOS_MPC-CONTROL</replace>
+    	</visiobas>
+	</g>
+<!-- УПРАВЛЕНИЕ ФНП-->
+	<g id="FNP-CONTROL" transform="translate(800,40)">
+		<visiobas src="../svg/svg-element/control/control-min.svg">
+            	<replace find="CONTROL-MIN">LOS_FNP</replace>
+    	</visiobas>
+	</g>
+
+
+<!-- ДОЗАТОР -->
+	<g id="DOSE1" transform="translate(455,244)">
+		<visiobas src="../svg/svg-element/vent/spen.svg">
+                	</visiobas>
+	</g>
+	<g id="DOSE2" transform="translate(531,244)">
+		<visiobas src="../svg/svg-element/vent/spen.svg">
+                	</visiobas>
+	</g>
+<!-- КОМПРЕССОРЫ -->
+	<g id="COMP1" transform="translate(482,331)">
+		<visiobas src="../svg/svg-element/vent/spen.svg">
+                	</visiobas>
+	</g>
+	<g id="COMP2" transform="translate(482,385)">
+		<visiobas src="../svg/svg-element/vent/spen.svg">
+                	</visiobas>
+	</g>
+<!-- РАСХОДОМЕР FQI-1 -->
+	<g id="FQI-1" transform="translate(300,394)">
+		<visiobas src="../svg/svg-element/counter/qe.svg">
+            	<replace find="QE">LOS_FQI-4-ST</replace>
+                	</visiobas>
+	
+	</g>
+<!-- резервуар-1 -->
+	<g id="TANK-AK" transform="translate(38,22)">
+		<visiobas src="../svg/svg-element/water/lvl-los-ak.svg">
+            <replace find="level-3">LOS_SL3-STATUS</replace>
+        <replace find="level-2">LOS_SL2-STATUS</replace>
+                	</visiobas>
+		</g>
+<!-- текуций уровень АКК Резервуаре -->
+	<g id="LVL-AK" transform="translate(80,200)">
+		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
+            	<replace find="SEN-TEXST">LOS_DW-ACCUM-LEVEL</replace>
+                	</visiobas>
+	
+	</g>
+
+<!-- резервуар-2 -->
+	<g id="TANK-CW" transform="translate(30,440)">
+		<visiobas src="../svg/svg-element/water/lvl-los-cle.svg">
+            <replace find="level-1">LOS_SL4-STATUS</replace>
+        <replace find="level-2">LOS_SL5-STATUS</replace>
+        <replace find="level-3">LOS_SL6-STATUS</replace>
+        <replace find="level-4">LOS_SL7-STATUS</replace>
+        <replace find="level-5">LOS_SL8-STATUS</replace>
+                	</visiobas>
+		</g>
+<!-- текуций уровень Рез.оч.воды -->
+	<g id="LVL-CW" transform="translate(160,600)">
+		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
+            	<replace find="SEN-TEXST">LOS_CW-TANK-LEVEL</replace>
+                	</visiobas>
+	
+	</g>
+</svg>

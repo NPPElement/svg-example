@@ -1,0 +1,7 @@
+<svg width="128" height="43" viewBox="0 0 113 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!--основа-->
+<rect x="99" y="35" width="120" height="35" rx="3" transform="rotate(-180 109 35)" fill="#C4C4C4"/>
+<!--TEXT-->
+<text transform="translate(57,22) rotate(0)"   font-size="20px" font-family="SF Pro Display Bold" text-anchor="middle" fill="#000000">SVG_FILE</text>
+
+</svg>

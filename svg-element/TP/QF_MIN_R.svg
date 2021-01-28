@@ -1,0 +1,62 @@
+<svg width="30" height="266" viewBox="0 0 30 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!--static-->
+<rect x="30" y="147" width="30" height="11" transform="rotate(-180 30 147)" fill="#BEBEBE"/>
+<!--LINE_name-->
+<text transform="translate(15,145)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#000000">LINE_NAME</text>
+<!--EC_name-->
+<text transform="translate(21,190) rotate(270,10,10)"   font-size="16px" font-family="SF Pro Display" text-anchor="middle" fill="#BEBEBE">EC_NAME</text>
+<!--static-->
+<path d="M13 59L17 59L17 84L15 84L13 84L13 59Z" fill="#BEBEBE"/>
+<circle cx="15.3936" cy="54" r="3" fill="#505050"/>
+<!--QF_name-->
+<text transform="translate(9,75) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
+<!--CURR1-->
+<g class="fault" format="%.1f" reference="CURRENT1">
+<text x="52%" y="10" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+<!--CURR2-->
+<g class="fault" format="%.1f" reference="CURRENT1">
+<text x="52%" y="25" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+<!--CURR3-->
+<g class="fault" format="%.1f" reference="CURRENT1">
+<text x="52%" y="40" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+
+<!--OFF-->
+<g class="fault inactive" reference="OFF">
+<g class="animation-hide">
+<path d="M26 96L4 96L4 94L14 94L14 85.6531L14 85L16 85L16 85.6531L16 94L26 94L26 96Z" fill="white"/>
+<path d="M4 106L26 106L26 110L22 110L22 114L14 114L14 110L9 110L4 110L4 106Z" fill="white"/>
+<path d="M4 121L26 121L26 123.074L16 123.074L16 132.407L17 132.407L15 135L13 132.407L14 132.407L14 123.074L4 123.074L4 121Z" fill="white"/>
+</g>
+</g>
+<!--ON-->
+<g class="fault inactive" reference="ON">
+<g class="animation-display">
+<path d="M26 96L4 96L4 94L14 94L14 85.6531L14 85L16 85L16 85.6531L16 94L26 94L26 96Z" fill="#4CD964"/>
+<path d="M4 121L26 121L26 123.074L16 123.074L16 132.407L17 132.407L15 135L13 132.407L14 132.407L14 123.074L4 123.074L4 121Z" fill="#4CD964"/>
+<path d="M13 119.5L13 97.5L17 97.5L17 101.5L21 101.5L21 109.5L17 109.5L17 114.5L17 119.5L13 119.5Z" fill="#4CD964"/>
+</g>
+</g>
+<!--ALARM-->
+<g class="fault inactive" reference="ALARM">
+<g class="animation-display">
+<path d="M26 96L4 96L4 94L14 94L14 85.6531L14 85L16 85L16 85.6531L16 94L26 94L26 96Z" fill="#FF0000"/>
+<path d="M5.78643 114.449L21.3428 98.8926L24.1712 101.721L21.3428 104.549L24.1712 107.378L18.5143 113.035L15.6859 110.206L12.1504 113.742L8.61485 117.277L5.78643 114.449Z" fill="#FF0000"/>
+<path d="M4 121L26 121L26 123L16 123L16 132.407L17 132.407L15 135L13 132.407L14 132.407L14 123L4 123L4 121Z" fill="#FF0000"/>
+</g>
+</g>
+<!--fault-->
+<g class="fault inactive" >
+<g class="animation-hide">
+<g transform="translate(0,85)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 0H14V9H0V39H14V48V49H16V48V39H30V9H16V0ZM28 11.0001H1.99999V37.0001H28V11.0001Z" fill="#BEBEBE"/>
+<path d="M26 37H4V37.3871H14V48.2258H13L15 49L17 48.2258H16V37.3871H26V37Z" fill="#BEBEBE"/>
+<path d="M26 13H4V35H26V13Z" fill="white"/>
+<path d="M9.78516 20.5078H11.7891C11.918 18.832 13.043 17.7891 14.8125 17.7891C16.5586 17.7891 17.6836 18.8555 17.6836 20.3086C17.6836 21.5625 17.1562 22.3008 15.7969 23.1328C14.1914 24.0938 13.4414 25.1484 13.4531 26.6953V27.7734H15.5039V27.0117C15.5039 25.7812 15.9258 25.125 17.4141 24.2461C18.9141 23.3438 19.8633 22.043 19.8633 20.2031C19.8633 17.7891 17.8477 15.9609 14.8945 15.9609C11.6016 15.9609 9.91406 17.9766 9.78516 20.5078ZM14.4844 33.1172C15.2461 33.1172 15.8203 32.5312 15.8203 31.7812C15.8203 31.0195 15.2461 30.4453 14.4844 30.4453C13.7344 30.4453 13.1484 31.0195 13.1484 31.7812C13.1484 32.5312 13.7344 33.1172 14.4844 33.1172Z" fill="#BEBEBE"/>
+</g>
+</g>
+</g>
+
+</svg>
