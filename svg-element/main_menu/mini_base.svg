@@ -1,0 +1,6 @@
+<svg width="150" height="50" viewBox="0 0 150 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="50" rx="15" fill="#202124"/>
+<g transform='translate(75,30)'>
+<text  font-size="16px" font-family="SF Pro Display Bold" text-anchor="middle" fill="#ffffff">TEXT</text>
+</g>
+</svg>

@@ -1,0 +1,206 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/ahu_x.svg"></visiobas>
+	</g>
+<!--Trends-->
+<g class='graph' transform='translate(1100,0)' gr-width="400" gr-height='200' id='gr_chartist'></g>
+
+<g class='trendlog'>
+	<!-- vent приточка статус -->
+	<g id="VENT" transform="translate(999,452)">
+		<visiobas src="../svg/svg-element/vent/vent-p-status.svg">
+       <replace find="VENT-P-STATUS">SF_DPS_SENSOR</replace>
+    		    	</visiobas>
+    </g>
+<!-- контрол AHU !!!-->
+	<g id="CONTROL" transform="translate(1290,820)">
+		<visiobas src="../svg/svg-element/control/modeAhu.svg">
+       <replace find="MODE">MULTIPLE_T_CONTROL</replace>
+    		    	</visiobas>
+    </g>
+	<!--Авария обрыв ремня приточки-->
+    <g id="VENT-SPEED-ALARM" transform="translate(1017,470)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">SF_BB</replace>
+          </visiobas>
+	</g>
+	<!--Авария ПЧ приточки-->
+    <g id="VENT-SPEED-ALARM" transform="translate(1010,545)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">SF_VSD_FAIL</replace>
+          </visiobas>
+	</g>
+
+		<!-- vent Вытяжка статус -->
+	<g id="VENT" transform="translate(378,452)">
+		<visiobas src="../svg/svg-element/vent/vent-b-status.svg">
+       <replace find="VENT-B-STATUS">RF_DPS_SENSOR</replace>
+    		    	</visiobas>
+    </g>
+		<!--Авария обрыв ремня вытяжки-->
+    <g id="VENT-SPEED-ALARM" transform="translate(392,470)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">RF_BB</replace>
+          </visiobas>
+	</g>
+	<!--Авария ПЧ вытяжки-->
+    <g id="VENT-SPEED-ALARM" transform="translate(392,545)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">RF_VSD_FAIL</replace>
+          </visiobas>
+	</g>
+
+	
+	<!-- клапан1 ГК процент управление -->
+	<g id="TEMP_MIN" transform="translate(355,300)">
+		<visiobas src="../svg/svg-element/control/temp-min.svg">
+            <replace find="TEMP-MIN">WATER1_VLV_CONTROL</replace>
+            		    	</visiobas>
+    </g>
+	<!-- клапан2 ГК процент управление -->
+	<g id="TEMP_MIN" transform="translate(875,650)">
+		<visiobas src="../svg/svg-element/control/temp-min.svg">
+            <replace find="TEMP-MIN">WATER2_VLV_CONTROL</replace>
+            		    	</visiobas>
+    </g>
+<!--управление скоростью приточного вентилятора -->
+	<g id="TEMP_MIN2" transform="translate(1010,550)">
+		<visiobas src="../svg/svg-element/control/temp-min.svg">
+         <replace find="TEMP-MIN">SF_VSD_SPEED_CONTROL</replace>
+         		    	</visiobas>
+    </g>
+<!--управление скоростью вытяжного вентилятора -->
+	<g id="TEMP_MIN2" transform="translate(390,550)">
+		<visiobas src="../svg/svg-element/control/temp-min.svg">
+         <replace find="TEMP-MIN">RF_VSD_SPEED_CONTROL</replace>
+         		    	</visiobas>
+    </g>
+<!--статус скоростью приточного вентилятора -->
+	<g id="STATUS-VENT-SEN" transform="translate(994,400)">
+		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
+         <replace find="SEN-TEXST">SF_VSD_SPEED_STATUS</replace>
+         		    	</visiobas>
+    </g>
+<!--статус скоростью вытяжного вентилятора -->
+	<g id="STATUS-VENT-SEN" transform="translate(375,400)">
+		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
+         <replace find="SEN-TEXST">RF_VSD_SPEED_STATUS</replace>
+         		    	</visiobas>
+    </g>
+<!-- клапан1 ГК процент статус -->
+	<g id="PVALVE-STATUS" transform="translate(333,304)">
+		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
+     <replace find="PVALVE-STATUS">WATER1_VLV_POSITION</replace>
+    		    	</visiobas>
+    </g>
+
+<!-- клапан2 ГК процент статус -->
+	<g id="PVALVE-STATUS2" transform="translate(856,654)">
+		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
+     <replace find="PVALVE-STATUS">WATER2_VLV_POSITION</replace>
+    		    	</visiobas>
+    </g>
+
+
+<!-- насос1 -->
+	<g id="PUMP" transform="translate(296,260)">
+		<visiobas src="../svg/svg-element/pump/pump-t.svg">
+            <replace find="PUMP-T-STATUS">HPW1_STATUS</replace>
+      <replace find="PUMP-T">HPW1_CONTROL</replace>
+        <replace find="ALARM">BC_VENT_PUMP-ALARM-P1</replace>
+    		    	</visiobas>
+    </g>
+
+<!-- насос2 -->
+	<g id="PUMP2" transform="translate(819,550)">
+		<visiobas src="../svg/svg-element/pump/pump-t.svg">
+            <replace find="PUMP-T-STATUS">HPW2_STATUS</replace>
+      <replace find="PUMP-T">HPW2_CONTROL</replace>
+        <replace find="ALARM">BC_VENT_PUMP-ALARM-P2</replace>
+    		    	</visiobas>
+    </g>
+<!-- датчик температуры приточного воздуха -->
+	<g id="SEN-T1" transform="translate(1100,375)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+     <replace find="SEN-T">SUP_T_SENSOR</replace>
+    		    	</visiobas>
+    </g>
+<!-- датчик температуры приточного воздуха после рекуператора -->
+	<g id="SEN-T1" transform="translate(745,375)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+     <replace find="SEN-T">REC_T_SENSOR</replace>
+    		    	</visiobas>
+    </g>
+<!-- температура датчика вытяжного -->
+	<g id="SEN-T2" transform="translate(153,375)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+        <replace find="SEN-T">RET_T_SENSOR</replace>
+         		    	</visiobas>
+    </g>
+
+<!-- температура контура2 -->
+	<g id="SEN-T12" transform="translate(867,600)">
+		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
+        <replace find="SEN-TR">HEXW2_OUT_SENSOR</replace>
+         		    	</visiobas>
+    </g>
+<!-- температура контура1 -->
+	<g id="SEN-T22" transform="translate(343,260)">
+		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
+        <replace find="SEN-TR">HEXW1_OUT_SENSOR</replace>
+         		    	</visiobas>
+    </g>
+<!-- режим AHU!!!!! -->
+	<g id="MODE" transform="translate(1040,660)">
+		<visiobas src="../svg/svg-element/control/mode.svg">
+      <replace find="MODE">WINSUM_CONTROL</replace>
+    		    	</visiobas>
+    </g>
+<!-- температура AHU !!!!-->
+	<g id="TEMP" transform="translate(1110,660)">
+		<visiobas src="../svg/svg-element/control/temp.svg">
+     <replace find="TEMP">KOMFORT_T_SETPOINT</replace>
+    		    	</visiobas>
+    </g>
+<!-- контрол AHU !!!-->
+	<g id="CONTROL" transform="translate(1180,660)">
+		<visiobas src="../svg/svg-element/control/control.svg">
+       <replace find="CONTROL">START</replace>
+    		    	</visiobas>
+    </g>
+
+
+	<!--Фильтр приточки загрязнен-->
+    <g id="VENT-SPEED-ALARM" transform="translate(302,175)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">SUP_FIL_G</replace>
+          </visiobas>
+	</g>
+
+<!--Фильтр вытяжки загрязнен-->
+    <g id="VENT-SPEED-ALARM" transform="translate(942,175)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">RET_FIL_G</replace>
+          </visiobas>
+	</g>
+
+<!--Общая авария-->
+    <g id="VENT-SPEED-ALARM" transform="translate(640,75)">
+	     	<visiobas src="../svg/svg-element/alarm/alarm.svg">
+         <replace find="ALARM">FAILURE</replace>
+          </visiobas>
+	</g>
+</g>
+
+<!-- Переход вверх по меню-->
+<g class="reference" reference="../svg/MAIN_VENT.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
+			<replace find="TEXT">Меню вентиляции</replace>
+        </visiobas>
+	</g>
+</g>
+</svg>

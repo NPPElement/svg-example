@@ -158,4 +158,13 @@
 </visiobas>
 </g>
 </g>
+
+		<!-- Переход вверх по меню-->
+<g class="reference" reference="../svg/MAIN_EL.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
+			<replace find="TEXT">Меню электр.</replace>
+        </visiobas>
+	</g>
+</g>
 </svg>

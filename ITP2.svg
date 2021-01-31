@@ -1,0 +1,318 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/itp2.svg"></visiobas>
+	</g>
+<!-- Насос GVS-N1-->
+	<g id="PUMP-N1" transform="translate(768,108)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">GVS-N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">GVS-N1-ALARM</replace>
+        	<replace find="ALARM-PUMP-L">GVS-N1-OS-ALARM</replace>
+         		<replace find="PUMP-L-CONTROL">GVS-PUMPS-START</replace>
+    	</visiobas>
+	</g>
+<!-- Насос GVS-N2-->
+	<g id="PUMP-N2" transform="translate(768,152)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">GVS-N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">GVS-N2-ALARM</replace>
+        	<replace find="ALARM-PUMP-L">GVS-N2-OS-ALARM</replace>
+         		<replace find="PUMP-L-CONTROL">GVS-PUMPS-START</replace>
+    	</visiobas>
+	</g>
+<!-- перепад давления ГВС-->
+	<g id="PDS-GVS" transform="translate(760,178)">
+		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
+    	<replace find="SEN-R-STATUS">GVS-PDS</replace>
+         	</visiobas>
+	</g>
+<!-- давлениЕ ГВС-->
+	<g id="PRESS-GVS" transform="translate(920,104)">
+		<visiobas src="../svg/svg-element/sen/sen-r.svg">
+    	<replace find="SEN-R">GVS-PRESS</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА ГВС-->
+	<g id="YEMP-GVS" transform="translate(920,44)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">GVS-TEMP</replace>
+         	</visiobas>
+	</g>
+<!-- Уставка температуры ГВС -->
+	<g id="TEMP" transform="translate(870,40)">
+		<visiobas src="../svg/svg-element/control/temp.svg">
+     <replace find="TEMP">GVS-TEMP-SET</replace>
+    		    	</visiobas>
+    </g>
+<!-- клапан V1 гвс-->
+	<g id="VALVE1-GVS" transform="translate(264,112)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">GVS-VALVE1</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V12гвс-->
+	<g id="VALVE2-GVS" transform="translate(470,112)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">GVS-VALVE2</replace>
+         	</visiobas>
+	</g>
+<!-- ТП-ГЛ-N1-->
+	<g id="PUMP-N3" transform="translate(768,277)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">HF-GL-N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">HF-GL-N1-ALARM</replace>
+            <replace find="ALARM-PUMP-L">HF-GL-N1-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">HF-GL-N1-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- ТП-ГЛ-N2-->
+	<g id="PUMP-N4" transform="translate(768,321)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">HF-GL-N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">HF-GL-N2-ALARM</replace>
+               <replace find="ALARM-PUMP-L">HF-GL-N2-OS-ALARM</replace>
+               		<replace find="PUMP-L-CONTROL">HF-GL-N2-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- перепад давления ТП-ГЛ-->
+	<g id="PDS-OT-GL" transform="translate(760,347)">
+		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
+    	<replace find="SEN-R-STATUS">OT-GL-PDS</replace>
+         	</visiobas>
+	</g>
+<!-- давлениЕ ТП-ШГЛ-->
+	<g id="PRESS-GVS" transform="translate(920,273)">
+		<visiobas src="../svg/svg-element/sen/sen-r.svg">
+    	<replace find="SEN-R">HF-GL-PRESS</replace>
+         	</visiobas>
+	</g>
+
+<!-- ТЕПИЕПЕРАТУРА ТП-ГЛ-->
+	<g id="TEMP-GVS" transform="translate(786,221)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">HF-GL-TEMP</replace>
+         	</visiobas>
+	</g>
+<!-- Уставка температуры Теплый пол ГЛ -->
+	<g id="TEMP-SET-HF-GL" transform="translate(745,223)">
+		<visiobas src="../svg/svg-element/control/temp.svg">
+     <replace find="TEMP">HF-GL-TEMP-SET</replace>
+    		    	</visiobas>
+    </g>
+<!-- клапан V1 ТП-ГЛ-->
+	<g id="VALVE1-HF-GL" transform="translate(696,212)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">HF-GL-VALVE</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V2 ТП-ГЛ-->
+	<g id="VALVE1-HF-GL" transform="translate(968,398)">
+		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
+    	<replace find="VALVE-L-STATUS">HF-GL-SUBVALVE</replace>
+         	</visiobas>
+	</g>
+<!-- ВЕНТИЛЯЦИЯ-N1-->
+	<g id="PUMP-N5" transform="translate(615,445)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">VV-N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">VV-N1-ALARM</replace>
+        <replace find="ALARM-PUMP-L">VV-N1-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">VV-N1-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- ВЕНТИЛЯЦИЯ-N2-->
+	<g id="PUMP-N6" transform="translate(615,489)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">VV-N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">VV-N2-ALARM</replace>
+        <replace find="ALARM-PUMP-L">VV-N2-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">VV-N2-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- перепад давления ВЕНТ-->
+	<g id="PDS-VV" transform="translate(607,516)">
+		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
+    	<replace find="SEN-R-STATUS">VV-PDS</replace>
+         	</visiobas>
+	</g>
+<!-- давлениЕ ВЕНТ-->
+	<g id="PRESS-VV" transform="translate(800,442)">
+		<visiobas src="../svg/svg-element/sen/sen-r.svg">
+    	<replace find="SEN-R">VV-PRESS</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА ВЕНТ-->
+	<g id="TEMP-GVS" transform="translate(400,387)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">VV-TEMP</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА обратки вентиляции-->
+	<g id="TEMP-HF" transform="translate(850,442)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">VV-TEMP2</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V1 ВЕНТ-->
+	<g id="VALVE1-VV" transform="translate(470,394)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">VV-VALVE</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V2 ВЕНТ-->
+	<g id="VALVE2-VV" transform="translate(560,525)">
+		<visiobas src="../svg/svg-element/valve/valve-t-status.svg">
+    	<replace find="VALVE-T-STATUS">VV-SUBVALVE</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПЛЫЙ ПОЛ-N1-->
+	<g id="PUMP-N7" transform="translate(615,577)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">HF-N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">HF-N1-ALARM</replace>
+        <replace find="ALARM-PUMP-L">HF-N1-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">HF-N1-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- ТЕПЛЫЙ ПОЛ-N2-->
+	<g id="PUMP-N8" transform="translate(615,621)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">HF-N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">HF-N2-ALARM</replace>
+        <replace find="ALARM-PUMP-L">HF-N2-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">HF-N2-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- перепад давления ТЕПЛЫЙ ПОЛ-->
+	<g id="PDS-HF" transform="translate(607,648)">
+		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
+    	<replace find="SEN-R-STATUS">HF-PDS</replace>
+         	</visiobas>
+	</g>
+<!-- давлениЕ ТП-->
+	<g id="PRESS-HF" transform="translate(820,573)">
+		<visiobas src="../svg/svg-element/sen/sen-r.svg">
+    	<replace find="SEN-R">HF-PRESS</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА теплый пол-->
+	<g id="TEMP-HF" transform="translate(820,520)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">HF-TEMP</replace>
+         	</visiobas>
+	</g>
+<!-- Уставка температуры Теплый пол -->
+	<g id="TEMP" transform="translate(770,520)">
+		<visiobas src="../svg/svg-element/control/temp.svg">
+     <replace find="TEMP">HF-TEMP-SET</replace>
+    		    	</visiobas>
+    </g>
+<!-- клапан V1 Теплый пол-->
+	<g id="VALVE1-HF" transform="translate(355,526)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">HF-VALVE</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V2 Теплый пол-->
+	<g id="VALVE2-HF" transform="translate(547,640)">
+		<visiobas src="../svg/svg-element/valve/valve-t-status.svg">
+    	<replace find="VALVE-T-STATUS">HF-SUBVALVE</replace>
+         	</visiobas>
+	</g>
+<!-- ОТОПЛЕНИЕ-N1-->
+	<g id="PUMP-N9" transform="translate(368,277)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">OT-N1-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">OT-N1-ALARM</replace>
+        <replace find="ALARM-PUMP-L">OT-N1-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">OT-N1-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- ОТОПЛЕНИЕ-N2-->
+	<g id="PUMP-N10" transform="translate(368,321)">
+		<visiobas src="../svg/svg-element/pump/pump-l.svg">
+    	<replace find="PUMP-L-STATUS">OT-N2-STATUS</replace>
+        	<replace find="ALARM-PUMP-L">OT-N2-ALARM</replace>
+        <replace find="ALARM-PUMP-L">OT-N2-OS-ALARM</replace>
+                		<replace find="PUMP-L-CONTROL">OT-N2-H-START</replace>
+    	</visiobas>
+	</g>
+<!-- перепад давления ОТОПЛЕНИЕ-->
+	<g id="PDS-OT" transform="translate(360,348)">
+		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
+    	<replace find="SEN-R-STATUS">OT-PDS</replace>
+         	</visiobas>
+	</g>
+<!-- давлениЕ ОТОПЛЕНИЕ-->
+	<g id="PRESS-OT" transform="translate(520,272)">
+		<visiobas src="../svg/svg-element/sen/sen-r.svg">
+    	<replace find="SEN-R">OT-PRESS</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА отопление обратака-->
+	<g id="TEMP-OT2" transform="translate(305,333)">
+		<visiobas src="../svg/svg-element/sen/sen-tb.svg">
+    	<replace find="SEN-TB">OT-TEMP2</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕПИЕПЕРАТУРА отопление подача-->
+	<g id="TEMP-OT" transform="translate(325,204)">
+		<visiobas src="../svg/svg-element/sen/sen-t.svg">
+    	<replace find="SEN-T">OT-TEMP</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V1 OT-->
+	<g id="VALVE1-OT" transform="translate(500,212)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">OT-VALVE</replace>
+         	</visiobas>
+	</g>
+<!-- клапан V2 OT-->
+	<g id="VALVE2-OT" transform="translate(575,406)">
+		<visiobas src="../svg/svg-element/valve/valve-b-status.svg">
+    	<replace find="VALVE-B-STATUS">OT-SUBVALVE</replace>
+         	</visiobas>
+	</g>
+<!--НАСОС ПОДПИТКА-->
+	<g id="PUMP-N11" transform="translate(850,397)">
+		<visiobas src="../svg/svg-element/pump/pump-rmin.svg">
+    	    	<replace find="PUMP-RMIN-STATUS">HF-GL-SUBPUMP</replace>
+    	</visiobas>
+	</g>
+<!-- клапан V1 ВЕНТ-->
+	<g id="VALVE1-VV" transform="translate(470,394)">
+		<visiobas src="../svg/svg-element/valve/pvalve.svg">
+    	<replace find="PVALVE-STATUS">VV-VALVE</replace>
+         	</visiobas>
+	</g>
+<!-- ТЕМПЕРАТУРА наружного воздуха-->
+	<g id="SEN-T-OAT" transform="translate(30,70)">
+		<visiobas src="../svg/svg-element/sen/sen-t-out.svg">
+    <replace find="SEN-T-OUT">OAT</replace>
+            	</visiobas>
+	</g>
+<!-- БОЙЛЕР-01-->
+	<g id="BOIL1-STATUS" transform="translate(385,90)">
+		<visiobas src="../svg/svg-element/sen/texst-status.svg">
+    <replace find="TEXST-STATUS">OT-BOIL1-STATUS</replace>
+            	</visiobas>
+	</g>
+<!-- БОЙЛЕР-02-->
+	<g id="BOIL2-STATUS" transform="translate(550,66)">
+		<visiobas src="../svg/svg-element/sen/texst-status.svg">
+    <replace find="TEXST-STATUS">OT-BOIL2-STATUS</replace>
+            	</visiobas>
+	</g>
+	
+	<!-- Переход вверх по меню-->
+<g class="reference" reference="../svg/MAIN_HEAT.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
+			<replace find="TEXT">Меню тепл.</replace>
+        </visiobas>
+	</g>
+</g>
+</svg>

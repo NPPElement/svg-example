@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g>
+		<visiobas src="../svg/svg-schemes/mono_ef.svg"></visiobas>
+		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
+		<replace find="VENT-B-STATUS">AHU-B-STATUS1</replace>
+        <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED1</replace>
+        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS1</replace>
+        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS1</replace>
+        <replace find="STATUS-R-B">AHU-B-DPS-STATUS1</replace>
+        <replace find="VENT-B-CONTROL">AHU-B-START1</replace>
+	
+	</g>
+
+
+<!-- Переход вверх по меню-->
+<g class="reference" reference="../svg/EF.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
+			<replace find="TEXT">Все вытяжки</replace>
+        </visiobas>
+	</g>
+</g>
+
+</svg>

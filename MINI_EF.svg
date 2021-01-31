@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+
+	<!-- Схема -->
+	<g transform='translate(550,350)'>
+		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
+			<replace find="AHU-STATUS">RF-STATUS15</replace>
+		</visiobas>
+</g>
+<!-- Переход вверх по меню-->
+<g class="reference" reference="../svg/EF.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
+			<replace find="TEXT">Все вытяжки</replace>
+        </visiobas>
+	</g>
+</g>
+</svg>
