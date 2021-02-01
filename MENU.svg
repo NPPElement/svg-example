@@ -2,62 +2,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
 
 <!-- Электричество-->
-<g class="reference" reference="../svg/MAIN_EL.svg">
-    <g transform="translate(150,100)">
-		<visiobas src="../svg/svg-element/main_menu/base.svg">
-			<replace find="TEXT">Электроснабжение</replace>
+	<g class="reference" reference="../svg/MAIN_EL.svg">
+    <g transform="translate(150,200)">
+		<visiobas src="../svg/svg-element/main_menu/button_electro.svg">
+			<replace find="LABEL">Электроснабжение</replace>
         </visiobas>
 	</g>
-</g>
-
-
-<g transform="translate(160,110)">
-	<visiobas src="../svg/svg-element/main_menu/icon_electro.svg">
-       </visiobas>
-</g>
+	</g>	
 	
-	
-	
-	
-	<!-- Вентиляция-->
+		<!-- Вентиляция-->
 	
 	<g class="reference" reference="../svg/MAIN_VENT.svg">
-    <g transform="translate(750,100)">
-		<visiobas src="../svg/svg-element/main_menu/base.svg">
-			<replace find="TEXT">Вентиляция</replace>
+    <g transform="translate(750,200)">
+		<visiobas src="../svg/svg-element/main_menu/button_vent.svg">
+			<replace find="LABEL">Вентиляция</replace>
         </visiobas>
 	</g>
 	</g>
 
-	  <g transform="translate(760,110)">
-		<visiobas src="../svg/svg-element/main_menu/icon_vent.svg">
-        </visiobas>
-	</g>	
 
 		<!--Тепло-->
-		<g class="reference" reference="../svg/MAIN_HEAT.svg">
-    <g transform="translate(150,300)">
-		<visiobas src="../svg/svg-element/main_menu/base.svg">
-			<replace find="TEXT">Теплоснабжение</replace>
+	<g class="reference" reference="../svg/MAIN_HEAT.svg">
+    <g transform="translate(150,500)">
+		<visiobas src="../svg/svg-element/main_menu/button_heating.svg">
+			<replace find="LABEL">Теплоснабжение</replace>
         </visiobas>
 	</g>
-</g>
-	  <g transform="translate(160,310)">
-		<visiobas src="../svg/svg-element/main_menu/icon_heat.svg">
-        </visiobas>
 	</g>
 
 	<!-- Водоснабжение-->
 	<g class="reference" reference="../svg/MAIN_WS.svg">
-    <g transform="translate(750,300)">
-		<visiobas src="../svg/svg-element/main_menu/base.svg">
-			<replace find="TEXT">Водоснабжение</replace></replace>
+    <g transform="translate(750,500)">
+		<visiobas src="../svg/svg-element/main_menu/button_water.svg">
+			<replace find="LABEL">Водоснабжение</replace></replace>
         </visiobas>
 	</g>
-</g>
-	  <g transform="translate(760,310)">
-		<visiobas src="../svg/svg-element/main_menu/icon_water.svg">
-        </visiobas>
 	</g>
 
 </svg>

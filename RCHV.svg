@@ -219,12 +219,12 @@
     		    	</visiobas>
 	</g>
 	
-			<!-- Переход вверх по меню-->
-<g class="reference" reference="../svg/MAIN_WS.svg">
+	<!-- Переход вверх по меню-->
+	<g class="reference" reference="../svg/MAIN_WS.svg">
     <g transform="translate(0,0)">
-		<visiobas src="../svg/svg-element/main_menu/mini_base.svg">
-			<replace find="TEXT">Меню вода</replace>
+		<visiobas src="../svg/svg-element/main_menu/button_home.svg">
+			
         </visiobas>
 	</g>
-</g>
+	</g>
 </svg>
