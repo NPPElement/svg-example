@@ -84,11 +84,20 @@
     </g>
     
 	<!-- Переход вверх по меню-->
-	<g class="reference" reference="../svg/MAIN_VENT.svg">
+	<g class="reference" reference="../svg/MENU.svg">
     <g transform="translate(0,0)">
 		<visiobas src="../svg/svg-element/main_menu/button_home.svg">
 			
         </visiobas>
 	</g>
 	</g>
+				<!-- Переход вверх в корень системы-->
+	<g class="reference" reference="../svg/MAIN_VENT.svg">
+    <g transform="translate(90,0)">
+		<visiobas src="../svg/svg-element/main_menu/button_folder.svg">
+			
+        </visiobas>
+	</g>
+	</g>
 </svg>
+

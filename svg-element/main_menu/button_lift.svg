@@ -1,50 +1,9 @@
 <svg width="388" height="151" viewBox="0 0 388 151" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Group8" filter="url(#filter0_d8)">
-<g id="button8" filter="url(#filter1_b8)">
+<g id="Group">
+<g id="button" filter="url(#button)">
 <rect x="4" width="380" height="143" rx="7" fill="#202124"/>
 </g>
-<g id="Vector8" filter="url(#filter2_i8)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M90.5192 35.6346V119H116.865V35.6346H90.5192ZM57.4423 119V33.7115C57.4423 32.5577 58.1154 31.7885 59.1731 31.7885H118.5C119.558 31.7885 120.231 32.5577 120.231 33.7115V119H126.769V19H41V119H57.4423ZM49.2692 68.6154L54.2692 73.2308C54.5577 73.5192 54.6538 74.8654 53.2115 74.2885L49.2692 70.3462L44.75 74.4808L44.1731 74.2885V73.2308L49.2692 68.6154ZM49.2692 82.1731L53.2115 78.2308C54.6538 77.6538 54.5577 79 54.2692 79.3846L49.2692 83.9038L44.1731 79.3846V78.2308L44.75 78.0385L49.2692 82.1731ZM88.7885 28.9038C84.1731 28.9038 84.1731 21.7885 88.7885 21.7885C93.5 21.7885 93.5 28.9038 88.7885 28.9038ZM60.8077 35.6346V119H87.1538V35.6346H60.8077Z" fill="#BEBEBE"/>
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M90.5192 35.6346V119H116.865V35.6346H90.5192ZM57.4423 119V33.7115C57.4423 32.5577 58.1154 31.7885 59.1731 31.7885H118.5C119.558 31.7885 120.231 32.5577 120.231 33.7115V119H126.769V19H41V119H57.4423ZM49.2692 68.6154L54.2692 73.2308C54.5577 73.5192 54.6538 74.8654 53.2115 74.2885L49.2692 70.3462L44.75 74.4808L44.1731 74.2885V73.2308L49.2692 68.6154ZM49.2692 82.1731L53.2115 78.2308C54.6538 77.6538 54.5577 79 54.2692 79.3846L49.2692 83.9038L44.1731 79.3846V78.2308L44.75 78.0385L49.2692 82.1731ZM88.7885 28.9038C84.1731 28.9038 84.1731 21.7885 88.7885 21.7885C93.5 21.7885 93.5 28.9038 88.7885 28.9038ZM60.8077 35.6346V119H87.1538V35.6346H60.8077Z" fill="#BEBEBE"/>
+<text id="text" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="SF Pro Text" font-size="24" font-weight="300" letter-spacing="0em"><tspan x="223.25" y="80.0312">LABEL</tspan></text>
 </g>
-<g id="text8" filter="url(#filter3_i8)" transform='translate(-30,0)'>
-<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="SF Pro Text" font-size="24" letter-spacing="0em"><tspan x="223.25" y="80.0312">LABEL</tspan></text>
-</g>
-</g>
-<defs>
-<filter id="filter0_d8" x="0" y="0" width="388" height="151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.79 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
-<filter id="filter1_b8" x="-26.9068" y="-30.9068" width="441.814" height="204.814" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feGaussianBlur in="BackgroundImage" stdDeviation="15.4534"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
-</filter>
-<filter id="filter2_i8" x="41" y="19" width="85.7692" height="104" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
-</filter>
-<filter id="filter3_i8" x="223.695" y="62.9727" width="73.957" height="25.2109" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
-</filter>
-</defs>
 </svg>

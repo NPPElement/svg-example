@@ -35,7 +35,7 @@
 			<g class="reference" reference="../svg/EF.svg">
     <g transform="translate(750,300)">
 		<visiobas src="../svg/svg-element/main_menu/button_vent.svg">
-			<replace find="LABEL">Выт.системы</replace>
+			<replace find="LABEL">Выт. вент.</replace>
         </visiobas>
 	</g>
 	</g>
@@ -48,5 +48,16 @@
 	</g>
 	</g>
 	 
+	 <defs>
+		<filter id="button" x="0" y="0" width="388" height="151" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+		<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+		<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+		<feOffset dy="4"/>
+		<feGaussianBlur stdDeviation="2"/>
+		<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.79 0"/>
+		<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+		<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+		</filter>
+	</defs>
 
 </svg>
