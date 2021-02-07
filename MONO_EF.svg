@@ -2,15 +2,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
 
 	<!-- Схема -->
-	<g transform="translate(450,350)">
-		<visiobas src="../svg/svg-schemes/mono_ef.svg"></visiobas>
+	<g transform="translate(500,250)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-		<replace find="VENT-B-STATUS">AHU-B-STATUS1</replace>
-        <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED1</replace>
-        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS1</replace>
-        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS1</replace>
-        <replace find="STATUS-R-B">AHU-B-DPS-STATUS1</replace>
-        <replace find="VENT-B-CONTROL">AHU-B-START1</replace>
+		<replace find="VENT-B-STATUS">FAN3_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN3_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN3_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN3_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN3_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN3_SET_ON</replace>
+        <replace find="VENT-B-STATUS">FAN4_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN4_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN4_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN4_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN4_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN4_SET_ON</replace>
+        <replace find="VENT-B-STATUS">FAN2_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN2_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN2_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN2_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN2_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN2_SET_ON</replace>
+        <replace find="VENT-B-STATUS">FAN1_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN1_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN1_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN1_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN1_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN1_SET_ON</replace>
 	
 	</g>
 

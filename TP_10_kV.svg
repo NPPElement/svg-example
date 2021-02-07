@@ -54,9 +54,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q3</replace>
 <replace find="EC_NAME">ТР-ОР №2</replace>
-<replace find="CURRENT1">CELL_7_CURRENT1</replace>
-<replace find="CURRENT2">CELL_7_CURRENT2</replace>
-<replace find="CURRENT3">CELL_7_CURRENT3</replace>
+<replace find="CURRENT1">CELL_7_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_7_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_7_CURRENT_3</replace>
 <replace find="FREQUENCY">CELL_7_FREQUENCY</replace>  
 <replace find="VOLTAGE">CELL_7_VOLTAGE</replace> 
     
@@ -70,9 +70,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q2</replace>
 <replace find="EC_NAME">ВВОД №2</replace>
-<replace find="CURRENT1">CELL_8_CURRENT1</replace>
-<replace find="CURRENT2">CELL_8_CURRENT2</replace>
-<replace find="CURRENT3">CELL_8_CURRENT3</replace>
+<replace find="CURRENT1">CELL_8_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_8_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_8_CURRENT_3</replace>
       
 <replace find="ON">CELL_8_ON</replace>
 <replace find="OFF">CELL_8_OFF</replace>
@@ -83,9 +83,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q1</replace>
 <replace find="EC_NAME">РЕЗЕРВ</replace>
-<replace find="CURRENT1">CELL_9_CURRENT1</replace>
-<replace find="CURRENT2">CELL_9_CURRENT2</replace>
-<replace find="CURRENT3">CELL_9_CURRENT3</replace>
+<replace find="CURRENT1">CELL_9_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_9_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_9_CURRENT_3</replace>
      
 <replace find="ON">CELL_9_ON</replace>
 <replace find="OFF">CELL_9_OFF</replace>
@@ -96,9 +96,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q4</replace>
 <replace find="EC_NAME">СВ</replace>
-<replace find="CURRENT1">CELL_5_CURRENT1</replace>
-<replace find="CURRENT2">CELL_5_CURRENT2</replace>
-<replace find="CURRENT3">CELL_5_CURRENT3</replace>
+<replace find="CURRENT1">CELL_5_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_5_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_5_CURRENT_3</replace>
       
 <replace find="ON">CELL_5_ON</replace>
 <replace find="OFF">CELL_5_OFF</replace>
@@ -109,9 +109,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q3</replace>
 <replace find="EC_NAME">TР-ОР №1</replace>
-<replace find="CURRENT1">CELL_4_CURRENT1</replace>
-<replace find="CURRENT2">CELL_4_CURRENT2</replace>
-<replace find="CURRENT3">CELL_4_CURRENT3</replace>
+<replace find="CURRENT1">CELL_4_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_4_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_4_CURRENT_3</replace>
 <replace find="FREQUENCY">CELL_4_FREQUENCY</replace>  
 <replace find="VOLTAGE">CELL_4_VOLTAGE</replace> 
 
@@ -124,9 +124,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q2</replace>
 <replace find="EC_NAME">ВВОД №1</replace>
-<replace find="CURRENT1">CELL_3_CURRENT1</replace>
-<replace find="CURRENT2">CELL_3_CURRENT2</replace>
-<replace find="CURRENT3">CELL_3_CURRENT3</replace>
+<replace find="CURRENT1">CELL_3_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_3_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_3_CURRENT_3</replace>
        
 <replace find="ON">CELL_3_ON</replace>
 <replace find="OFF">CELL_3_OFF</replace>
@@ -137,9 +137,9 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q1</replace>
 <replace find="EC_NAME">ОТХ.ЛИНИЯ</replace>
-<replace find="CURRENT1">CELL_2_CURRENT1</replace>
-<replace find="CURRENT2">CELL_2_CURRENT2</replace>
-<replace find="CURRENT3">CELL_2_CURRENT3</replace>
+<replace find="CURRENT1">CELL_2_CURRENT_1</replace>
+<replace find="CURRENT2">CELL_2_CURRENT_2</replace>
+<replace find="CURRENT3">CELL_2_CURRENT_3</replace>
       
 <replace find="ON">CELL_2_ON</replace>
 <replace find="OFF">CELL_2_Off</replace>
@@ -148,12 +148,16 @@
 <!-- COUNTER2-->
 <g id="sepam" transform="translate(177,280)">
 <visiobas src="../svg/svg-element/TP/COUNTER.svg">
+	<replace find="A_ENERGY">122345.88</replace>
+	<replace find="R_ENERGY">9689.45</replace>
 
 </visiobas>
 </g>
 <!-- COUNTER1-->
 <g id="sepam" transform="translate(1058,280)">
 <visiobas src="../svg/svg-element/TP/COUNTER.svg">
+	<replace find="A_ENERGY">22345.78</replace>
+	<replace find="R_ENERGY">7689.61</replace>
 
 </visiobas>
 </g>

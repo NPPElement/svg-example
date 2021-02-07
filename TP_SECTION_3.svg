@@ -39,9 +39,9 @@
 	<g id="QF_FULL" transform="translate(496,416)">
 		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
         <replace find="QF_NAME">QF5</replace>
-         <replace find="CURRENT1">QF5_CURRENT1</replace>
-        <replace find="CURRENT2">QF5_CURRENT2</replace>
-        <replace find="CURRENT3">QF5_CURRENT3</replace>
+         <replace find="CURRENT1">QF5_CURRENT_1</replace>
+        <replace find="CURRENT2">QF5_CURRENT_2</replace>
+        <replace find="CURRENT3">QF5_CURRENT_3</replace>
          <replace find="VOLTAGE2">QF5_VOLTAGE</replace>
         
         <replace find="ALARM">QF5_ALARM</replace>
@@ -54,9 +54,9 @@
 	<g id="QF_FULL" transform="translate(735,416)">
 		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
         <replace find="QF_NAME">QF6</replace>
-        <replace find="CURRENT1">QF6_CURRENT1</replace>
-        <replace find="CURRENT2">QF6_CURRENT2</replace>
-        <replace find="CURRENT3">QF6_CURRENT3</replace>
+        <replace find="CURRENT1">QF6_CURRENT_1</replace>
+        <replace find="CURRENT2">QF6_CURRENT_2</replace>
+        <replace find="CURRENT3">QF6_CURRENT_3</replace>
          <replace find="VOLTAGE2">QF6_VOLTAGE</replace>
        
         <replace find="ALARM">QF6_ALARM</replace>
@@ -68,9 +68,9 @@
 	<g id="QF_FULL" transform="translate(898,450)">
 		<visiobas src="../svg/svg-element/TP/QF_MAIN_R.svg">
         <replace find="QF_NAME">QF4</replace>
-        <replace find="CURRENT1">QF4_CURRENT1</replace>
-        <replace find="CURRENT2">QF4_CURRENT2</replace>
-        <replace find="CURRENT3">QF4_CURRENT3</replace>
+        <replace find="CURRENT1">QF4_CURRENT_1</replace>
+        <replace find="CURRENT2">QF4_CURRENT_2</replace>
+        <replace find="CURRENT3">QF4_CURRENT_3</replace>
          <replace find="VOLTAGE2">QF4_VOLTAGE</replace>
         
         <replace find="ALARM">QF4_ALARM</replace>
@@ -82,9 +82,9 @@
 	<g id="QF_FULL" transform="translate(208,452)">
 		<visiobas src="../svg/svg-element/TP/QF_MAIN_L.svg">
         <replace find="QF_NAME">QF3</replace>
-        <replace find="CURRENT1">QF3_CURRENT1</replace>
-        <replace find="CURRENT2">QF3_CURRENT2</replace>
-        <replace find="CURRENT3">QF3_CURRENT3</replace>
+        <replace find="CURRENT1">QF3_CURRENT_1</replace>
+        <replace find="CURRENT2">QF3_CURRENT_2</replace>
+        <replace find="CURRENT3">QF3_CURRENT_3</replace>
          <replace find="VOLTAGE2">QF3_VOLTAGE</replace>
         
         <replace find="ALARM">QF3_ALARM</replace>

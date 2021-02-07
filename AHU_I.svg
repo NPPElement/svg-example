@@ -7,21 +7,21 @@
     <g id="SPEN" transform="translate(824,325)">
 		<visiobas src="../svg/svg-element/vent/vent-p-status.svg">
      
-        <replace find="VENT-P-STATUS">HIGH_SPEED_STATUS</replace>
+        <replace find="VENT-P-STATUS">SF_DPS</replace>
         
     </visiobas>
 	</g>
 <!--СКОРОСТЬ ВЕНТИЛЯТОРА ПРИТОЧКИ-->
     <g id="VENT-SPEED" transform="translate(824,270)">
 	     	<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">SF-SPEED</replace>
+         <replace find="SEN-TEXST">SF_SPEED</replace>
       
     </visiobas>
 	</g>
 <!-- Температура приточки-->
 	<g id="SEN-T" transform="translate(961,250)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">SUPPLY_TEMP</replace>
+     <replace find="SEN-T">SF_TEMP</replace>
     		    	</visiobas>
     </g>
 <!-- Температура приточки с улицы-->
@@ -33,19 +33,19 @@
 <!-- температура AHU -->
 	<g id="TEMP" transform="translate(1140,620)">
 		<visiobas src="../svg/svg-element/control/temp_old.svg">
-     <replace find="TEMP">USER_SET_TEMP</replace>
+     <replace find="TEMP">ROOM_TEMP_SET</replace>
     		    	</visiobas>
     </g>
 <!-- Статус Установки-->
 	<g id="TEXST" transform="translate(1070,620)">
 		<visiobas src="../svg/svg-element/sen/texst-status.svg">
- <replace find="TEXST-STATUS">UNIT-STATUS</replace>
+ <replace find="TEXST-STATUS">SYSTEM_START</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ГК -->
 	<g id="SEN-T1" transform="translate(441,420)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-     <replace find="SEN-TR">HEAT-FP-TEMP</replace>
+     <replace find="SEN-TR">TEMP_HC</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ХК -->
@@ -57,29 +57,29 @@
 <!-- клапан ГК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(430,510)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">HEAT-VALVE</replace>
+     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
     		    	</visiobas>
     </g>
 <!-- клапан ХК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(620,510)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">COOL-VALVE</replace>
+     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
     		    	</visiobas>
    </g>
 <!-- насос1 -->
 	<g id="PUMP" transform="translate(393,420)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">HPW1_STATUS</replace>
-      <replace find="PUMP-T">HPW1_CONTROL</replace>
-        <replace find="ALARM">BC_VENT_PUMP-ALARM-P1</replace>
+            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
+      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
+        <replace find="ALARM">PUMP_HC_ALARM</replace>
     		    	</visiobas>
     </g>
 <!-- насос2 -->
 	<g id="PUMP" transform="translate(583,420)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">HPW1_STATUS</replace>
-      <replace find="PUMP-T">HPW1_CONTROL</replace>
-        <replace find="ALARM">BC_VENT_PUMP-ALARM-P1</replace>
+            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
+      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
+        <replace find="ALARM">PUMP_HC_ALARM</replace>
     		    	</visiobas>
     </g>
     

@@ -9,108 +9,84 @@
 <!--В1 -->
 	<g id="VENT1" transform="translate(20,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-		<replace find="VENT-B-STATUS">AHU-B-STATUS1</replace>
-        <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED1</replace>
-        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS1</replace>
-        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS1</replace>
-        <replace find="STATUS-R-B">AHU-B-DPS-STATUS1</replace>
-        <replace find="VENT-B-CONTROL">AHU-B-START1</replace>
+		<replace find="VENT-B-STATUS">FAN1_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN1_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN1_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN1_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN1_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN1_SET_ON</replace>
          		    	</visiobas>
 	</g>
 	
 
-        		   	
- <!--общая авария вент в1-->
-	<g id="ALARM1" transform="translate(180,395)">
-		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-ALARM1</replace>
-         		    	</visiobas>
-	</g>
 <!-- авария ЗАСЛОНКИ в1-->
 	<g id="VS-ALARM1" transform="translate(45,400)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-VS-ALARM1</replace>
+		<replace find="ALARM">FAN1_SCHIBER_ALARM</replace>
          		    	</visiobas>
 	</g>
 <!--В2 -->
 <g id="VENT2" transform="translate(320,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-		<replace find="VENT-B-STATUS">AHU-B-STATUS2</replace>
-        <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED2</replace>
-        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS2</replace>
-        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS2</replace>
-        <replace find="STATUS-R-B">AHU-B-DPS-STATUS2</replace>
-        <replace find="VENT-B-CONTROL">AHU-B-START2</replace>
+			<replace find="VENT-B-STATUS">FAN2_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN2_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN2_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN2_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN2_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN2_SET_ON</replace>
          		    	</visiobas>
 	</g>
 
 
          	 	
-<!--общая авария вент в2-->
-	<g id="ALARM1" transform="translate(630,395)">
-		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-ALARM2</replace>
-         		    	</visiobas>
-	</g>
+
 <!-- авария ЗАСЛОНКИ В2-->
 		<g id="VS-ALARM1" transform="translate(495,400)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-VS-ALARM2</replace>
+		<replace find="ALARM">FAN2_SCHIBER_ALARM</replace>
          		    	</visiobas>
 	</g>
 <!--В3 -->
 		<g id="VENT3" transform="translate(620,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-		<replace find="VENT-B-STATUS">AHU-B-STATUS3</replace>
-        <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED3</replace>
-        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS3</replace>
-        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS3</replace>
-        <replace find="STATUS-R-B">AHU-B-DPS-STATUS3</replace>
-        <replace find="VENT-B-CONTROL">AHU-B-START3</replace>
+			<replace find="VENT-B-STATUS">FAN3_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN3_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN3_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN3_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN3_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN3_SET_ON</replace>
          		    	</visiobas>
 	</g>
 
 
          		
          		    	
-<!--общая авария вент В3-->
-	<g id="ALARM1" transform="translate(255,395)">
-		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-ALARM3</replace>
-         		    	</visiobas>
-	</g>
+
 <!-- авария ЗАСЛОНКИ в3-->
 	<g id="VS-ALARM1" transform="translate(950,400)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-VS-ALARM3</replace>
+		<replace find="ALARM">FAN3_SCHIBER_ALARM</replace>
          		    	</visiobas>
 	</g>
 
 <!--В5 -->
 <g id="VENT5" transform="translate(920,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-		<replace find="VENT-B-STATUS">AHU-B-STATUS5</replace>
-         <replace find="SEN-AHU-B-CONTROL">AHU-B-SSPEED5</replace>
-        <replace find="SEN-AHU-B-STATUS">AHU-B-FD-STATUS5</replace>
-        <replace find="ON-OFF-STATUS">AHU-B-VS-STATUS5</replace>
-        <replace find="STATUS-R-B">AHU-B-DPS-STATUS5</replace>
-        <replace find="VENT-B-CONTROL">AHU-B-START5</replace>
+			<replace find="VENT-B-STATUS">FAN4_STATUS</replace>
+        <replace find="SEN-AHU-B-CONTROL">FAN4_SET_SPEED</replace>
+        <replace find="SEN-AHU-B-STATUS">FAN4_SPEED</replace>
+        <replace find="ON-OFF-STATUS">FAN4_SCHIBER_STATUS</replace>
+        <replace find="STATUS-R-B">FAN4_ALARM</replace>
+        <replace find="VENT-B-CONTROL">FAN4_SET_ON</replace>
          		    	</visiobas>
 	</g>
 
 
-      		    	
-        		    	
-<!--общая авария вент B5-->
-	<g id="ALARMB5" transform="translate(630,605)">
-		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-ALARM1</replace>
-         		    	</visiobas>
-	</g>
+
 <!-- авария ЗАСЛОНКИ в5-->
 	<g id="VS-ALARM5" transform="translate(497,605)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-		<replace find="ALARM">AHU-B-VS-ALARM5</replace>
+		<replace find="ALARM">FAN4_SCHIBER_ALARM</replace>
          		    	</visiobas>
 	</g>
 
@@ -128,14 +104,14 @@
 <!--VENT9 -->
 	<g id="AHU3" transform="translate(580,90)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS9</replace>
+<replace find="AHU-STATUS">FAN5_STATUS</replace>
          		    	</visiobas>
 	</g>
 
 <!--VENT11 -->
 	<g id="AHU5" transform="translate(880,90)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS11</replace>
+<replace find="AHU-STATUS">FAN6_STATUS</replace>
          		    	</visiobas>
 	</g>
  
@@ -144,27 +120,27 @@
 <!--VENT13 -->
 	<g id="AHU7" transform="translate(280,90)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS13</replace>
+<replace find="AHU-STATUS">FAN7_STATUS</replace>
          		    	</visiobas>
 	</g>
 
 <!--VENT15 -->
 	<g id="AHU9" transform="translate(280,260)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS15</replace>
+<replace find="AHU-STATUS">FAN8_STATUS</replace>
          		    	</visiobas>
 	</g>
 
 <!--VENT17 -->
 	<g id="AHU11" transform="translate(580,260)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS17</replace>
+<replace find="AHU-STATUS">FAN9_STATUS</replace>
          		    	</visiobas>
 	</g>
 <!--VENT19 -->
 	<g id="AHU11" transform="translate(880,260)">
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-<replace find="AHU-STATUS">RF-STATUS17</replace>
+<replace find="AHU-STATUS">FAN10_STATUS</replace>
          		    	</visiobas>
 	</g>
 	
