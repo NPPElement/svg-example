@@ -4,12 +4,12 @@
 	<!-- Схема -->
 	<g transform='translate(550,350)'>
 		<visiobas src="../svg/svg-element/vent/ahu-status.svg">
-			<replace find="AHU-STATUS">FUN5_STATUS</replace>
-			<replace find="AHU-STATUS">FUN6_STATUS</replace>
-			<replace find="AHU-STATUS">FUN7_STATUS</replace>
-			<replace find="AHU-STATUS">FUN8_STATUS</replace>
-			<replace find="AHU-STATUS">FUN9_STATUS</replace>
-			<replace find="AHU-STATUS">FUN10_STATUS</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3040</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3045</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3041</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3042</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3043</replace>
+			<replace find="AHU-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR5.BI_3044</replace>
 		</visiobas>
 </g>
 	<!-- Переход вверх по меню-->

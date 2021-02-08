@@ -26,19 +26,19 @@
 <!-- temp_10kv_1 -->
 	<g id="QF_FULL" transform="translate(100,80)">
 		<visiobas src="../svg/svg-element/TP/temp.svg">
-        <replace find="TEMP">TEMP_VRU_10KV</replace>
+        <replace find="TEMP">Site:Engineering.Electricity.TP_1002.Temperature.AI_700</replace>
         </visiobas>
 	</g>
 <!-- temp_TR-1 -->
 	<g id="QF_FULL" transform="translate(800,520)">
 		<visiobas src="../svg/svg-element/TP/temp.svg">
-        <replace find="TEMP">TEMP_TR_1</replace>
+        <replace find="TEMP">Site:Engineering.Electricity.TP_1002.Temperature.AI_702</replace>
         </visiobas>
 	</g>
 <!-- temp_TR-2 -->
 	<g id="QF_FULL" transform="translate(495,520)">
 		<visiobas src="../svg/svg-element/TP/temp.svg">
-        <replace find="TEMP">TEMP_TR2</replace>
+        <replace find="TEMP">Site:Engineering.Electricity.TP_1002.Temperature.AI_703</replace>
         </visiobas>
 	</g>
 <!--Noname-->
@@ -54,14 +54,14 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q3</replace>
 <replace find="EC_NAME">ТР-ОР №2</replace>
-<replace find="CURRENT1">CELL_7_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_7_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_7_CURRENT_3</replace>
-<replace find="FREQUENCY">CELL_7_FREQUENCY</replace>  
-<replace find="VOLTAGE">CELL_7_VOLTAGE</replace> 
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.AI_24</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.AI_25</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.AI_26</replace>
+<replace find="FREQUENCY">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.AI_28</replace>  
+<replace find="VOLTAGE">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.AI_27</replace> 
     
-<replace find="ON">CELL_7_ON</replace>
-<replace find="OFF">CELL_7_OFF</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.BI_19</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_7.BI_18</replace>
 </visiobas>
 </g>
            
@@ -70,12 +70,14 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q2</replace>
 <replace find="EC_NAME">ВВОД №2</replace>
-<replace find="CURRENT1">CELL_8_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_8_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_8_CURRENT_3</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_8.AI_29</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_8.AI_30</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_8.AI_31</replace>
       
-<replace find="ON">CELL_8_ON</replace>
-<replace find="OFF">CELL_8_OFF</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_8.BI_21
+</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_8.BI_20
+</replace>
 </visiobas>
 </g>
 <!-- sepam9-->
@@ -83,12 +85,11 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">1Q1</replace>
 <replace find="EC_NAME">РЕЗЕРВ</replace>
-<replace find="CURRENT1">CELL_9_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_9_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_9_CURRENT_3</replace>
-     
-<replace find="ON">CELL_9_ON</replace>
-<replace find="OFF">CELL_9_OFF</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_9.AI_32</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_9.AI_33</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_9.AI_34</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_9.BI_22</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_9.BI_21</replace>
 </visiobas>
 </g>
 <!-- sepam5-->
@@ -96,12 +97,11 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q4</replace>
 <replace find="EC_NAME">СВ</replace>
-<replace find="CURRENT1">CELL_5_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_5_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_5_CURRENT_3</replace>
-      
-<replace find="ON">CELL_5_ON</replace>
-<replace find="OFF">CELL_5_OFF</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_5.AI_21</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_5.AI_22</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_5.AI_23</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_5.BI_17</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_5.BI_16</replace>
 </visiobas>
 </g>
 <!-- sepam4-->
@@ -109,14 +109,13 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q3</replace>
 <replace find="EC_NAME">TР-ОР №1</replace>
-<replace find="CURRENT1">CELL_4_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_4_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_4_CURRENT_3</replace>
-<replace find="FREQUENCY">CELL_4_FREQUENCY</replace>  
-<replace find="VOLTAGE">CELL_4_VOLTAGE</replace> 
-
-<replace find="ON">CELL_4_ON</replace>
-<replace find="OFF">CELL_4_OFF</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.AI_16</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.AI_17</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.AI_18</replace>
+<replace find="FREQUENCY">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.AI_20</replace>  
+<replace find="VOLTAGE">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.AI_19</replace> 
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.BI_15</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_4.BI_14</replace>
 </visiobas>
 </g>
 <!-- sepam3-->
@@ -124,12 +123,11 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q2</replace>
 <replace find="EC_NAME">ВВОД №1</replace>
-<replace find="CURRENT1">CELL_3_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_3_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_3_CURRENT_3</replace>
-       
-<replace find="ON">CELL_3_ON</replace>
-<replace find="OFF">CELL_3_OFF</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_3.AI_13</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_3.AI_14</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Sectio _3.AI_15</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_3.BI_13</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_3.BI_12</replace>
 </visiobas>
 </g>
 <!-- sepam2-->
@@ -137,12 +135,11 @@
 <visiobas src="../svg/svg-element/TP/SEPAM.svg">
 <replace find="QF_NAME">2Q1</replace>
 <replace find="EC_NAME">ОТХ.ЛИНИЯ</replace>
-<replace find="CURRENT1">CELL_2_CURRENT_1</replace>
-<replace find="CURRENT2">CELL_2_CURRENT_2</replace>
-<replace find="CURRENT3">CELL_2_CURRENT_3</replace>
-      
-<replace find="ON">CELL_2_ON</replace>
-<replace find="OFF">CELL_2_Off</replace>
+<replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SEPAM Section_2.AI_10</replace>
+<replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SEPAM Section_2.AI_11</replace>
+<replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SEPAM Section_2.AI_12</replace>
+<replace find="ON">Site:Engineering.Electricity.TP_1002.SEPAM Section_2.BI_11</replace>
+<replace find="OFF">Site:Engineering.Electricity.TP_1002.SEPAM Section_2.BI_10</replace>
 </visiobas>
 </g>
 <!-- COUNTER2-->

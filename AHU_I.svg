@@ -7,79 +7,79 @@
     <g id="SPEN" transform="translate(824,325)">
 		<visiobas src="../svg/svg-element/vent/vent-p-status.svg">
      
-        <replace find="VENT-P-STATUS">SF_DPS</replace>
+        <replace find="VENT-P-STATUS">Site:Engineering.Ventilation.AHU_02.BI_22402</replace>
         
     </visiobas>
 	</g>
 <!--СКОРОСТЬ ВЕНТИЛЯТОРА ПРИТОЧКИ-->
     <g id="VENT-SPEED" transform="translate(824,270)">
 	     	<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">SF_SPEED</replace>
+         <replace find="SEN-TEXST">Site:Engineering.Ventilation.AHU_02.AI_27501</replace>
       
     </visiobas>
 	</g>
 <!-- Температура приточки-->
 	<g id="SEN-T" transform="translate(961,250)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">SF_TEMP</replace>
+     <replace find="SEN-T">Site:Engineering.Ventilation.AHU_02.AI_22401</replace>
     		    	</visiobas>
     </g>
 <!-- Температура приточки с улицы-->
 	<g id="SEN-T" transform="translate(161,250)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">OAT-SF</replace>
+     <replace find="SEN-T">Site:Engineering.Ventilation.AHU_02.AI_22488</replace>
     		    	</visiobas>
     </g>
 <!-- температура AHU -->
 	<g id="TEMP" transform="translate(1140,620)">
 		<visiobas src="../svg/svg-element/control/temp_old.svg">
-     <replace find="TEMP">ROOM_TEMP_SET</replace>
+     <replace find="TEMP">Site:Engineering.Ventilation.AHU_02.AO_22431</replace>
     		    	</visiobas>
     </g>
 <!-- Статус Установки-->
 	<g id="TEXST" transform="translate(1070,620)">
 		<visiobas src="../svg/svg-element/sen/texst-status.svg">
- <replace find="TEXST-STATUS">SYSTEM_START</replace>
+ <replace find="TEXST-STATUS">Site:Engineering.Ventilation.AHU_02.BO_22430</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ГК -->
 	<g id="SEN-T1" transform="translate(441,420)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-     <replace find="SEN-TR">TEMP_HC</replace>
+     <replace find="SEN-TR">Site:Engineering.Ventilation.AHU_02.AI_22404</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ХК -->
 	<g id="SEN-T1" transform="translate(631,420)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-     <replace find="SEN-TR">COOL-TEMP</replace>
+     <replace find="SEN-TR">Site:Engineering.Ventilation.AHU_02.AI_22489</replace>
     		    	</visiobas>
     </g>
 <!-- клапан ГК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(430,510)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
+     <replace find="PVALVE-STATUS">Site:Engineering.Ventilation.AHU_02.AO_22414</replace>
     		    	</visiobas>
     </g>
 <!-- клапан ХК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(620,510)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
+     <replace find="PVALVE-STATUS">Site:Engineering.Ventilation.AHU_02.AO_22678</replace>
     		    	</visiobas>
    </g>
 <!-- насос1 -->
 	<g id="PUMP" transform="translate(393,420)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
-      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
-        <replace find="ALARM">PUMP_HC_ALARM</replace>
+            <replace find="PUMP-T-STATUS">Site:Engineering.Ventilation.AHU_02.BI_22398</replace>
+      <replace find="PUMP-T">Site:Engineering.Ventilation.AHU_02.BI_22397</replace>
+        <replace find="ALARM">Site:Engineering.Ventilation.AHU_02.BI_22678</replace>
     		    	</visiobas>
     </g>
 <!-- насос2 -->
 	<g id="PUMP" transform="translate(583,420)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
-      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
-        <replace find="ALARM">PUMP_HC_ALARM</replace>
+            <replace find="PUMP-T-STATUS">Site:Engineering.Ventilation.AHU_02.BI_22303</replace>
+      <replace find="PUMP-T">Site:Engineering.Ventilation.AHU_02.BO_22315</replace>
+        <replace find="ALARM">Site:Engineering.Ventilation.AHU_02.BI_22440</replace>
     		    	</visiobas>
     </g>
     

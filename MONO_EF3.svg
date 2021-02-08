@@ -4,14 +4,12 @@
 	<!-- Схема -->
 	<g transform="translate(500,250)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-	
-        <replace find="VENT-B-STATUS">FAN3_STATUS</replace>
-        <replace find="SEN-AHU-B-CONTROL">FAN3_SET_SPEED</replace>
-        <replace find="SEN-AHU-B-STATUS">FAN3_SPEED</replace>
-        <replace find="ON-OFF-STATUS">FAN3_SCHIBER_STATUS</replace>
-        <replace find="STATUS-R-B">FAN3_ALARM</replace>
-        <replace find="VENT-B-CONTROL">FAN3_SET_ON</replace>
-	
+	<replace find="VENT-B-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR 3.BI_3020</replace>
+        <replace find="SEN-AHU-B-CONTROL">Site:Engineering.Ventilation.RetFans.VENTILATOR 1.AV_3021</replace>
+        <replace find="SEN-AHU-B-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR 1.AI_3020</replace>
+        <replace find="ON-OFF-STATUS">Site:Engineering.Ventilation.RetFans.VENTILATOR 3.BI_3024</replace>
+        <replace find="STATUS-R-B">Site:Engineering.Ventilation.RetFans.VENTILATOR 3.BI_3022</replace>
+        <replace find="VENT-B-CONTROL">Site:Engineering.Ventilation.RetFans.VENTILATOR 3.BV_3023</replace>
 	</g>
 
 

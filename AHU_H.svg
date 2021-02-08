@@ -7,88 +7,88 @@
     <g id="SPEN" transform="translate(830,472)">
 		<visiobas src="../svg/svg-element/vent/vent-p-status.svg">
      
-         <replace find="VENT-P-STATUS">SF_DPS</replace>
+         <replace find="VENT-P-STATUS">Site:Engineering.Ventilation.AHU_01.BI_22402</replace>
        
     </visiobas>
 	</g>
 <!--СКОРОСТЬ ВЕНТИЛЯТОРА ПРИТОЧКИ-->
     <g id="VENT-SPEED" transform="translate(830,410)">
 	     	<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">SF_SPEED</replace>
+         <replace find="SEN-TEXST">Site:Engineering.Ventilation.AHU_01.AI_27501</replace>
       
     </visiobas>
 	</g>
 <!-- Температура приточки-->
 	<g id="SEN-T" transform="translate(967,398)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">SF_TEMP</replace>
+     <replace find="SEN-T">Site:Engineering.Ventilation.AHU_01.AI_22401</replace>
     		    	</visiobas>
     </g>
 <!-- ВЕНТИЛЯТОР ВЫТЯЖКИ-->
     <g id="SPEN" transform="translate(750,272)">
 		<visiobas src="../svg/svg-element/vent/vent-b-status.svg">
-        <replace find="VENT-B-STATUS">RF_DPS</replace>
+        <replace find="VENT-B-STATUS">Site:Engineering.Ventilation.AHU_01.BI_22407</replace>
        
     </visiobas>
 	</g>
 <!--СКОРОСТЬ ВЕНТИЛЯТОРА ВЫТЯЖКИ-->
     <g id="VENT-SPEED" transform="translate(750,210)">
 	     	<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">RF_SPEED</replace>
+         <replace find="SEN-TEXST">Site:Engineering.Ventilation.AHU_01.AI_27506</replace>
       
     </visiobas>
 	</g>
 <!-- Температура Вытяжки-->
 	<g id="SEN-T" transform="translate(960,200)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">RF_TEMP</replace>
+     <replace find="SEN-T">Site:Engineering.Ventilation.AHU_01.AI_22406</replace>
     		    	</visiobas>
     </g>
 <!-- Температура приточки с улицы-->
 	<g id="SEN-T" transform="translate(110,398)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-     <replace find="SEN-T">OAT-SF</replace>
+     <replace find="SEN-T">Site:Engineering.Ventilation.AHU_01.AI_22477</replace>
     		    	</visiobas>
     </g>
 
 <!-- насос1 -->
 	<g id="PUMP" transform="translate(452,555)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
-      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
-        <replace find="ALARM">PUMP_HC_ALARM</replace>
+            <replace find="PUMP-T-STATUS">Site:Engineering.Ventilation.AHU_01.BI_22397</replace>
+      <replace find="PUMP-T">Site:Engineering.Ventilation.AHU_01.BO_22315</replace>
+        <replace find="ALARM">Site:Engineering.Ventilation.AHU_01.BI_22493</replace>
     		    	</visiobas>
     </g>
 <!-- насос2 -->
 	<g id="PUMP" transform="translate(587,555)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-            <replace find="PUMP-T-STATUS">PUMP_HC_STATUS</replace>
-      <replace find="PUMP-T">PUMP_HC_CONTROL</replace>
-        <replace find="ALARM">PUMP_HC_ALARM</replace>
+            <replace find="PUMP-T-STATUS">Site:Engineering.Ventilation.AHU_01.BI_22303</replace>
+      <replace find="PUMP-T">Site:Engineering.Ventilation.AHU_01.BO_22396</replace>
+        <replace find="ALARM">Site:Engineering.Ventilation.AHU_01.BI_22440</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ГК -->
 	<g id="SEN-T1" transform="translate(500,580)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-     <replace find="SEN-TR">TEMP_HC</replace>
+     <replace find="SEN-TR">Site:Engineering.Ventilation.AHU_01.AI_22404</replace>
     		    	</visiobas>
     </g>
 <!-- Температура ХК -->
 	<g id="SEN-T1" transform="translate(634,580)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-     <replace find="SEN-TR">TEMP_CC</replace>
+     <replace find="SEN-TR">Site:Engineering.Ventilation.AHU_01.AI_22489</replace>
     		    	</visiobas>
     </g>
 <!-- клапан ГК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(488,650)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
+     <replace find="PVALVE-STATUS">Site:Engineering.Ventilation.AHU_01.AO_22414</replace>
     		    	</visiobas>
     </g>
 <!-- клапан ХК процент статус -->
 	<g id="PVALVE-STATUS" transform="translate(624,650)">
 		<visiobas src="../svg/svg-element/valve/pvalve-status.svg">
-     <replace find="PVALVE-STATUS">VALVE_HC_SET</replace>
+     <replace find="PVALVE-STATUS">Site:Engineering.Ventilation.AHU_01.AO_22491</replace>
     		    	</visiobas>
    </g>
    

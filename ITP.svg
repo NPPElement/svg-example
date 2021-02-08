@@ -7,46 +7,46 @@
 <!-- Насос GVS-NC1-->
 	<g id="PUMP-N1" transform="translate(286,252)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">NC1_STATUS</replace>
-    	<replace find="PUMP-R-CONTROL">NC1_CONTROL</replace>
-        <replace find="ALARM">NC1_ALARM</replace>
-        <replace find="HAND-PUMP-R">NC1_AUTO</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering.Heat_supply.ITP.nc1_status</replace>
+    	<replace find="PUMP-R-CONTROL">Site:Engineering.Heat_supply.ITP.nc1_control</replace>
+        <replace find="ALARM">Site:Engineering.Heat_supply.ITP.nc1_alarm</replace>
+        <replace find="HAND-PUMP-R">Site:Engineering.Heat_supply.ITP.nc1_auto</replace>
     	</visiobas>
 	</g>
 	<!-- Насос GVS-NC2-->
 	<g id="PUMP-N1" transform="translate(286,298)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">NC2_STATUS</replace>
-    	<replace find="PUMP-R-CONTROL">NC2_CONTROL</replace>
-        <replace find="ALARM">NC2_ALARM</replace>
-        <replace find="HAND-PUMP-R">NC2_AUTO</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering.Heat_supply.ITP.nc2_status</replace>
+    	<replace find="PUMP-R-CONTROL">Site:Engineering.Heat_supply.ITP.nc2_control</replace>
+        <replace find="ALARM">Site:Engineering.Heat_supply.ITP.nc2_alarm</replace>
+        <replace find="HAND-PUMP-R">Site:Engineering.Heat_supply.ITP.nc2_auto</replace>
     	</visiobas>
 	</g>
 	<!-- перепад давления ГВС-->
 	<g id="PDS-GVS" transform="translate(320,208)">
 		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
-    	<replace find="SEN-R-STATUS">PUMP_DPS_GVS</replace>
+    	<replace find="SEN-R-STATUS">Site:Engineering.Heat_supply.ITP.sensor_pds_1</replace>
          	</visiobas>
 	</g>
 	
 		<!-- ТЕПИЕПЕРАТУРА ГВС TE-1-->
 	<g id="YEMP-GVS" transform="translate(495,262)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-    	<replace find="SEN-T">SUP_TEMP_GVS</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_1</replace>
          	</visiobas>
 	</g>
 	
 	<!-- ТЕПИЕПЕРАТУРА ГВС TE-2-->
 	<g id="YEMP-GVS" transform="translate(170,252)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">RET_TEMP_GVS</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_2</replace>
          	</visiobas>
 	</g>
 	
 		<!-- ТЕПИЕПЕРАТУРА ГВС TE-5-->
 	<g id="YEMP-GVS" transform="translate(455,335)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">CW_TEMP</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_5</replace>
          	</visiobas>
 	</g>
 	
@@ -55,87 +55,87 @@
 	<g id="PUMP-N1" transform="translate(880,560)">
 		<g id="PUMP-N1" transform="translate(880,606)">
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-L-STATUS">NC3_STATUS</replace>
-        	<replace find="HAND-PUMP-L">NC3_ALARM</replace>
-        	<replace find="ALARM-PUMP-L">NC3_ALARM</replace>
-         		<replace find="PUMP-L-CONTROL">NC3_CONTROL</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering.Heat_supply.ITP.nc3_status</replace>
+    	<replace find="PUMP-R-CONTROL">Site:Engineering.Heat_supply.ITP.nc3_control</replace>
+        <replace find="ALARM">Site:Engineering.Heat_supply.ITP.nc3_alarm</replace>
+        <replace find="HAND-PUMP-R">Site:Engineering.Heat_supply.ITP.nc3_auto</replace>
     	</visiobas>
 	</g>
 	</g>
 	<!-- Насос -NC4-->
 	<g id="PUMP-N1" transform="translate(880,606)">
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-L-STATUS">NC4_STATUS</replace>
-        	<replace find="HAND-PUMP-L">NC4_ALARM</replace>
-        	<replace find="ALARM-PUMP-L">NC4_ALARM</replace>
-         		<replace find="PUMP-L-CONTROL">NC4_CONTROL</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering.Heat_supply.ITP.nc4_status</replace>
+    	<replace find="PUMP-R-CONTROL">Site:Engineering.Heat_supply.ITP.nc4_control</replace>
+        <replace find="ALARM">Site:Engineering.Heat_supply.ITP.nc4_alarm</replace>
+        <replace find="HAND-PUMP-R">Site:Engineering.Heat_supply.ITP.nc4_auto</replace>
     	</visiobas>
 	</g>
-<!-- перепад давления ГВС-->
+<!-- перепад давления Отопление-->
 	<g id="PDS-GVS" transform="translate(905,480)">
 		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
-    	<replace find="SEN-R-STATUS">PUMP_PDS_HEAT</replace>
+    	<replace find="SEN-R-STATUS">Site:Engineering.Heat_supply.ITP.sensor_pds_2</replace>
          	</visiobas>
 	</g>
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС TE-3-->
+		<!-- ТЕПИЕПЕРАТУРА Отопление TE-3-->
 	<g id="YEMP-GVS" transform="translate(795,484)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">SUP_TEMP_HEAT</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_3</replace>
          	</visiobas>
 	</g>
 
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС TE-4-->
+		<!-- ТЕПИЕПЕРАТУРА Отопление TE-4-->
 	<g id="YEMP-GVS" transform="translate(795,590)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">RET_TEMP_HEAT</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_4</replace>
          	</visiobas>
 	</g>
 
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС TE-1.1-->
+		<!-- ТЕПМЕПЕРАТУРА теплоноситель TE-1.1-->
 	<g id="YEMP-GVS" transform="translate(215,484)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">HEAT_SUP_TEMP</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_6</replace>
          	</visiobas>
 	</g>
 
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС TE-1.2-->
+		<!-- ТЕПИЕПЕРАТУРА теплоноситель TE-1.2-->
 	<g id="YEMP-GVS" transform="translate(123,590)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">HEAT_RET_TEMP</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_te_7</replace>
          	</visiobas>
 	</g>
 
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС PE-1.1-->
+		<!-- Давление теплоноситель PE-1.1-->
 	<g id="YEMP-GVS" transform="translate(160,484)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-T">HEAT_SUP_PRESSURE</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_pe_1</replace>
          	</visiobas>
 	</g>
 
 
-		<!-- ТЕПИЕПЕРАТУРА ГВС PE-1.2-->
+		<!-- Давление теплоноситель PE-1.2-->
 	<g id="YEMP-GVS" transform="translate(160,590)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-T">HEAT_RET_PRESSURE</replace>
+    	<replace find="SEN-T">Site:Engineering.Heat_supply.ITP.sensor_pe_2</replace>
          	</visiobas>
 	</g>
 
 <!-- Клапан ГВС -->
 	<g id="TEMP" transform="translate(640,270)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-     <replace find="TEMP">VALVE_GVS_SET</replace>
+     <replace find="TEMP">Site:Engineering.Heat_supply.ITP.valve1_pos</replace>
     		    	</visiobas>
     </g>
 
 <!-- Клапан отопление -->
 	<g id="TEMP" transform="translate(759,680)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-     <replace find="TEMP">VALVE_HEAT_SET</replace>
+     <replace find="TEMP">Site:Engineering.Heat_supply.ITP.valve2_pos</replace>
     		    	</visiobas>
     </g>
 
