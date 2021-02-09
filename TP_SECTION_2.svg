@@ -30,14 +30,14 @@
 <!-- temp_0.4kv_1 -->
 	<g id="QF_FULL" transform="translate(100,80)">
 		<visiobas src="../svg/svg-element/TP/temp.svg">
-        <replace find="TEMP">Site:Engineering.Electricity.TP_1002.Temperature.AI_701</replace>
+        <replace find="TEMP">Site:Engineering/Electricity.TP_1002.Temperature.AI_701</replace>
         </visiobas>
 	</g>
 
 <!-- temp_TR-2 -->
 	<g id="QF_FULL" transform="translate(435,160)">
 		<visiobas src="../svg/svg-element/TP/temp.svg">
-        <replace find="TEMP">Site:Engineering.Electricity.TP_1002.Temperature.AI_703</replace>
+        <replace find="TEMP">Site:Engineering/Electricity.TP_1002.Temperature.AI_703</replace>
         </visiobas>
 	</g>
 
@@ -47,12 +47,12 @@
 		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
         <replace find="QF_NAME">QF2</replace>
         
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.AI_135</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.AI_136</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.AI_137</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.BI_135</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.BI_133</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_2.BI_134</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.AI_135</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.AI_136</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.AI_137</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.BI_135</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.BI_133</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_2.BI_134</replace>
           	              	    	</visiobas>
           	              	    
 	</g>
@@ -60,13 +60,13 @@
 	<g id="QF_FULL" transform="translate(282,256)">
 		<visiobas src="../svg/svg-element/TP/QF_MAIN_L.svg">
         <replace find="QF_NAME">QF4</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.AI_1025</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.AI_1026</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.AI_1027</replace>
-         <replace find="VOLTAGE2">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.AI_1024</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.BI_1025</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.BI_1023</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.QF_SECTION.QF_4.BI_1024</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1025</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1026</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1027</replace>
+         <replace find="VOLTAGE2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1024</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.BI_1025</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.BI_1023</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.BI_1024</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_26 -->
@@ -75,12 +75,12 @@
         <replace find="QF_NAME">2QF26</replace>
         <replace find="LINE_NAME">2П-26</replace>
         <replace find="EC_NAME">Набережная</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_690</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_691</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_692</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_690</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_691</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_692</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_690</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_691</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_692</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_690</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_691</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_692</replace>
           	              	    	</visiobas>
 	</g>
 
@@ -90,12 +90,12 @@
         <replace find="QF_NAME">2QF30</replace>
         <replace find="LINE_NAME">2П-30</replace>
         <replace find="EC_NAME">Вулкан</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_460</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_461</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_462</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_460</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_461</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_462</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_460</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_461</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_462</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_460</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_461</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_462</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_29 -->
@@ -104,12 +104,12 @@
         <replace find="QF_NAME">2QF29</replace>
         <replace find="LINE_NAME">2П-29</replace>
         <replace find="EC_NAME">Алтай Баня</replace>
-          <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_450</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_451</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_452</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_450</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_451</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_452</replace>
+          <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_450</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_451</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_452</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_450</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_451</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_452</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_28 -->
@@ -136,12 +136,12 @@
         <replace find="QF_NAME">2QF24</replace>
         <replace find="LINE_NAME">2П-24</replace>
         <replace find="EC_NAME">ПАРК.ВРУ-2</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_670</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_671</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_672</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_670</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_671</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_672</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_670</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_671</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_672</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_670</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_671</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_672</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_23 -->
@@ -150,12 +150,12 @@
         <replace find="QF_NAME">2QF23</replace>
         <replace find="LINE_NAME">2П-23</replace>
         <replace find="EC_NAME">АСУД.СОТВ</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_660</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_661</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_662</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_660</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_661</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_662</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_660</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_661</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_662</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_660</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_661</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_662</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_22 -->
@@ -164,12 +164,12 @@
         <replace find="QF_NAME">2QF22</replace>
         <replace find="LINE_NAME">2П-22</replace>
         <replace find="EC_NAME">Нар.Осв.</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_650</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_651</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_652</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_650</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_651</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_652</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_650</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_651</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_652</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_650</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_651</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_652</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_21 -->
@@ -178,12 +178,12 @@
         <replace find="QF_NAME">2QF21</replace>
         <replace find="LINE_NAME">2П-21</replace>
         <replace find="EC_NAME">НС ЯПС</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_640</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_641</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_642</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_640</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_641</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_642</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_640</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_641</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_642</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_640</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_641</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_642</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_20 -->
@@ -192,12 +192,12 @@
         <replace find="QF_NAME">2QF20</replace>
         <replace find="LINE_NAME">2П-20</replace>
         <replace find="EC_NAME">КНС-5</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_630</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_631</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_632</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_630</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_631</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_632</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_630</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_631</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_632</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_630</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_631</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_632</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_19 -->
@@ -206,12 +206,12 @@
         <replace find="QF_NAME">2QF19</replace>
         <replace find="LINE_NAME">2П-19</replace>
         <replace find="EC_NAME">ЛОС</replace>
-         <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_620</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_621</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_622</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_620</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_621</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_622</replace>
+         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_620</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_621</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_622</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_620</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_621</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_622</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_18 -->
@@ -220,12 +220,12 @@
         <replace find="QF_NAME">2QF18</replace>
         <replace find="LINE_NAME">2П-18</replace>
         <replace find="EC_NAME">Ав.пол.ВВ</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_610</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_611</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_612</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_610</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_611</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_612</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_610</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_611</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_612</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_610</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_611</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_612</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_17 -->
@@ -234,12 +234,12 @@
         <replace find="QF_NAME">2QF17</replace>
         <replace find="LINE_NAME">2П-17</replace>
         <replace find="EC_NAME">Коттедж 3</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_600</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_601</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_602</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_600</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_601</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_602</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_600</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_601</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_602</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_600</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_601</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_602</replace>
           	              	    	</visiobas>
           	              	    	</visiobas>
 	</g>
@@ -249,12 +249,12 @@
         <replace find="QF_NAME">2QF16</replace>
         <replace find="LINE_NAME">2П-16</replace>
         <replace find="EC_NAME">Коттедж 2</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_590</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_591</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_592</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_590</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_591</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_592</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_590</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_591</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_592</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_590</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_591</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_592</replace>
           	              	    	</visiobas>
           	              	    	</visiobas>
 	</g>
@@ -264,12 +264,12 @@
         <replace find="QF_NAME">2QF15</replace>
         <replace find="LINE_NAME">2П-15</replace>
         <replace find="EC_NAME">Коттедж 1</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_580</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_581</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_582</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_580</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_581</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_582</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_580</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_581</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_582</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_580</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_581</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_582</replace>
           	              	    	</visiobas>
           	              	    	</visiobas>
 	</g>
@@ -279,12 +279,12 @@
         <replace find="QF_NAME">2QF14</replace>
         <replace find="LINE_NAME">2П-14</replace>
         <replace find="EC_NAME">Рютен.Вес.В.</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_570</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_571</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_572</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_570</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_571</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_572</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_570</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_571</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_572</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_570</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_571</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_572</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_13 -->
@@ -293,12 +293,12 @@
         <replace find="QF_NAME">2QF13</replace>
         <replace find="LINE_NAME">2П-13</replace>
         <replace find="EC_NAME">Яп.Баня.СОДО</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_560</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_561</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_562</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_560</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_561</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_562</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_560</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_561</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_562</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_560</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_561</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_562</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_12 -->
@@ -307,12 +307,12 @@
         <replace find="QF_NAME">2QF12</replace>
         <replace find="LINE_NAME">2П-12</replace>
         <replace find="EC_NAME">Чайный дом</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_550</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_551</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_552</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_550</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_551</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_552</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_550</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_551</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_552</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_550</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_551</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_552</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_11 -->
@@ -321,12 +321,12 @@
         <replace find="QF_NAME">2QF11</replace>
         <replace find="LINE_NAME">2П-11</replace>
         <replace find="EC_NAME">КНС-6</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_540</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_541</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_542</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_540</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_541</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_542</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_540</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_541</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_542</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_540</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_541</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_542</replace>
         <replace find="OFF">2QF11_OFF</replace>
           	              	    	</visiobas>
 	</g>
@@ -336,12 +336,12 @@
         <replace find="QF_NAME">2QF10</replace>
         <replace find="LINE_NAME">2П-10</replace>
         <replace find="EC_NAME">Коллектор</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_530</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_531</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_532</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_530</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_531</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_532</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_530</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_531</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_532</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_530</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_531</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_532</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_9 -->
@@ -350,12 +350,12 @@
         <replace find="QF_NAME">2QF9</replace>
         <replace find="LINE_NAME">2П-9</replace>
         <replace find="EC_NAME">ДЦ ВРУ-2</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_520</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_521</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_522</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_520</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_521</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_522</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_520</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_521</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_522</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_520</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_521</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_522</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_8 -->
@@ -364,12 +364,12 @@
         <replace find="QF_NAME">2QF8</replace>
         <replace find="LINE_NAME">2П-8</replace>
         <replace find="EC_NAME">ДЦ ВРУ-1</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_510</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_511</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_512</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_510</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_511</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_512</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_510</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_511</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_512</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_510</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_511</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_512</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_7 -->
@@ -378,12 +378,12 @@
         <replace find="QF_NAME">2QF7</replace>
         <replace find="LINE_NAME">2П-7</replace>
         <replace find="EC_NAME">КЦ ВРУ-3</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_500</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_501</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_502</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_500</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_501</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_502</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_500</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_501</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_502</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_500</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_501</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_502</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_6 -->
@@ -392,12 +392,12 @@
         <replace find="QF_NAME">2QF6</replace>
         <replace find="LINE_NAME">2П-6</replace>
         <replace find="EC_NAME">КЦ ВРУ-2</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_490</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_491</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_492</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_490</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_491</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_492</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_490</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_491</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_492</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_490</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_491</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_492</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_5 -->
@@ -406,12 +406,12 @@
         <replace find="QF_NAME">2QF5</replace>
         <replace find="LINE_NAME">2П-5</replace>
         <replace find="EC_NAME">КЦ ВРУ-1</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_480</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_481</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_482</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_480</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_481</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_482</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_480</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_481</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_482</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_480</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_481</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_482</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_4 -->
@@ -420,12 +420,12 @@
         <replace find="QF_NAME">2QF4</replace>
         <replace find="LINE_NAME">2П-4</replace>
         <replace find="EC_NAME">Кот.РЧВ</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_470</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_471</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_472</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_470</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_471</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_472</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_470</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_471</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_472</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_470</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_471</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_472</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_3 -->
@@ -434,12 +434,12 @@
         <replace find="QF_NAME">2QF3</replace>
         <replace find="LINE_NAME">2П-3</replace>
         <replace find="EC_NAME">Амер.Горки</replace>
-       <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_440</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_441</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_442</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_440</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_441</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_442</replace>
+       <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_440</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_441</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_442</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_440</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_441</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_442</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_2 -->
@@ -448,12 +448,12 @@
         <replace find="QF_NAME">2QF2</replace>
         <replace find="LINE_NAME">2П-2</replace>
         <replace find="EC_NAME">АБК Парк.ВРУ-1</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_430</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_431</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_432</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_430</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_431</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_432</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_430</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_431</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_432</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_430</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_431</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_432</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_1 -->
@@ -462,12 +462,12 @@
         <replace find="QF_NAME">2QF1</replace>
         <replace find="LINE_NAME">2П-1</replace>
         <replace find="EC_NAME">НС РПТ</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_420</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_421</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_422</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_420</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_421</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_422</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_420</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_421</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_422</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_420</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_421</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_422</replace>
           	              	    	</visiobas>
 	</g>
 <!-- 2QF_25 -->
@@ -476,12 +476,12 @@
         <replace find="QF_NAME">2QF25</replace>
         <replace find="LINE_NAME">2П-25</replace>
         <replace find="EC_NAME">ДЭС.ШСН-2</replace>
-        <replace find="CURRENT1">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_680</replace>
-        <replace find="CURRENT2">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_681</replace>
-        <replace find="CURRENT3">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.AI_682</replace>
-        <replace find="ALARM">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_680</replace>
-        <replace find="ON">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_681</replace>
-        <replace find="OFF">Site:Engineering.Electricity.TP_1002.SECTION_1.1QF_1.BI_682</replace>
+        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_680</replace>
+        <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_681</replace>
+        <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.AI_682</replace>
+        <replace find="ALARM">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_680</replace>
+        <replace find="ON">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_681</replace>
+        <replace find="OFF">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_1.BI_682</replace>
           	              	    	</visiobas>
 	</g>
 </g>

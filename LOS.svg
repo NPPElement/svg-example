@@ -8,21 +8,21 @@
 <!-- Насос  Н-1-->
 	<g id="PUMP-N1" transform="translate(220,183)">
 		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
-    		<replace find="PUMP-FECAL-STATUS">Site:Engineering.WC_WS.LOS.H1WORK</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N1Alarm</replace>
-        	<replace find="HAND-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N1Auto</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N1OverHeat</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N1OverLoad</replace>
+    		<replace find="PUMP-FECAL-STATUS">Site:Engineering/WC_WS.LOS.H1WORK</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N1Alarm</replace>
+        	<replace find="HAND-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N1Auto</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N1OverHeat</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N1OverLoad</replace>
            	</visiobas>
 	</g>
 <!-- Насос  Н-2-->
 	<g id="PUMP-N2" transform="translate(284,183)">
 		<visiobas src="../svg/svg-element/pump/pump-fecal-r.svg">
-    		<replace find="PUMP-FECAL-STATUS">Site:Engineering.WC_WS.LOS.H2WORK</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N2Alarm</replace>
-        	<replace find="HAND-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N2Auto</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N2OverHeat</replace>
-        	<replace find="ALARM-PUMP-FECAL">Site:Engineering.WC_WS.LOS.N2OverLoad</replace>
+    		<replace find="PUMP-FECAL-STATUS">Site:Engineering/WC_WS.LOS.H2WORK</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N2Alarm</replace>
+        	<replace find="HAND-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N2Auto</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N2OverHeat</replace>
+        	<replace find="ALARM-PUMP-FECAL">Site:Engineering/WC_WS.LOS.N2OverLoad</replace>
            	</visiobas>
 	</g>
 <!-- Насос  Н-6-->
@@ -35,49 +35,49 @@
 <!-- Насос фильтров Н-3-->
 	<g id="PUMP-N3" transform="translate(274,460)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-    		<replace find="PUMP-T-STATUS">Site:Engineering.WC_WS.LOS.H3_StPm</replace>
-        	<replace find="ALARM-PUMP-T">:Engineering.WC_WS.LOS.H3_AlPm</replace>
+    		<replace find="PUMP-T-STATUS">Site:Engineering/WC_WS.LOS.H3_StPm</replace>
+        	<replace find="ALARM-PUMP-T">:Engineering/WC_WS.LOS.H3_AlPm</replace>
     	</visiobas>
 	</g>
 <!-- Насос фильтров Н-4-->
 	<g id="PUMP-N4" transform="translate(326,460)">
 		<visiobas src="../svg/svg-element/pump/pump-t.svg">
-    		<replace find="PUMP-T-STATUS">Site:Engineering.WC_WS.LOS.H4_StPm</replace>
-        	<replace find="ALARM-PUMP-T">Site:Engineering.WC_WS.LOS.H4_AlPm</replace>
+    		<replace find="PUMP-T-STATUS">Site:Engineering/WC_WS.LOS.H4_StPm</replace>
+        	<replace find="ALARM-PUMP-T">Site:Engineering/WC_WS.LOS.H4_AlPm</replace>
     	</visiobas>
 	</g>
 <!-- UFO-1-->
 	<g id="UFO-1" transform="translate(370,580)">
 		<visiobas src="../svg/svg-element/ufo/ufo.svg">
-        <replace find="CONTROL-UFO">Site:Engineering.WC_WS.LOS.UFO1Start</replace>
-         <replace find="ALARM-UFO">Site:Engineering.WC_WS.LOS.UFO1Alarm</replace>
-        <replace find="STATUS-UFO">Site:Engineering.WC_WS.LOS.UFO1Ready</replace>
+        <replace find="CONTROL-UFO">Site:Engineering/WC_WS.LOS.UFO1Start</replace>
+         <replace find="ALARM-UFO">Site:Engineering/WC_WS.LOS.UFO1Alarm</replace>
+        <replace find="STATUS-UFO">Site:Engineering/WC_WS.LOS.UFO1Ready</replace>
     		    	</visiobas>
 	</g>
 <!-- UFO-2-->
 	<g id="UFO-2" transform="translate(455,580)">
 		<visiobas src="../svg/svg-element/ufo/ufo.svg">
-        <replace find="CONTROL-UFO">Site:Engineering.WC_WS.LOS.UFO2Start</replace>
-         <replace find="ALARM-UFO">Site:Engineering.WC_WS.LOS.UFO2Alarm</replace>
-        <replace find="STATUS-UFO">Site:Engineering.WC_WS.LOS.UFO2Ready</replace>
+        <replace find="CONTROL-UFO">Site:Engineering/WC_WS.LOS.UFO2Start</replace>
+         <replace find="ALARM-UFO">Site:Engineering/WC_WS.LOS.UFO2Alarm</replace>
+        <replace find="STATUS-UFO">Site:Engineering/WC_WS.LOS.UFO2Ready</replace>
     		    	</visiobas>
 	</g>
 <!-- Насос MPC Н-7-->
 	<g id="PUMP-N7" transform="translate(82,286)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-            	<replace find="ALARM-PUMP-R">Site:Engineering.WC_WS.LOS.N7Alarm</replace>
+            	<replace find="ALARM-PUMP-R">Site:Engineering/WC_WS.LOS.N7Alarm</replace>
     	</visiobas>
 	</g>
 <!-- Насос MPC Н-8-->
 	<g id="PUMP-N8" transform="translate(82,328)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-            	<replace find="ALARM-PUMP-R">Site:Engineering.WC_WS.LOS.N8Alarm</replace>
+            	<replace find="ALARM-PUMP-R">Site:Engineering/WC_WS.LOS.N8Alarm</replace>
     	</visiobas>
 	</g>
 <!-- Насос MPC Н-9-->
 	<g id="PUMP-N9" transform="translate(82,370)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-            	<replace find="ALARM-PUMP-R">Site:Engineering.WC_WS.LOS.N9Alarm</replace>
+            	<replace find="ALARM-PUMP-R">Site:Engineering/WC_WS.LOS.N9Alarm</replace>
     	</visiobas>
 	</g>
 
@@ -104,21 +104,21 @@
 <!-- РАСХОДОМЕР FQI-1 -->
 	<g id="FQI-1" transform="translate(300,394)">
 		<visiobas src="../svg/svg-element/counter/qe.svg">
-            	<replace find="QE">Site:Engineering.WC_WS.LOS.2_Vlm</replace>
+            	<replace find="QE">Site:Engineering/WC_WS.LOS.2_Vlm</replace>
                 	</visiobas>
 	
 	</g>
 <!-- резервуар-1 -->
 	<g id="TANK-AK" transform="translate(38,22)">
 		<visiobas src="../svg/svg-element/water/lvl-los-ak.svg">
-            <replace find="level-3">Site:Engineering.WC_WS.LOS.LevelSL3</replace>
-        <replace find="level-2">Site:Engineering.WC_WS.LOS.LevelSL2</replace>
+            <replace find="level-3">Site:Engineering/WC_WS.LOS.LevelSL3</replace>
+        <replace find="level-2">Site:Engineering/WC_WS.LOS.LevelSL2</replace>
                 	</visiobas>
 		</g>
 <!-- текуций уровень АКК Резервуаре -->
 	<g id="LVL-AK" transform="translate(80,200)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-            	<replace find="SEN-TEXST">Site:Engineering.WC_WS.LOS.ACTankLevel</replace>
+            	<replace find="SEN-TEXST">Site:Engineering/WC_WS.LOS.ACTankLevel</replace>
                 	</visiobas>
 	
 	</g>
@@ -127,16 +127,16 @@
 	<g id="TANK-CW" transform="translate(30,440)">
 		<visiobas src="../svg/svg-element/water/lvl-los-cle.svg">
             <replace find="level-1">Site:Engineering.WC_WS.LOS.LevelSL4</replace>
-        <replace find="level-2">Site:Engineering.WC_WS.LOS.LevelSL5</replace>
-        <replace find="level-3">Site:Engineering.WC_WS.LOS.LevelSL6</replace>
-        <replace find="level-4">Site:Engineering.WC_WS.LOS.LevelSL7</replace>
-        <replace find="level-5">Site:Engineering.WC_WS.LOS.LevelSL8</replace>
+        <replace find="level-2">Site:Engineering/WC_WS.LOS.LevelSL5</replace>
+        <replace find="level-3">Site:Engineering/WC_WS.LOS.LevelSL6</replace>
+        <replace find="level-4">Site:Engineering/WC_WS.LOS.LevelSL7</replace>
+        <replace find="level-5">Site:Engineering/WC_WS.LOS.LevelSL8</replace>
                 	</visiobas>
 		</g>
 <!-- текуций уровень Рез.оч.воды -->
 	<g id="LVL-CW" transform="translate(160,600)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-            	<replace find="SEN-TEXST">Site:Engineering.WC_WS.LOS.CWTankLevel</replace>
+            	<replace find="SEN-TEXST">Site:Engineering/WC_WS.LOS.CWTankLevel</replace>
                 	</visiobas>
 	
 	</g>

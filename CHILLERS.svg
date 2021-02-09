@@ -8,31 +8,31 @@
 <!-- Насос4-1 ОБРАТКА ХЦ -->
 	<g id="PUMP-N1" transform="translate(742,128)">
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-L-STATUS">Site:Engineering.COOLING.PumpH41</replace>
-              	<replace find="ALARM-PUMP-L">Site:Engineering.COOLING.ArmFrH41</replace>
-         		<replace find="PUMP-L-CONTROL">Site:Engineering.COOLING.LocalH41</replace>
+    	<replace find="PUMP-L-STATUS">Site:Engineering/COOLING.PumpH41</replace>
+              	<replace find="ALARM-PUMP-L">Site:Engineering/COOLING.ArmFrH41</replace>
+         		<replace find="PUMP-L-CONTROL">Site:Engineering/COOLING.LocalH41</replace>
 
     	</visiobas>
 	</g>
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N1" transform="translate(762,92)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SP1FrH4</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SP1FrH4</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N1" transform="translate(785,100)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH41</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH41</replace>
          		    	</visiobas>
     </g>
 
 <!-- Насос4-2 ОБРАТКА ХЦ -->
 	<g id="PUMP-N2" transform="translate(742,172)">
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-L-STATUS">Site:Engineering.COOLING.PumpH42</replace>
-          	<replace find="ALARM-PUMP-L">Site:Engineering.COOLING.ArmFrH42</replace>
-         		<replace find="PUMP-L-CONTROL">Site:Engineering.COOLING.LocalH42</replace>
+    	<replace find="PUMP-L-STATUS">Site:Engineering/COOLING.PumpH42</replace>
+          	<replace find="ALARM-PUMP-L">Site:Engineering/COOLING.ArmFrH42</replace>
+         		<replace find="PUMP-L-CONTROL">Site:Engineering/COOLING.LocalH42</replace>
 
     	</visiobas>
 	</g>
@@ -40,129 +40,129 @@
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N2" transform="translate(700,192)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SP2FrH4</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SP2FrH4</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N2" transform="translate(725,156)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH42</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH42</replace>
          		    	</visiobas>
     </g>
 <!--ПЕРЕПАД ДАВЛЕНИЯ Н-4 -->
 	<g id="PDS-N4" transform="translate(765,200)">
 		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
-         <replace find="SEN-R-STATUS">Site:Engineering.COOLING.PdwPmH4</replace>
+         <replace find="SEN-R-STATUS">Site:Engineering/COOLING.PdwPmH4</replace>
          		    	</visiobas>
     </g>
 <!-- Насос 2-1 -->
 	<g id="PUMP-N3" transform="translate(896,222)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering.COOLING.PumpH21</replace>
-              	<replace find="ALARM-PUMP-R">Site:Engineering.COOLING.ArmFrH21</replace>
-         		<replace find="PUMP-R-CONTROL">Site:Engineering.COOLING.LocalH21</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering/COOLING.PumpH21</replace>
+              	<replace find="ALARM-PUMP-R">Site:Engineering/COOLING.ArmFrH21</replace>
+         		<replace find="PUMP-R-CONTROL">Site:Engineering/COOLING.LocalH21</replace>
 
     	</visiobas>
 	</g>
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N3" transform="translate(940,185)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SPSpRtH21</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SPSpRtH21</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N3" transform="translate(960,200)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH21</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH21</replace>
          		    	</visiobas>
     </g>
 <!-- Насос 2-2  -->
 	<g id="PUMP-N3" transform="translate(896,266)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering.COOLING.PumpH22</replace>
-          	<replace find="ALARM-PUMP-R">Site:Engineering.COOLING.ArmFrH22</replace>
-         		<replace find="PUMP-R-CONTROL">Site:Engineering.COOLING.LocalH22</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering/COOLING.PumpH22</replace>
+          	<replace find="ALARM-PUMP-R">Site:Engineering/COOLING.ArmFrH22</replace>
+         		<replace find="PUMP-R-CONTROL">Site:Engineering/COOLING.LocalH22</replace>
 
     	</visiobas>
 	</g>
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N4" transform="translate(840,270)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SPSpRtH22</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SPSpRtH22</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N4" transform="translate(870,265)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH22</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH22</replace>
          		    	</visiobas>
     </g>
 <!--ПЕРЕПАД ДАВЛЕНИЯ Н-2 -->
 	<g id="PDS-N2" transform="translate(970,295)">
 		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
-         <replace find="SEN-R-STATUS">Site:Engineering.COOLING.PdwPmH2</replace>
+         <replace find="SEN-R-STATUS">Site:Engineering/COOLING.PdwPmH2</replace>
          		    	</visiobas>
     </g>
 <!-- Насос 1-1 -->
 	<g id="PUMP-N5" transform="translate(896,348)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering.COOLING.PumpH11</replace>
-              	<replace find="ALARM-PUMP-R">Site:Engineering.COOLING.ArmFrH11</replace>
-         		<replace find="PUMP-R-CONTROL">Site:Engineering.COOLING.LocalH11</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering/COOLING.PumpH11</replace>
+              	<replace find="ALARM-PUMP-R">Site:Engineering/COOLING.ArmFrH11</replace>
+         		<replace find="PUMP-R-CONTROL">Site:Engineering/COOLING.LocalH11</replace>
 
     	</visiobas>
 	</g>
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N5" transform="translate(840,344)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SPSpRtH11</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SPSpRtH11</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N5" transform="translate(870,345)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH11</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH11</replace>
          		    	</visiobas>
     </g>
 <!-- Насос 1-2  -->
 	<g id="PUMP-N6" transform="translate(896,392)">
 		<visiobas src="../svg/svg-element/pump/pump-r.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering.COOLING.PumpH12</replace>
-          	<replace find="ALARM-PUMP-R">Site:Engineering.COOLING.ArmFrH12</replace>
-         		<replace find="PUMP-R-CONTROL">Site:Engineering.COOLING.LocalH12</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering/COOLING.PumpH12</replace>
+          	<replace find="ALARM-PUMP-R">Site:Engineering/COOLING.ArmFrH12</replace>
+         		<replace find="PUMP-R-CONTROL">Site:Engineering/COOLING.LocalH12</replace>
 
     	</visiobas>
 	</g>
 <!--УСТАВКА СКОРОСТИ -->
 	<g id="SET-SPEED-N6" transform="translate(840,394)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-         <replace find="TEMP-MIN">Site:Engineering.COOLING.SPSpRtH12</replace>
+         <replace find="TEMP-MIN">Site:Engineering/COOLING.SPSpRtH12</replace>
          		    	</visiobas>
     </g>
 <!--СКОРОСТЬ РАБОТЫ -->
 	<g id="STATUS-N6" transform="translate(870,391)">
 		<visiobas src="../svg/svg-element/sen/sen-texst.svg">
-         <replace find="SEN-TEXST">Site:Engineering.COOLING.SpRotH12</replace>
+         <replace find="SEN-TEXST">Site:Engineering/COOLING.SpRotH12</replace>
          		    	</visiobas>
     </g>
 <!--ПЕРЕПАД ДАВЛЕНИЯ Н-1 -->
 	<g id="PDS-N1" transform="translate(970,421)">
 		<visiobas src="../svg/svg-element/sen/sen-r-status.svg">
-         <replace find="SEN-R-STATUS">Site:Engineering.COOLING.PdwPmH1</replace>
+         <replace find="SEN-R-STATUS">Site:Engineering/COOLING.PdwPmH1</replace>
          		    	</visiobas>
     </g>
 <!-- Насос 3  -->
 	<g id="PUMP-N7" transform="translate(434,604)">
 		<visiobas src="../svg/svg-element/pump/pump-lmin.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering.COOLING.PumpH3</replace>
-          	<replace find="ALARM-PUMP-R">Site:Engineering.COOLING.AlarmH3</replace>
+    	<replace find="PUMP-R-STATUS">Site:Engineering/COOLING.PumpH3</replace>
+          	<replace find="ALARM-PUMP-R">Site:Engineering/COOLING.AlarmH3</replace>
      
     	</visiobas>
 	</g>
 <!-- датчик температуры ТЕ-1  -->
 	<g id="TE01" transform="translate(1120,286)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.TE1outWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.TE1outWt</replace>
       
      
     	</visiobas>
@@ -170,7 +170,7 @@
 <!-- датчик давления PЕ-1  -->
 	<g id="PE01" transform="translate(1042,180)">
 		<visiobas src="../svg/svg-element/sen/sen-rl.svg">
-    	<replace find="SEN-RL">Site:Engineering.COOLING.PE1outFC</replace>
+    	<replace find="SEN-RL">Site:Engineering/COOLING.PE1outFC</replace>
       
      
     	</visiobas>
@@ -178,7 +178,7 @@
 <!-- датчик температуры ТЕ-2  -->
 	<g id="TE02" transform="translate(1120,113)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.TE2outWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.TE2outWt</replace>
       
      
     	</visiobas>
@@ -194,7 +194,7 @@
 <!-- датчик температуры ТЕ-3  -->
 	<g id="TE03" transform="translate(530,206)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE3inWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE3inWt</replace>
       
      
     	</visiobas>
@@ -202,7 +202,7 @@
 <!-- датчик давления PЕ-3  -->
 	<g id="PE03" transform="translate(590,206)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE3inWt</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE3inWt</replace>
       
      
     	</visiobas>
@@ -210,7 +210,7 @@
 <!-- датчик температуры ТЕ-4  -->
 	<g id="TE04" transform="translate(530,125)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE4outWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE4outWt</replace>
       
      
     	</visiobas>
@@ -218,7 +218,7 @@
 <!-- датчик давления PЕ-4  -->
 	<g id="PE04" transform="translate(586,125)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE4outWt</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE4outWt</replace>
       
      
     	</visiobas>
@@ -226,7 +226,7 @@
 <!-- датчик температуры ТЕ-5  -->
 	<g id="TE05" transform="translate(530,405)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE5inWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE5inWt</replace>
       
      
     	</visiobas>
@@ -234,7 +234,7 @@
 <!-- датчик давления PЕ-5  -->
 	<g id="PE05" transform="translate(585,403)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE5inWt</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE5inWt</replace>
       
      
     	</visiobas>
@@ -242,7 +242,7 @@
 <!-- датчик температуры ТЕ-6  -->
 	<g id="TE06" transform="translate(524,322)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE6outWt</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE6outWt</replace>
       
      
     	</visiobas>
@@ -250,7 +250,7 @@
 <!-- датчик давления PЕ-6  -->
 	<g id="PE06" transform="translate(580,321)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE6outWt</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE6outWt</replace>
       
      
     	</visiobas>
@@ -258,7 +258,7 @@
 <!-- датчик температуры ТЕ-7  -->
 	<g id="TE03" transform="translate(250,204)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE7inGl</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE7inGl</replace>
       
      
     	</visiobas>
@@ -266,7 +266,7 @@
 <!-- датчик давления PЕ-7  -->
 	<g id="PE03" transform="translate(305,203)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE7inGl</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE7inGl</replace>
       
      
     	</visiobas>
@@ -274,7 +274,7 @@
 <!-- датчик температуры ТЕ-8  -->
 	<g id="TE08" transform="translate(250,124)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE8outGl</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE8outGl</replace>
       
      
     	</visiobas>
@@ -282,7 +282,7 @@
 <!-- датчик давления PЕ-8  -->
 	<g id="PE08" transform="translate(305,123)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE8outGl</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE8outGl</replace>
       
      
     	</visiobas>
@@ -290,7 +290,7 @@
 <!-- датчик температуры ТЕ-9  -->
 	<g id="TE09" transform="translate(272,403)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE9inGl</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE9inGl</replace>
       
      
     	</visiobas>
@@ -298,7 +298,7 @@
 <!-- датчик давления PЕ-9  -->
 	<g id="PE09" transform="translate(320,402)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE9inGl</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE9inGl</replace>
       
      
     	</visiobas>
@@ -306,7 +306,7 @@
 <!-- датчик температуры ТЕ-10  -->
 	<g id="TE10" transform="translate(276,322)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-    	<replace find="SEN-T">Site:Engineering.COOLING.Sensor_TE10outGl</replace>
+    	<replace find="SEN-T">Site:Engineering/COOLING.Sensor_TE10outGl</replace>
       
      
     	</visiobas>
@@ -314,7 +314,7 @@
 <!-- датчик давления PЕ-10  -->
 	<g id="PE10" transform="translate(323,321)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.Sensor_PE10outGl</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.Sensor_PE10outGl</replace>
       
      
     	</visiobas>
@@ -322,7 +322,7 @@
 <!-- датчик давления PЕ-11  -->
 	<g id="PE11" transform="translate(735,477)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-R">Site:Engineering.COOLING.PE11filWt</replace>
+    	<replace find="SEN-R">Site:Engineering/COOLING.PE11filWt</replace>
       
      
     	</visiobas>
@@ -330,7 +330,7 @@
 <!-- КЛАПАН FY-01  -->
 	<g id="FY01" transform="translate(814,526)">
 		<visiobas src="../svg/svg-element/valve/valve-r-status.svg">
-    	<replace find="VALVE-R-STATUS">Site:Engineering.COOLING.FY1FedWat</replace>
+    	<replace find="VALVE-R-STATUS">Site:Engineering/COOLING.FY1FedWat</replace>
       
      
     	</visiobas>
@@ -338,7 +338,7 @@
 <!-- КЛАПАН FY-02  -->
 	<g id="FY02" transform="translate(624,172)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY2WatXM2</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY2WatXM2</replace>
       
      
     	</visiobas>
@@ -346,7 +346,7 @@
 <!-- КЛАПАН FY-03  -->
 	<g id="FY03" transform="translate(616,370)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY3WatXM1</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY3WatXM1</replace>
       
      
     	</visiobas>
@@ -354,7 +354,7 @@
 <!-- КЛАПАН FY-04  -->
 	<g id="FY04" transform="translate(290,212)">
 		<visiobas src="../svg/svg-element/valve/pvalve.svg">
-    	<replace find="PVALVE-STATUS">Site:Engineering.COOLING.CtrlFYGl_CtrFY4Gl_Vlv</replace>
+    	<replace find="PVALVE-STATUS">Site:Engineering/COOLING.CtrlFYGl_CtrFY4Gl_Vlv</replace>
       
      
     	</visiobas>
@@ -362,7 +362,7 @@
 <!-- КЛАПАН FY-05  -->
 	<g id="FY05" transform="translate(230,172)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY5GlXM2</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY5GlXM2</replace>
       
      
     	</visiobas>
@@ -370,7 +370,7 @@
 <!-- КЛАПАН FY-06  -->
 	<g id="FY06" transform="translate(306,412)">
 		<visiobas src="../svg/svg-element/valve/pvalve.svg">
-    	<replace find="PVALVE-STATUS">Site:Engineering.COOLING.CtrlFYGl_CtrFY6Gl_Vlv</replace>
+    	<replace find="PVALVE-STATUS">Site:Engineering/COOLING.CtrlFYGl_CtrFY6Gl_Vlv</replace>
       
      
     	</visiobas>
@@ -378,7 +378,7 @@
 <!-- КЛАПАН FY-07  -->
 	<g id="FY07" transform="translate(230,370)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY7GlXM1s</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY7GlXM1s</replace>
       
      
     	</visiobas>
@@ -386,7 +386,7 @@
 <!-- КЛАПАН FY-08  -->
 	<g id="FY08" transform="translate(180,172)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY8GlXM2</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY8GlXM2</replace>
       
      
     	</visiobas>
@@ -394,7 +394,7 @@
 <!-- КЛАПАН FY-09  -->
 	<g id="FY09" transform="translate(180,370)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FYDZ_FY9GlXM1</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FYDZ_FY9GlXM1</replace>
       
      
     	</visiobas>
@@ -402,7 +402,7 @@
 <!-- КЛАПАН FY-10  -->
 	<g id="FY10" transform="translate(304,606)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FeedinGl_FY10FedGl</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FeedinGl_FY10FedGl</replace>
       
      
     	</visiobas>
@@ -410,7 +410,7 @@
 <!-- КЛАПАН FY-11  -->
 	<g id="FY11" transform="translate(388,630)">
 		<visiobas src="../svg/svg-element/valve/valve-b-status.svg">
-    	<replace find="VALVE-B-STATUS">Site:Engineering.COOLING.UtilizGl_FY11UtlGl</replace>
+    	<replace find="VALVE-B-STATUS">Site:Engineering/COOLING.UtilizGl_FY11UtlGl</replace>
       
      
     	</visiobas>
@@ -418,7 +418,7 @@
 <!-- КЛАПАН FY-12  -->
 	<g id="FY12" transform="translate(524,586)">
 		<visiobas src="../svg/svg-element/valve/valve-b-status.svg">
-    	<replace find="VALVE-B-STATUS">Site:Engineering.COOLING.UtilizGl_FY12UtlGl</replace>
+    	<replace find="VALVE-B-STATUS">Site:Engineering/COOLING.UtilizGl_FY12UtlGl</replace>
       
      
     	</visiobas>
@@ -426,7 +426,7 @@
 <!-- КЛАПАН FY-13  -->
 	<g id="FY13" transform="translate(565,621)">
 		<visiobas src="../svg/svg-element/valve/valve-l-status.svg">
-    	<replace find="VALVE-L-STATUS">Site:Engineering.COOLING.FeedinGl_FY13FedGl</replace>
+    	<replace find="VALVE-L-STATUS">Site:Engineering/COOLING.FeedinGl_FY13FedGl</replace>
       
      
     	</visiobas>
@@ -435,7 +435,7 @@
 <!--ХМ1-авария  -->
 	<g id="CU01-ALARM" transform="translate(435,400)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-    	<replace find="ALARM">Site:Engineering.COOLING.AlarmXM1</replace>
+    	<replace find="ALARM">Site:Engineering/COOLING.AlarmXM1</replace>
       
      
     	</visiobas>
@@ -443,7 +443,7 @@
 <!--ХМ1-статус  -->
 	<g id="CU01-STATUS" transform="translate(475,330)">
 		<visiobas src="../svg/svg-element/sen/texst-status.svg">
-    	<replace find="TEXST-STATUS">Site:Engineering.COOLING.StatusXM1</replace>
+    	<replace find="TEXST-STATUS">Site:Engineering/COOLING.StatusXM1</replace>
       
      
     	</visiobas>
@@ -451,7 +451,7 @@
 <!--ХМ1-управление  -->
 	<g id="CU01-CNTRL" transform="translate(425,324)">
 		<visiobas src="../svg/svg-element/control/control-min.svg">
-    	<replace find="CONTROL-MIN">Site:Engineering.COOLING.LocalXM1</replace>
+    	<replace find="CONTROL-MIN">Site:Engineering/COOLING.LocalXM1</replace>
       
      
     	</visiobas>
@@ -459,7 +459,7 @@
 <!--ХМ2-авария  -->
 	<g id="CU02-ALARM" transform="translate(435,200)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-    	<replace find="ALARM">Site:Engineering.COOLING.AlarmXM2</replace>
+    	<replace find="ALARM">Site:Engineering/COOLING.AlarmXM2</replace>
       
      
     	</visiobas>
@@ -467,7 +467,7 @@
 <!--ХМ2-статус  -->
 	<g id="CU02-STATUS" transform="translate(475,130)">
 		<visiobas src="../svg/svg-element/sen/texst-status.svg">
-    	<replace find="TEXST-STATUS">Site:Engineering.COOLING.StatusXM2</replace>
+    	<replace find="TEXST-STATUS">Site:Engineering/COOLING.StatusXM2</replace>
       
      
     	</visiobas>
@@ -475,7 +475,7 @@
 <!--ХМ2-управление  -->
 	<g id="CU02-CNTRL" transform="translate(425,124)">
 		<visiobas src="../svg/svg-element/control/control-min.svg">
-    	<replace find="CONTROL-MIN">Site:Engineering.COOLING.LocalXM2</replace>
+    	<replace find="CONTROL-MIN">Site:Engineering/COOLING.LocalXM2</replace>
       
      
     	</visiobas>
@@ -494,7 +494,7 @@
 <!--ДК1-авария  -->
 	<g id="DK01-ALARM" transform="translate(90,205)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-    	<replace find="ALARM">Site:Engineering.COOLING.AlarmDK1</replace>
+    	<replace find="ALARM">Site:Engineering/COOLING.AlarmDK1</replace>
       
      
     	</visiobas>
@@ -513,7 +513,7 @@
 <!--ДК2-авария  -->
 	<g id="DK02-ALARM" transform="translate(90,405)">
 		<visiobas src="../svg/svg-element/alarm/alarm.svg">
-    	<replace find="ALARM">Site:Engineering.COOLING.AlarmDK2</replace>
+    	<replace find="ALARM">Site:Engineering/COOLING.AlarmDK2</replace>
       
      
     	</visiobas>
