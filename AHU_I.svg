@@ -30,18 +30,7 @@
      <replace find="SEN-T">Site:Engineering/Ventilation.AHU_02.AI_22488</replace>
     		    	</visiobas>
     </g>
-<!-- температура AHU -->
-	<g id="TEMP" transform="translate(1140,620)">
-		<visiobas src="../svg/svg-element/control/temp_old.svg">
-     <replace find="TEMP">Site:Engineering/Ventilation.AHU_02.AO_22431</replace>
-    		    	</visiobas>
-    </g>
-<!-- Статус Установки-->
-	<g id="TEXST" transform="translate(1070,620)">
-		<visiobas src="../svg/svg-element/sen/texst-status.svg">
- <replace find="TEXST-STATUS">Site:Engineering/Ventilation.AHU_02.BO_22430</replace>
-    		    	</visiobas>
-    </g>
+
 <!-- Температура ГК -->
 	<g id="SEN-T1" transform="translate(441,420)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
@@ -80,6 +69,19 @@
             <replace find="PUMP-T-STATUS">Site:Engineering/Ventilation.AHU_02.BI_22303</replace>
       <replace find="PUMP-T">Site:Engineering/Ventilation.AHU_02.BO_22315</replace>
         <replace find="ALARM">Site:Engineering/Ventilation.AHU_02.BI_22440</replace>
+    		    	</visiobas>
+    </g>
+    
+<!-- температура AHU !!!!-->
+	<g id="TEMP" transform="translate(1110,660)">
+		<visiobas src="../svg/svg-element/control/temp.svg">
+     <replace find="TEMP">Site:Engineering/Ventilation.AHU_02.AO_22431</replace>
+    		    	</visiobas>
+    </g>
+<!-- контрол AHU !!!-->
+	<g id="CONTROL" transform="translate(1180,660)">
+		<visiobas src="../svg/svg-element/control/control.svg">
+       <replace find="CONTROL">Site:Engineering/Ventilation.AHU_02.BO_22430</replace>
     		    	</visiobas>
     </g>
     

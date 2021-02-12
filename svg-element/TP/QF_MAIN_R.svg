@@ -2,7 +2,7 @@
 <g id="QF_3">
 <!--OFF-->
 <g class="fault inactive" reference="OFF">
-<g class="animation-hide">
+<g class="animation-display">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M34 89V91H43V105H73V91H82H83V89H82H73V75H43V89H34ZM45.0001 77V103H71.0001V77H45.0001Z" fill="white"/>
 </g>
 </g>
@@ -17,7 +17,7 @@
 
 <!--ALARM-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M34 89V91H43V105H73V91H82H83V89H82H73V75H43V89H34ZM45.0001 101L69.0001 77H45.0001V101ZM71.0001 103V79L47.0001 103H58.0001H71.0001Z" fill="#FF0000"/>
 </g>
 </g>
@@ -42,6 +42,7 @@
 <ellipse cx="113.182" cy="90" rx="3" ry="2.81818" transform="rotate(90 113.182 90)" fill="#505050"/>
 <!--QF_NAME-->
 <text transform="translate(20,80) rotate(0)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
+<g class="trendlog">
 <!--CURR1-->
 <g class="fault" format="%.1f" reference="CURRENT1">
 <text x="65%" y="20" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -54,10 +55,12 @@
 <g class="fault" format="%.1f" reference="CURRENT3">
 <text x="65%" y="50" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
+</g>
 <!-- STATIC-->
 <path d="M108.514 21V12.5449H107.201V21H108.514ZM110.458 21H110.992V17.4771H110.453L109.525 18.1362V18.6733L110.445 18.019H110.458V21Z" fill="white"/>
 <path d="M108.208 34V25.5449H106.896V34H108.208ZM109.232 31.5098V31.5146H109.75V31.5073C109.75 31.1411 110.04 30.8628 110.426 30.8628C110.792 30.8628 111.075 31.1118 111.075 31.4243C111.075 31.7002 110.963 31.8857 110.533 32.3325L109.261 33.6289V34H111.671V33.5386H109.999V33.5264L110.88 32.6401C111.395 32.1128 111.615 31.8076 111.615 31.3975C111.615 30.8384 111.114 30.4111 110.443 30.4111C109.742 30.4111 109.232 30.875 109.232 31.5098Z" fill="white"/>
 <path d="M108.143 47V38.5449H106.83V47H108.143ZM109.962 45.4058H110.401C110.865 45.4058 111.153 45.6401 111.153 46.021C111.153 46.3652 110.846 46.6094 110.416 46.6094C109.972 46.6094 109.693 46.3774 109.659 46.0405H109.134C109.168 46.6484 109.657 47.0659 110.416 47.0659C111.151 47.0659 111.71 46.6436 111.71 46.0283C111.71 45.5352 111.368 45.2104 110.838 45.1738V45.1641C111.275 45.0859 111.563 44.771 111.563 44.3315C111.563 43.7896 111.078 43.4111 110.411 43.4111C109.713 43.4111 109.247 43.8091 109.205 44.4268H109.72C109.752 44.0801 110.006 43.8604 110.387 43.8604C110.804 43.8604 111.029 44.0776 111.029 44.4048C111.029 44.7368 110.768 44.9761 110.387 44.9761H109.962V45.4058Z" fill="white"/>
+<g class="trendlog">
 <!--VOLTAGE1-->
 <g class="fault" format="%.1f" reference="VOLTAGE1">
 <text x="90%" y="20" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -69,6 +72,7 @@
 <!--VOLTAGE3-->
 <g class="fault" format="%.1f" reference="VOLTAGE3">
 <text x="90%" y="50" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
 </g>
 <!-- STATIC-->
 <path d="M154.748 12.5449H153.436V18.0293C153.436 19.8516 154.736 21.1406 156.857 21.1406C158.979 21.1406 160.279 19.8516 160.279 18.0293V12.5449H158.973V17.918C158.973 19.125 158.205 19.9746 156.857 19.9746C155.51 19.9746 154.748 19.125 154.748 17.918V12.5449ZM162.223 21H162.758V17.4771H162.218L161.291 18.1362V18.6733L162.211 18.019H162.223V21Z" fill="white"/>

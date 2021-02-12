@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Резервуар чистой воды</text>
+</g>
 <g filter="url(#filter0_d)">
 <path d="M384.12 203H150V211H384.12C385.256 208.015 385.33 205.982 384.12 203Z" fill="url(#paint0_linear)"/>
 <path d="M147.507 206.759L140.377 210.88L140.377 202.638L147.507 206.759Z" fill="#FF9500"/>

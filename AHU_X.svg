@@ -153,12 +153,12 @@
         <replace find="SEN-TR">Site:Engineering/Ventilation.AHU_03.AI_22888</replace>
          		    	</visiobas>
     </g>
-<!-- режим AHU!!!!! -->
+<!-- режим AHU!!!!!
 	<g id="MODE" transform="translate(1040,660)">
 		<visiobas src="../svg/svg-element/control/mode.svg">
       <replace find="MODE">Site:Engineering/Ventilation.AHU_03.BO_22437</replace>
     		    	</visiobas>
-    </g>
+    </g>-->
 <!-- температура AHU !!!!-->
 	<g id="TEMP" transform="translate(1110,660)">
 		<visiobas src="../svg/svg-element/control/temp.svg">

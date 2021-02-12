@@ -11,6 +11,7 @@
 <circle cx="19" cy="210.4" r="3" transform="rotate(-180 19 210.4)" fill="#505050"/>
 <!-- надпись типа 1QF26 -->
 <text transform="translate(13,189) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
+<g class="trendlog">
 <!-- ТОК L1 -->
 <g class="fault" format="%.1f" reference="CURRENT1">
 <text x="40%" y="235px" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -23,9 +24,10 @@
 <g class="fault" format="%.1f" reference="CURRENT3">
 <text x="40%" y="265px" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
+</g>
 <!--OFF-->
 <g class="fault inactive" reference="OFF">
-<g class="animation-hide">
+<g class="animation-display">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M18 180.4L20 180.4L20 171.4L34 171.4L34 141.4L20 141.4L20 132.4L21 132.4L19 129.9L17 132.4L18 132.4L18 141.4L4 141.4L4 171.4L18 171.4L18 180.4ZM6 169.4L32 169.4L32 143.4L6 143.4L6 169.4Z" fill="white"/>
 </g>
 </g>
@@ -40,7 +42,7 @@
 
 <!--ALARM-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M18 180.4L20 180.4L20 171.4L34 171.4L34 141.4L20 141.4L20 132.4L21 132.4L19 129.9L17 132.4L18 132.4L18 141.4L4 141.4L4 171.4L18 171.4L18 180.4ZM30 169.4L6 145.4L6 169.4L30 169.4ZM32 143.4L8 143.4L32 167.4L32 156.4L32 143.4Z" fill="#FF0000"/>
 </g>
 </g>

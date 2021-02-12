@@ -1,0 +1,27 @@
+<svg width="438" height="24" viewBox="0 0 438 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- ед измерения -->
+<g>
+<text transform="translate(395,16)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#BEBEBE">MESURE</text>
+</g>
+<!--SATIC -->
+<line x1="1" y1="0.765045" x2="255" y2="0.765045" stroke="#BEBEBE"/>
+<line x1="255.5" y1="1" x2="255.5" y2="23" stroke="#BEBEBE"/>
+<line x1="255" y1="23.235" x2="1" y2="23.235" stroke="#BEBEBE"/>
+<line x1="0.5" y1="23" x2="0.5" y2="1" stroke="#BEBEBE"/>
+<line x1="255" y1="0.765884" x2="346" y2="0.765884" stroke="#BEBEBE"/>
+<line x1="346.5" y1="1" x2="346.5" y2="23.0695" stroke="#BEBEBE"/>
+<line x1="346" y1="23.3036" x2="255" y2="23.3036" stroke="#BEBEBE"/>
+<line x1="254.5" y1="23.0695" x2="254.5" y2="0.999987" stroke="#BEBEBE"/>
+<line x1="346" y1="0.765045" x2="437" y2="0.765045" stroke="#BEBEBE"/>
+<line x1="437.5" y1="1" x2="437.5" y2="23" stroke="#BEBEBE"/>
+<line x1="437" y1="23.235" x2="346" y2="23.235" stroke="#BEBEBE"/>
+<line x1="345.5" y1="23" x2="345.5" y2="1" stroke="#BEBEBE"/>
+<!-- Значение -->
+<g class="fault" format="%.2f" reference="VALUE">
+<text x="67%" y="17" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+<!-- Описание -->
+<g>
+<text transform="translate(125,16)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">DESCRIPTION</text><!--SATIC -->
+</g>
+</svg>

@@ -1,4 +1,6 @@
-<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg"><g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Водоподготовка бассейна</text>
+</g>
 <g filter="url(#filter0_dd)">
 <mask id="path-1-inside-1" fill="white">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M232 112H214V234H1056V112H1039V218H232V112Z"/>

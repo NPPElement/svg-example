@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../svg/svg.css">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" ><svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g>
+<g transform="translate(0,0)">
 		<visiobas src="../svg/svg-schemes/itp1.svg"></visiobas>
 	</g>
 
@@ -32,7 +32,7 @@
 		<!-- ТЕПИЕПЕРАТУРА ГВС TE-1-->
 	<g id="YEMP-GVS" transform="translate(495,262)">
 		<visiobas src="../svg/svg-element/sen/sen-tr.svg">
-    	<replace find="SEN-T">Site:Engineering/Heat_supply.ITP.sensor_te_1</replace>
+    	<replace find="SEN-TR">Site:Engineering/Heat_supply.ITP.sensor_te_1</replace>
          	</visiobas>
 	</g>
 	
@@ -53,22 +53,22 @@
 	
 	<!-- Насос -N3-->
 	<g id="PUMP-N1" transform="translate(880,560)">
-		<g id="PUMP-N1" transform="translate(880,606)">
+		
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering/Heat_supply.ITP.nc3_status</replace>
-    	<replace find="PUMP-R-CONTROL">Site:Engineering/Heat_supply.ITP.nc3_control</replace>
-        <replace find="ALARM">Site:Engineering/Heat_supply.ITP.nc3_alarm</replace>
-        <replace find="HAND-PUMP-R">Site:Engineering/Heat_supply.ITP.nc3_auto</replace>
+    	<replace find="PUMP-L-STATUS">Site:Engineering/Heat_supply.ITP.nc3_status</replace>
+    	<replace find="PUMP-L-CONTROL">Site:Engineering/Heat_supply.ITP.nc3_control</replace>
+        <replace find="ALARM-PUMP-L">Site:Engineering/Heat_supply.ITP.nc3_alarm</replace>
+        <replace find="HAND-PUMP-L">Site:Engineering/Heat_supply.ITP.nc3_auto</replace>
     	</visiobas>
 	</g>
 	</g>
 	<!-- Насос -NC4-->
 	<g id="PUMP-N1" transform="translate(880,606)">
 		<visiobas src="../svg/svg-element/pump/pump-l.svg">
-    	<replace find="PUMP-R-STATUS">Site:Engineering/Heat_supply.ITP.nc4_status</replace>
-    	<replace find="PUMP-R-CONTROL">Site:Engineering/Heat_supply.ITP.nc4_control</replace>
-        <replace find="ALARM">Site:Engineering/Heat_supply.ITP.nc4_alarm</replace>
-        <replace find="HAND-PUMP-R">Site:Engineering/Heat_supply.ITP.nc4_auto</replace>
+    	<replace find="PUMP-L-STATUS">Site:Engineering/Heat_supply.ITP.nc4_status</replace>
+    	<replace find="PUMP-L-CONTROL">Site:Engineering/Heat_supply.ITP.nc4_control</replace>
+        <replace find="ALARM-PUMP-L">Site:Engineering/Heat_supply.ITP.nc4_alarm</replace>
+        <replace find="HAND-PUMP-L">Site:Engineering/Heat_supply.ITP.nc4_auto</replace>
     	</visiobas>
 	</g>
 <!-- перепад давления Отопление-->
@@ -103,7 +103,7 @@
 
 
 		<!-- ТЕПИЕПЕРАТУРА теплоноситель TE-1.2-->
-	<g id="YEMP-GVS" transform="translate(123,590)">
+	<g id="YEMP-GVS" transform="translate(133,590)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
     	<replace find="SEN-T">Site:Engineering/Heat_supply.ITP.sensor_te_7</replace>
          	</visiobas>
@@ -111,31 +111,31 @@
 
 
 		<!-- Давление теплоноситель PE-1.1-->
-	<g id="YEMP-GVS" transform="translate(160,484)">
+	<g id="YEMP-GVS" transform="translate(152,484)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-T">Site:Engineering/Heat_supply.ITP.sensor_pe_1</replace>
+    	<replace find="SEN-R">Site:Engineering/Heat_supply.ITP.sensor_pe_1</replace>
          	</visiobas>
 	</g>
 
 
 		<!-- Давление теплоноситель PE-1.2-->
-	<g id="YEMP-GVS" transform="translate(160,590)">
+	<g id="YEMP-GVS" transform="translate(190,590)">
 		<visiobas src="../svg/svg-element/sen/sen-r.svg">
-    	<replace find="SEN-T">Site:Engineering/Heat_supply.ITP.sensor_pe_2</replace>
+    	<replace find="SEN-R">Site:Engineering/Heat_supply.ITP.sensor_pe_2</replace>
          	</visiobas>
 	</g>
 
 <!-- Клапан ГВС -->
-	<g id="TEMP" transform="translate(640,270)">
+	<g id="TEMP-MIN" transform="translate(640,270)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-     <replace find="TEMP">Site:Engineering/Heat_supply.ITP.valve1_pos</replace>
+     <replace find="TEMP-MIN">Site:Engineering/Heat_supply.ITP.valve1_pos</replace>
     		    	</visiobas>
     </g>
 
 <!-- Клапан отопление -->
-	<g id="TEMP" transform="translate(759,680)">
+	<g id="TEMP-MIN" transform="translate(759,680)">
 		<visiobas src="../svg/svg-element/control/temp-min.svg">
-     <replace find="TEMP">Site:Engineering/Heat_supply.ITP.valve2_pos</replace>
+     <replace find="TEMP-MIN">Site:Engineering/Heat_supply.ITP.valve2_pos</replace>
     		    	</visiobas>
     </g>
 

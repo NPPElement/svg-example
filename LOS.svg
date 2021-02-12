@@ -126,7 +126,7 @@
 <!-- резервуар-2 -->
 	<g id="TANK-CW" transform="translate(30,440)">
 		<visiobas src="../svg/svg-element/water/lvl-los-cle.svg">
-            <replace find="level-1">Site:Engineering.WC_WS.LOS.LevelSL4</replace>
+        <replace find="level01">Site:Engineering/WC_WS.LOS.LevelSL4</replace>
         <replace find="level-2">Site:Engineering/WC_WS.LOS.LevelSL5</replace>
         <replace find="level-3">Site:Engineering/WC_WS.LOS.LevelSL6</replace>
         <replace find="level-4">Site:Engineering/WC_WS.LOS.LevelSL7</replace>

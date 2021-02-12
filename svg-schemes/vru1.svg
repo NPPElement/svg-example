@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Вводно-распределительная устройство № 1</text>
+</g>
 <rect x="628" y="140" width="10" height="496" transform="rotate(-90 628 140)" fill="#BEBEBE"/>
 <rect x="692" y="289" width="10" height="432" transform="rotate(-90 692 289)" fill="#BEBEBE"/>
 <rect x="1114" y="130" width="10" height="149" fill="#BEBEBE"/>

@@ -10,7 +10,7 @@
 <rect id="Rectangle" x="-0.5" y="0.5" width="44.8924" height="4.99209" rx="0.5" transform="matrix(-1 0 0 1 72.4873 0)" fill="url(#los-paint0_linear)" stroke="#BEBEBE"/>
 <rect id="Rectangle_2" x="-0.5" y="0.5" width="44.8924" height="4.99209" rx="0.5" transform="matrix(-1 0 0 1 187.218 0)" fill="url(#los-paint1_linear)" stroke="#BEBEBE"/>
 <g id="level">
-<g class="fault inactive" reference="level-1">
+<g class="fault inactive" reference="level01">
 <path id="Ellipse 2" d="M49.5506 191.436C53.8274 196.26 55.598 201.654 52.7285 204.162C49.859 206.669 44.5382 204.378 40.2615 199.554C36.5856 190.364 32.9492 188.469 36.2555 185.579C39.125 183.072 40.6791 186.787 49.5506 191.436Z"/>
 <path id="Rectangle_3" d="M25.2894 160.369L25.83 160.15C26.8677 170.774 29.3167 176.344 36.4946 185.666L35.9541 185.885C28.8928 176.552 26.2796 171.03 25.2894 160.369Z" fill="#C4C4C4"/>
 <g class="animation-display">

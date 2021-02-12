@@ -49,7 +49,7 @@
 	</g>
 	
 			<!-- Лифты -->
-	<g class="reference" reference="../svg/LIFTS.svg">
+	<g class="reference" reference="../svg/LIFT.svg">
 	    <g transform="translate(450,500)">
 			<visiobas src="../svg/svg-element/main_menu/button_lift.svg">
 				<replace find="LABEL">Лифты</replace>
@@ -60,7 +60,7 @@
 	
 	
 	<!-- Водоснабжение -->
-	<g class="reference" reference="../svg/MAIN_WS.svg">
+	<g class="reference" reference="../svg/RCHV.svg">
 	    <g transform="translate(900,100)">
 			<visiobas src="../svg/svg-element/main_menu/button_water.svg">
 				<replace find="LABEL">Водоснабжение</replace>
@@ -78,7 +78,7 @@
 	</g>
 	
 			<!-- КНС -->
-	<g class="reference" reference="../svg/KNS.svg">
+	<g class="reference" reference="../svg/MAIN_WS.svg">
 	    <g transform="translate(900,500)">
 			<visiobas src="../svg/svg-element/main_menu/button_wc.svg">
 				<replace find="LABEL">Водоотведение</replace>

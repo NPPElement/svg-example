@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Хладоснабжение</text>
+</g>
 <path d="M658 186L658 259L666 259L666 186L658 186Z" fill="url(#paint0_linear)"/>
 <path d="M666 207L666 237L658 237L658 207L666 207Z" fill="url(#paint1_linear)"/>
 <path d="M656 236L656 231L668 231L668 236L656 236Z" fill="url(#paint2_linear)"/>

@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">ИТП № 2</text>
+</g>
 <path d="M287.917 647H93.0005V655H287.917V647Z" fill="url(#paint0_linear)"/>
 <path d="M234 658V655.01C231.868 653.592 230.299 653.737 228 655.01V658H234Z" fill="url(#paint1_linear)"/>
 <path d="M228 679V655H234V679H228Z" fill="url(#paint2_linear)"/>

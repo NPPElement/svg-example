@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Канализационная насосная станция</text>
+</g>
 <g filter="url(#filter0_d)">
 <mask id="path-1-inside-1" fill="white">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M848.958 144H815V610H1148V144H1115V577H848.958V144Z"/>

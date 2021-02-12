@@ -10,6 +10,7 @@
 <circle cx="15.3936" cy="54" r="3" fill="#505050"/>
 <!--QF_name-->
 <text transform="translate(9,75) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
+<g class="trendlog">
 <!--CURR1-->
 <g class="fault" format="%.1f" reference="CURRENT1">
 <text x="52%" y="10" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -22,10 +23,10 @@
 <g class="fault" format="%.1f" reference="CURRENT1">
 <text x="52%" y="40" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
-
+</g>
 <!--OFF-->
 <g class="fault inactive" reference="OFF">
-<g class="animation-hide">
+<g class="animation-display">
 <path d="M26 96L4 96L4 94L14 94L14 85.6531L14 85L16 85L16 85.6531L16 94L26 94L26 96Z" fill="white"/>
 <path d="M4 106L26 106L26 110L22 110L22 114L14 114L14 110L9 110L4 110L4 106Z" fill="white"/>
 <path d="M4 121L26 121L26 123.074L16 123.074L16 132.407L17 132.407L15 135L13 132.407L14 132.407L14 123.074L4 123.074L4 121Z" fill="white"/>
@@ -41,7 +42,7 @@
 </g>
 <!--ALARM-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path d="M26 96L4 96L4 94L14 94L14 85.6531L14 85L16 85L16 85.6531L16 94L26 94L26 96Z" fill="#FF0000"/>
 <path d="M5.78643 114.449L21.3428 98.8926L24.1712 101.721L21.3428 104.549L24.1712 107.378L18.5143 113.035L15.6859 110.206L12.1504 113.742L8.61485 117.277L5.78643 114.449Z" fill="#FF0000"/>
 <path d="M4 121L26 121L26 123L16 123L16 132.407L17 132.407L15 135L13 132.407L14 132.407L14 123L4 123L4 121Z" fill="#FF0000"/>
@@ -49,7 +50,7 @@
 </g>
 <!--fault-->
 <g class="fault inactive">
-<g class="animation-display">
+<g class="animation-hide">
 <g transform="translate(0,85)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M16 0H14V9H0V39H14V48V49H16V48V39H30V9H16V0ZM28 11.0001H1.99999V37.0001H28V11.0001Z" fill="#BEBEBE"/>
 <path d="M26 37H4V37.3871H14V48.2258H13L15 49L17 48.2258H16V37.3871H26V37Z" fill="#BEBEBE"/>

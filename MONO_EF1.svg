@@ -9,8 +9,8 @@
         <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AV_3001</replace>
         <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AI_3000</replace>
         <replace find="ON-OFF-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3004</replace>
-        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3002</replace>
-        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3003</replace>
+        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3000</replace>
+        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BV_3003</replace>
 	
 	</g>
 

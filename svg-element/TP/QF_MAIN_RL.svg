@@ -2,7 +2,7 @@
 
 <!--OFF-->
 <g class="fault inactive" reference="OFF">
-<g class="animation-hide">
+<g class="animation-display">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M126 92H128V83H142V53H128V44V43H126V44V53L112 53V83H126V92ZM114 80.9999H140V54.9999H114V80.9999Z" fill="white"/>
 </g>
 </g>
@@ -17,7 +17,7 @@
 
 <!--alarm-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M126 92H128V83H142V53H128V44V43H126V44V53L112 53V83H126V92ZM138 80.9999L114 56.9999V80.9999H138ZM140 54.9999H116L140 78.9999V67.9999V54.9999Z" fill="#FF0000"/>
 </g>
 </g>
@@ -44,7 +44,7 @@
 <!-- QF_NAME-->
 <text transform="translate(120,105) rotate(270)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
 
-
+<g class="trendlog">
 <!-- CURRENT-->
 <!--CURR1-->
 <g class="fault" format="%.1f" reference="CURRENT1">
@@ -58,7 +58,7 @@
 <g class="fault" format="%.1f" reference="CURRENT3">
 <text x="20%" y="50" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
-
+</g>
 
 
 
@@ -69,6 +69,7 @@
 <path d="M11.2085 34V25.5449H9.896V34H11.2085ZM12.2319 31.5098V31.5146H12.7495V31.5073C12.7495 31.1411 13.04 30.8628 13.4258 30.8628C13.792 30.8628 14.0752 31.1118 14.0752 31.4243C14.0752 31.7002 13.9629 31.8857 13.5332 32.3325L12.2612 33.6289V34H14.6709V33.5386H12.9985V33.5264L13.8799 32.6401C14.395 32.1128 14.6147 31.8076 14.6147 31.3975C14.6147 30.8384 14.1143 30.4111 13.4429 30.4111C12.7422 30.4111 12.2319 30.875 12.2319 31.5098Z" fill="white"/>
 <path d="M11.1426 47V38.5449H9.83008V47H11.1426ZM12.9619 45.4058H13.4014C13.8652 45.4058 14.1533 45.6401 14.1533 46.021C14.1533 46.3652 13.8457 46.6094 13.416 46.6094C12.9717 46.6094 12.6934 46.3774 12.6592 46.0405H12.1343C12.1685 46.6484 12.6567 47.0659 13.416 47.0659C14.1509 47.0659 14.71 46.6436 14.71 46.0283C14.71 45.5352 14.3682 45.2104 13.8384 45.1738V45.1641C14.2754 45.0859 14.5635 44.771 14.5635 44.3315C14.5635 43.7896 14.0776 43.4111 13.4111 43.4111C12.7129 43.4111 12.2466 43.8091 12.2051 44.4268H12.7202C12.752 44.0801 13.0059 43.8604 13.3867 43.8604C13.8042 43.8604 14.0288 44.0776 14.0288 44.4048C14.0288 44.7368 13.7676 44.9761 13.3867 44.9761H12.9619V45.4058Z" fill="white"/>
 <!--voltage-->
+<g class="trendlog">
 <!--VOLTAGE1-->
 <g class="fault" format="%.1f" reference="VOLTAGE1">
 <text x="55%" y="20" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -81,7 +82,7 @@
 <g class="fault" format="%.1f" reference="VOLTAGE3">
 <text x="55%" y="50" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
-
+</g>
 
 
 

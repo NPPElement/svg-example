@@ -13,8 +13,8 @@
         <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AV_3001</replace>
         <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AI_3000</replace>
         <replace find="ON-OFF-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3004</replace>
-        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3002</replace>
-        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3003</replace>
+        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BI_3000</replace>
+        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.BV_3003</replace>
          		    	</visiobas>
 	</g>
 	
@@ -28,12 +28,12 @@
 <!--В2 -->
 <g id="VENT2" transform="translate(320,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
-			<replace find="VENT-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3010</replace>
-        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AV_3011</replace>
-        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AI_3010</replace>
+		<replace find="VENT-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3010</replace>
+        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.AV_3011</replace>
+        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.AI_3010</replace>
         <replace find="ON-OFF-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3014</replace>
-        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3012</replace>
-        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3013</replace>
+        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BI_3010</replace>
+        <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 2.BV_3013</replace>
          		    	</visiobas>
 	</g>
 
@@ -50,10 +50,10 @@
 		<g id="VENT3" transform="translate(620,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
 			<replace find="VENT-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.BI_3020</replace>
-        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AV_3021</replace>
-        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AI_3020</replace>
+        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.AV_3021</replace>
+        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.AI_3020</replace>
         <replace find="ON-OFF-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.BI_3024</replace>
-        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.BI_3022</replace>
+        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.BI_3020</replace>
         <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 3.BV_3023</replace>
          		    	</visiobas>
 	</g>
@@ -73,10 +73,10 @@
 <g id="VENT5" transform="translate(920,430)">
 		<visiobas src="../svg/svg-element/vent/ahu-b.svg">
 			<replace find="VENT-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.BI_3030</replace>
-        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AV_3031</replace>
-        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 1.AI_3030</replace>
+        <replace find="SEN-AHU-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.AV_3031</replace>
+        <replace find="SEN-AHU-B-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.AI_3030</replace>
         <replace find="ON-OFF-STATUS">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.BI_3034</replace>
-        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.BI_3032</replace>
+        <replace find="STATUS-R-B">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.BI_3030</replace>
         <replace find="VENT-B-CONTROL">Site:Engineering/Ventilation.RetFans.VENTILATOR 4.BV_3033</replace>
          		    	</visiobas>
 	</g>

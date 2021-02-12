@@ -18,7 +18,7 @@
 
 <!--  АВАРИЯ-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M33 84H31V93H17V123H31V132H30L32 134.5L34 132H33V123H47V93H33V84ZM21 95.0001L45 119V95.0001H21ZM19 121H43L19 97.0001V108V121Z" fill="#FF0000"/>
 </g>
 </g>
@@ -47,7 +47,7 @@
 <!-- надпись типа 1QF26 -->
 <text transform="translate(10,215) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
 
-
+<g class="trendlog">
 <!-- ток3-->
 
 <g class="fault" format="%.1f" reference="CURRENT3">
@@ -80,4 +80,5 @@
 <path d="M46.422 206.234H42.8419V210.001H41.7169V201.47H47.0021V202.396H42.8419V205.314H46.422V206.234ZM51.0919 204.634C50.9279 204.607 50.7501 204.593 50.5587 204.593C49.8478 204.593 49.3654 204.896 49.1115 205.501V210.001H48.0275V203.662H49.0822L49.0997 204.394C49.4552 203.828 49.9591 203.544 50.6115 203.544C50.8224 203.544 50.9826 203.572 51.0919 203.626V204.634Z" fill="white"/>
 <rect x="38.5001" y="137.501" width="48" height="88" stroke="#BEBEBE"/>
 <line x1="38.0001" y1="143.501" x2="13.0001" y2="143.501" stroke="#BEBEBE"/>
+</g>
 </svg>

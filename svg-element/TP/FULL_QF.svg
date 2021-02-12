@@ -16,7 +16,7 @@
 <!-- надпись типа 1QF26 -->
 <text transform="translate(25,75) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
 
-
+<g class="trendlog">
 <!-- ТОК L1 -->
 <g class="fault" format="%.1f" reference="CURRENT1">
 <text x="62%" y="10" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
@@ -29,12 +29,12 @@
 <g class="fault" format="%.1f" reference="CURRENT3">
 <text x="62%" y="40" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
 </g>
-
+</g>
 
 
 <!-- ОТКЛЮЧЕН -->
 <g class="fault inactive" reference="OFF">
-<g class="animation-hide">
+<g class="animation-display">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M33 84H31V93H17V123H31V132H30L32 134.5L34 132H33V123H47V93H33V84ZM45 95.0001H19V121H45V95.0001Z" fill="white"/>
 </g>
 </g>
@@ -48,7 +48,7 @@
 
 <!--  АВАРИЯ-->
 <g class="fault inactive" reference="ALARM">
-<g class="animation-display">
+<g class="animation-fail">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M33 84H31V93H17V123H31V132H30L32 134.5L34 132H33V123H47V93H33V84ZM21 95.0001L45 119V95.0001H21ZM19 121H43L19 97.0001V108V121Z" fill="#FF0000"/>
 </g>
 </g>

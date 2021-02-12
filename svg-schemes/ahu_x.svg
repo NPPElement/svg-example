@@ -1,4 +1,7 @@
 <svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Приточно-вытяжная установка № 3</text>
+</g>
 <path d="M727 493.998H1138L1124.11 527.998H713L727 493.998Z" fill="url(#paint0_linear)"/>
 <path d="M149.458 493.998H572L547.238 525.998H138L149.458 493.998Z" fill="url(#paint1_linear)"/>
 <path d="M678 425.998H1138V493.998H727L678 425.998Z" fill="#848484"/>
