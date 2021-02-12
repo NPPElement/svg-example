@@ -2,5 +2,3 @@
 tiles
 map
 .DS_Store
-!build_tile_map.sh
-!build_tile_plan.sh
