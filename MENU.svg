@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="../svg/svg.css">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
 
-
 	<!-- Вентиляция -->
 	<g class="reference" reference="../svg/MAIN_VENT.svg">
 	    <g transform="translate(0,100)">
@@ -10,8 +9,7 @@
 	        </visiobas>
 		</g>
 	</g>
-
-
+	
 	<!-- Теплоснабжение -->
 	<g class="reference" reference="../svg/MAIN_HEAT.svg">
 	    <g transform="translate(0,300)">
@@ -57,8 +55,6 @@
 		</g>
 	</g>
 	
-	
-	
 	<!-- Водоснабжение -->
 	<g class="reference" reference="../svg/RCHV.svg">
 	    <g transform="translate(900,100)">
@@ -85,13 +81,6 @@
 	        </visiobas>
 		</g>
 	</g>
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	<defs>
