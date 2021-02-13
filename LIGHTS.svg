@@ -9,8 +9,9 @@
 
 <!-- QF1-->
 	<g id="2QF28" transform="translate(301,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-tuN.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30118</replace>
+      
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30018</replace>
                	</visiobas>
 	</g>

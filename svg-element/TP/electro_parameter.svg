@@ -1,0 +1,11 @@
+<svg width="261" height="18" viewBox="0 0 261 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="description">
+<text transform="translate(0,15)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#FFFFFF">DESCRIPT</text>
+</g>
+<g id="val" reference="VALUE">
+<text transform="translate(100,15)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#4CD964">...</text>
+</g>
+<g id="mesure">
+<text transform="translate(150,15)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#4CD964">MESURE</text>
+</g>
+</svg>

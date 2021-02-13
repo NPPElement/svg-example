@@ -136,7 +136,7 @@
 		<visiobas src="../svg/svg-element/TP/QF_MIN_R.svg">
         <replace find="QF_NAME">2QF27</replace>
         <replace find="LINE_NAME">2П-27</replace>
-        <replace find="EC_NAME">ЩПСН-2.ЯСН-В2</replace>
+        <replace find="EC_NAME">ЩПСН-2.ЯСН</replace>
         
           	              	    	</visiobas>
 	</g>

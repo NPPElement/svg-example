@@ -11,15 +11,15 @@
 
 
 <!--reference-->
-<g class="reference" reference="../svg/TP_SECTION_2.svg" transform="translate(395,630)">
+<g class="reference" reference="../svg/TP_SECTION_1.svg" transform="translate(395,630)">
 <visiobas src="../svg/svg-element/TP/HREF.svg">
-<replace find="SVG_FILE">Секция 2</replace>
+<replace find="SVG_FILE">Секция 1</replace>
 </visiobas>
 </g>
 <!--reference-->
-<g class="reference" reference="../svg/TP_SECTION_1.svg" transform="translate(700,630)">
+<g class="reference" reference="../svg/TP_SECTION_2.svg" transform="translate(700,630)">
 <visiobas src="../svg/svg-element/TP/HREF.svg">
-<replace find="SVG_FILE">Секция 1</replace>
+<replace find="SVG_FILE">Секция 2</replace>
 </visiobas>
 </g>
 

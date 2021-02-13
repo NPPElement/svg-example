@@ -51,21 +51,21 @@
 <!-- Уставка температуры бассейна -->
 	<g id="TEMP-SET" transform="translate(980,40)">
 		<visiobas src="../svg/svg-element/control/temp.svg">
-     <replace find="TEMP">Site:Engineering/WC_WS.POOL.TEMPUST</replace>
+     <replace find="TEMP">Site:Engineering/WC_WS.POOL.TEMPUST2</replace>
     		    	</visiobas>
     </g>
 <!--температура воды бассейна-->
 	<g id="POOl=TEMP" transform="translate(980,89)">
 		<visiobas src="../svg/svg-element/sen/sen-t.svg">
-        <replace find="SEN-T">Site:Engineering/WC_WS.POOL.CLFACT</replace>
+        <replace find="SEN-T">Site:Engineering/WC_WS.POOL.CLFACT2</replace>
   
     		    	</visiobas>
 	</g>
 <!--Уровень воды в емкости чистой воды-->
 	<g id="CWT-LVL" transform="translate(110,409)">
 		<visiobas src="../svg/svg-element/water/lvl-villa.svg">
-        <replace find="level-1">Site:Engineering/WC_WS.POOL.PHMIN</replace>
-      <replace find="level-2">Site:Engineering/WC_WS.POOL.PHMAX</replace>
+        <replace find="level-1">Site:Engineering/WC_WS.POOL.WaterMIN</replace>
+      <replace find="level-2">Site:Engineering/WC_WS.POOL.WaterMAX</replace>
     		    	</visiobas>
 	</g>
 <!--Клапан подачи чистой воды-->

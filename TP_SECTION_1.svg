@@ -370,7 +370,7 @@
 		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
         <replace find="QF_NAME">1QF18</replace>
         <replace find="LINE_NAME">1П-18</replace>
-        <replace find="EC_NAME">Ав.полив.Верх.вод.</replace>
+        <replace find="EC_NAME">Авто полив</replace>
        <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_18.AI_330</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_18.AI_331</replace>
         <replace find="CURRENT3">Site:Engineering/Electricity.TP_1002.SECTION_1.1QF_18.AI_332</replace>
@@ -502,7 +502,7 @@
 		<visiobas src="../svg/svg-element/TP/QF_MIN.svg">
         <replace find="QF_NAME">1QF27</replace>
         <replace find="LINE_NAME">1П-27</replace>
-        <replace find="EC_NAME">ШПСН-1.ЯСН-В1</replace>
+        <replace find="EC_NAME">ШПСН-1.ЯСН</replace>
                 	              	    	</visiobas>
 	</g>
 	
