@@ -1,0 +1,59 @@
+<svg width="274" height="279" viewBox="0 0 274 279" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="270" height="275" rx="5" fill="#3396FF"/>
+<rect x="12" y="11" width="249" height="199" rx="5" fill="#2F3235"/>
+<g filter="url(#filter0_i)">
+<rect x="45" y="24" width="206" height="174" rx="5" fill="black"/>
+</g>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="12" y="236.652">UMG 96 RM</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="64.6523">L1</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="114.652">L2</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="164.652">L3</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="177" y="268.102">Power Analyser</tspan></text>
+<rect width="273.927" height="279" rx="5" fill="#007AFF"/>
+<rect x="1" y="1" width="270" height="275" rx="5" fill="#3396FF"/>
+<rect x="12" y="11" width="249" height="199" rx="5" fill="#2F3235"/>
+<g filter="url(#filter1_i)">
+<rect x="45" y="24" width="206" height="174" rx="5" fill="black"/>
+</g>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="12" y="236.652">UMG 96 RM</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="64.6523">L1</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="114.652">L2</tspan></text>
+<text fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em"><tspan x="20" y="164.652">L3</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="177" y="268.102">Power Analyser</tspan></text>
+
+
+<g id="v1" reference="U1" transform="translate(80,70)">
+<text fill="#4CD964" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="76" y="76.2051">...</tspan></text>
+</g>
+<g id="v2" reference="U2" transform="translate(80,120)">
+<text fill="#4CD964" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="76" y="124.205">...</tspan></text>
+</g>
+<g id="v3" reference="U3" transform="translate(80,170)">
+<text fill="#4CD964" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="76" y="172.205">...</tspan></text>
+</g>
+<g transform="translate(-5,0)">
+<text fill="#FF9500" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="199" y="114.652">Вольт</tspan></text>
+</g>
+<defs>
+<filter id="filter0_i" x="45" y="20" width="208" height="178" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="-4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.403922 0 0 0 0 0.403922 0 0 0 0 0.443137 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter1_i" x="45" y="20" width="208" height="178" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="-4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.403922 0 0 0 0 0.403922 0 0 0 0 0.443137 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+</defs>
+</svg>

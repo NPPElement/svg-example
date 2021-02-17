@@ -1,0 +1,69 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+	
+	
+	
+<!-- Схема-->	
+<g>
+	<visiobas src="../svg/svg-schemes/ex_analyzer.svg"></visiobas>
+</g>
+<!-- Подпись -->
+<g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Газоанализатор РР-02</text>
+</g>
+
+<!--Trends-->
+<g class='graph' transform='translate(60,435)' gr-width="1150" gr-height='250' id='gr_chartist'>
+
+</g>
+
+
+
+
+
+
+
+
+
+
+
+<g class="trendlog">
+<!-- прибор-->
+<g id="dataL" transform="translate(359,145)">
+	<visiobas src="../svg/svg-element/gas/analizer.svg">
+    <replace find="CH4">Site:GAS_ANALYZERS/GAS_ANALYZER_2.CH4_LEVEL</replace>
+    <replace find="C3H8">Site:GAS_ANALYZERS/GAS_ANALYZER_2.C3H8_LEVEL</replace>
+    <replace find="EX">Site:GAS_ANALYZERS/GAS_ANALYZER_2.Ex_LEVEL</replace>
+    <replace find="H2">Site:GAS_ANALYZERS/GAS_ANALYZER_2.H2_LEVEL</replace>
+    </visiobas>
+</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	<!-- Переход вверх по меню-->
+	<g class="reference" reference="../svg/MENU.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/button_home.svg">
+			
+        </visiobas>
+	</g>
+	</g>
+
+</svg>
+

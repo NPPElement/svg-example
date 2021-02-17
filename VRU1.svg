@@ -431,7 +431,7 @@
 	</g>
 	
 	<!-- UMG-->
-	<g class="reference" reference="../svg/DCQEE.svg">
+	
 	<g id="UMG" transform="translate(388,281)">
 		<visiobas src="../svg/svg-element/TP/umg_dcqee.svg">
 			<replace find="CURR1">Site:Engineering/Electricity.UMG_96RM.REG_19012</replace>
@@ -446,10 +446,14 @@
 			<replace find="S1">Site:Engineering/Electricity.UMG_96RM.REG_19028</replace>
 			<replace find="S2">Site:Engineering/Electricity.UMG_96RM.REG_19030</replace>
 			<replace find="S3">Site:Engineering/Electricity.UMG_96RM.REG_19032</replace>
-        
-               	</visiobas>
+            </visiobas>
 	</g>
+	
+<g class="reference" reference="../svg/ANALYZER.svg">
+	<g id="UMG" transform="translate(384,322)">
+		<visiobas src="../svg/svg-element/control/Button.svg">
 	</g>
+</g>
 	
 	
 	

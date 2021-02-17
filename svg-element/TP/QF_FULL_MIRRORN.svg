@@ -1,0 +1,74 @@
+<svg width="51" height="268" viewBox="0 0 51 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="34" y="128.4" width="32" height="11" transform="rotate(-180 34 128.4)" fill="#BEBEBE"/>
+<!--   надпись типа 1П-1 -->
+<text transform="translate(15,127)"   font-size="12px" font-family="SF Pro Display" text-anchor="middle" fill="#000000">LINE_NAME</text>
+
+<!--   название потребителя -->
+<text transform="translate(17,48) rotate(270)"   font-size="16px" font-family="SF Pro Display" text-anchor="middle" fill="#BEBEBE">EC_NAME</text>
+<!-- static-->
+<path d="M21 205.4L17 205.4L17 180.4L19 180.4L21 180.4L21 205.4Z" fill="#BEBEBE"/>
+<circle cx="19" cy="210.4" r="3" transform="rotate(-180 19 210.4)" fill="#505050"/>
+<!-- надпись типа 1QF26 -->
+<text transform="translate(13,189) rotate(270)"   font-size="10px" font-family="SF Pro Display" text-anchor="middle" fill="#FF9500">QF_NAME</text>
+<g class="trendlog">
+<!-- ТОК L1 -->
+<g class="fault" format="%.1f" reference="CURRENT1">
+<text x="40%" y="235px" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+<!-- ТОК L2 -->
+<g class="fault" format="%.1f" reference="CURRENT2">
+<text x="40%" y="250px" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+<!-- ТОК L3 -->
+<g class="fault" format="%.1f" reference="CURRENT3">
+<text x="40%" y="265px" font-size="12px" font-family="Antonio-Regular" text-anchor="middle">...</text>
+</g>
+</g>
+<!--OFF-->
+<g class="fault inactive" reference="OFF">
+<g class="animation-display">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 180.4L20 180.4L20 171.4L34 171.4L34 141.4L20 141.4L20 132.4L21 132.4L19 129.9L17 132.4L18 132.4L18 141.4L4 141.4L4 171.4L18 171.4L18 180.4ZM6 169.4L32 169.4L32 143.4L6 143.4L6 169.4Z" fill="white"/>
+</g>
+</g>
+
+<!--ON-->
+<g class="fault inactive" reference="ON">
+<g class="animation-display">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 180.4L20 180.4L20 171.4L34 171.4L34 141.4L20 141.4L20 132.4L21 132.4L19 129.9L17 132.4L18 132.4L18 141.4L4 141.4L4 171.4L18 171.4L18 180.4ZM6 169.4L32 169.4L32 143.4L6 143.4L6 169.4Z" fill="#4CD964"/>
+<path d="M8 167.4L30 167.4L30 145.4L8 145.4L8 167.4Z" fill="#4CD964"/>
+</g>
+</g>
+
+<!--ALARM-->
+<g class="fault inactive" reference="ALARM">
+<g class="animation-fail">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 180.4L20 180.4L20 171.4L34 171.4L34 141.4L20 141.4L20 132.4L21 132.4L19 129.9L17 132.4L18 132.4L18 141.4L4 141.4L4 171.4L18 171.4L18 180.4ZM30 169.4L6 145.4L6 169.4L30 169.4ZM32 143.4L8 143.4L32 167.4L32 156.4L32 143.4Z" fill="#FF0000"/>
+</g>
+</g>
+
+<!--FAULT-->
+<g class="fault" reference="ALARM">
+<g class="qf-folt">
+<g transform="translate(4,132)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 0H14V9H0V39H14V48V49H16V48V39H30V9H16V0ZM28 11.0001H1.99999V37.0001H28V11.0001Z" fill="#BEBEBE"/>
+<path d="M26 37H4V37.3871H14V48.2258H13L15 49L17 48.2258H16V37.3871H26V37Z" fill="#BEBEBE"/>
+<path d="M26 13H4V35H26V13Z" fill="white"/>
+<path d="M9.78516 20.5078H11.7891C11.918 18.832 13.043 17.7891 14.8125 17.7891C16.5586 17.7891 17.6836 18.8555 17.6836 20.3086C17.6836 21.5625 17.1562 22.3008 15.7969 23.1328C14.1914 24.0938 13.4414 25.1484 13.4531 26.6953V27.7734H15.5039V27.0117C15.5039 25.7812 15.9258 25.125 17.4141 24.2461C18.9141 23.3438 19.8633 22.043 19.8633 20.2031C19.8633 17.7891 17.8477 15.9609 14.8945 15.9609C11.6016 15.9609 9.91406 17.9766 9.78516 20.5078ZM14.4844 33.1172C15.2461 33.1172 15.8203 32.5312 15.8203 31.7812C15.8203 31.0195 15.2461 30.4453 14.4844 30.4453C13.7344 30.4453 13.1484 31.0195 13.1484 31.7812C13.1484 32.5312 13.7344 33.1172 14.4844 33.1172Z" fill="#BEBEBE"/>
+</g>
+</g>
+</g>
+
+
+<defs>
+<filter id="filter0_d" x="0" y="36.5742" width="38" height="230.849" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

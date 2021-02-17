@@ -39,49 +39,49 @@
 
 <!-- QF1-1-->
 	<g id="2QF11" transform="translate(532,201)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF11Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF11Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-2-->
 	<g id="2QF12" transform="translate(583,201)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF12Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF12Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-3-->
 	<g id="2QF13" transform="translate(634,201)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF13Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF13Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-4-->
 	<g id="2QF14" transform="translate(685,201)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF14Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF14Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-5-->
 	<g id="2QF15" transform="translate(736,201)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF15Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF15Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-6-->
 	<g id="2QF16" transform="translate(787,201)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
            <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF16Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF16Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF1-7-->
 	<g id="2QF17" transform="translate(838,201)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF17Stat</replace>
        <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_1.QF17Alar</replace>
         
@@ -105,49 +105,49 @@
 
 <!-- QF2-8-->
 	<g id="2QF28" transform="translate(530,470)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF28Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF28Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-7-->
 	<g id="2QF27" transform="translate(580,470)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF27Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF27Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-6-->
 	<g id="2QF26" transform="translate(625,470)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF26Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF26Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-5-->
 	<g id="2QF25" transform="translate(675,470)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF25Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF25Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-4-->
 	<g id="2QF24" transform="translate(725,470)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
        <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF24Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF24Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-3-->
 	<g id="2QF23" transform="translate(775,470)">
-		<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+		<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF23Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF23Alar</replace>
                	</visiobas>
 	</g>
 <!-- QF2-2-->
 	<g id="2QF22" transform="translate(826,470)">
-	<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+	<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF22Stat</replace>
               <replace find="QF-ALARM">Site:Engineering/Electricity.VRU2.SECTION_RP_2.QF22Alar</replace>
                	</visiobas>

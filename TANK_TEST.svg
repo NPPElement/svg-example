@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" ><svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+   
+<!-- TANK-DT-->
+<g transform="translate(290,130)">
+	<visiobas src="../svg/svg-element/azs/tank_dt.1.svg">
+	  <!-- <replace find="LVL">Site:PETROL-STATIONS/PETROL-STATION_1.tankDT_level</replace>--> 
+	   	</visiobas>
+</g>  
+   
+
+<!-- TANK-DT-->
+<g transform="translate(290,130)">
+	<visiobas src="../svg/svg-element/azs/benzin.svg">
+	   
+	   	</visiobas>
+</g>  
+   
+
+
+
+
+
+
+
+			<!-- Переход вверх в корень системы-->
+	<g class="reference" reference="../svg/AZS_1.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/button_home.svg">
+			
+        </visiobas>
+	</g>
+	</g>
+</svg>

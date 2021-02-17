@@ -6,7 +6,7 @@
 		<visiobas src="../svg/svg-schemes/tp_section_1.svg"></visiobas>
 	</g>
 <!--Trends-->
-<g class='graph' transform='translate(720,425)' gr-width="500" gr-height='300' id='gr_chartist'>
+<g class='graph' transform='translate(740,425)' gr-width="500" gr-height='300' id='gr_chartist'>
 
 </g>
 <!--reference-->
@@ -47,7 +47,7 @@
 <!-- QF_1 -->
 
 	<g id="QF_FULL" transform="translate(744,255)" >
-		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAINN.svg">
         <replace find="QF_NAME">QF1</replace>
         
         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_1.AI_125</replace>
@@ -63,7 +63,7 @@
 <!-- QF_3 -->
 
 	<g id="QF_FULL" transform="translate(819,289)" class="trendlog">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN_R.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RN.svg">
         <replace find="QF_NAME">QF3</replace>
         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_3.AI_101</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_3.AI_102</replace>
@@ -79,7 +79,7 @@
 <!-- 1QF_26 -->
 
 	<g id="QF_FULL" transform="translate(70,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF26</replace>
         <replace find="LINE_NAME">1П-26</replace>
         <replace find="EC_NAME">Набережная</replace>
@@ -95,7 +95,7 @@
 <!-- 1QF_1 -->
 
 	<g id="QF_FULL" transform="translate(110,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF1</replace>
         <replace find="LINE_NAME">1П-1</replace>
         <replace find="EC_NAME">НС РПТ</replace>
@@ -111,7 +111,7 @@
 <!-- 1QF_2-->
 
 	<g id="QF_FULL" transform="translate(150,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF2</replace>
         <replace find="LINE_NAME">1П-2</replace>
         <replace find="EC_NAME">АБК  ВРУ-1</replace>
@@ -127,7 +127,7 @@
 <!-- 1QF_3-->
 
 	<g id="QF_FULL" transform="translate(190,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF3</replace>
         <replace find="LINE_NAME">1П-3</replace>
         <replace find="EC_NAME">РЕЗЕРВ</replace>
@@ -143,7 +143,7 @@
 <!-- 1QF_4-->
 
 	<g id="QF_FULL" transform="translate(230,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF4</replace>
         <replace find="LINE_NAME">1П-4</replace>
         <replace find="EC_NAME">РЧВ+Кот.</replace>
@@ -159,7 +159,7 @@
 <!-- 1QF_5-->
 
 	<g id="QF_FULL" transform="translate(270,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF5</replace>
         <replace find="LINE_NAME">1П-5</replace>
         <replace find="EC_NAME">КЦ ВРУ-1</replace>
@@ -175,7 +175,7 @@
 <!-- 1QF_6-->
 
 	<g id="QF_FULL" transform="translate(310,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF6</replace>
         <replace find="LINE_NAME">1П-6</replace>
         <replace find="EC_NAME">КЦ ВРУ-2</replace>
@@ -191,7 +191,7 @@
 <!-- 1QF_7-->
 
 	<g id="QF_FULL" transform="translate(350,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF7</replace>
         <replace find="LINE_NAME">1П-7</replace>
         <replace find="EC_NAME">КЦ ВРУ-3</replace>
@@ -207,7 +207,7 @@
 <!-- 1QF_8-->
 
 	<g id="QF_FULL" transform="translate(390,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF8</replace>
         <replace find="LINE_NAME">1П-8</replace>
         <replace find="EC_NAME">ДЦ ВРУ-1</replace>
@@ -223,7 +223,7 @@
 <!-- 1QF_9-->
 
 	<g id="QF_FULL" transform="translate(430,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF9</replace>
         <replace find="LINE_NAME">1П-9</replace>
         <replace find="EC_NAME">ДЦ ВРУ-2</replace>
@@ -239,7 +239,7 @@
 <!-- 1QF_10-->
 
 	<g id="QF_FULL" transform="translate(470,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF10</replace>
         <replace find="LINE_NAME">1П-10</replace>
         <replace find="EC_NAME">Коллектор</replace>
@@ -255,7 +255,7 @@
 <!-- 1QF_11-->
 
 	<g id="QF_FULL" transform="translate(510,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF11</replace>
         <replace find="LINE_NAME">1П-11</replace>
         <replace find="EC_NAME">КНС-6</replace>
@@ -271,7 +271,7 @@
 <!-- 1QF_12-->
 
 	<g id="QF_FULL" transform="translate(550,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF12</replace>
         <replace find="LINE_NAME">1П-12</replace>
         <replace find="EC_NAME">Чайный ДОМ</replace>
@@ -287,7 +287,7 @@
 <!-- 1QF_13-->
 
 	<g id="QF_FULL" transform="translate(590,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF13</replace>
         <replace find="LINE_NAME">1П-13</replace>
         <replace find="EC_NAME">Japan Баня</replace>
@@ -303,7 +303,7 @@
 <!-- 1QF_14-->
 
 	<g id="QF_FULL" transform="translate(630,463)">
-		<visiobas src="../svg/svg-element/TP/FULL_QF.svg">
+		<visiobas src="../svg/svg-element/TP/FULL_QFN.svg">
         <replace find="QF_NAME">1QF14</replace>
         <replace find="LINE_NAME">1П-14</replace>
         <replace find="EC_NAME">Рютен.Содо</replace>
@@ -316,10 +316,19 @@
           	              	    	</visiobas>
 	</g>
 
+
+
+
+
+
+
+
+
+
 <!-- 1QF_15 -->
 
 	<g id="QF_FULL" transform="translate(80,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF15</replace>
         <replace find="LINE_NAME">1П-15</replace>
         <replace find="EC_NAME">Вилла 5003</replace>
@@ -335,7 +344,7 @@
 <!-- 1QF_16 -->
 
 	<g id="QF_FULL" transform="translate(120,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF16</replace>
         <replace find="LINE_NAME">1П-16</replace>
         <replace find="EC_NAME">Вилла 5004</replace>
@@ -351,7 +360,7 @@
 <!-- 1QF_17 -->
 
 	<g id="QF_FULL" transform="translate(160,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF17</replace>
         <replace find="LINE_NAME">1П-17</replace>
         <replace find="EC_NAME">Вилла 5005</replace>
@@ -367,7 +376,7 @@
 <!-- 1QF_18 -->
 
 	<g id="QF_FULL" transform="translate(200,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF18</replace>
         <replace find="LINE_NAME">1П-18</replace>
         <replace find="EC_NAME">Авто полив</replace>
@@ -383,7 +392,7 @@
 <!-- 1QF_19 -->
 
 	<g id="QF_FULL" transform="translate(240,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF19</replace>
         <replace find="LINE_NAME">1П-19</replace>
         <replace find="EC_NAME">ЛОС</replace>
@@ -399,7 +408,7 @@
 <!-- 1QF_20 -->
 
 	<g id="QF_FULL" transform="translate(280,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF20</replace>
         <replace find="LINE_NAME">1П-20</replace>
         <replace find="EC_NAME">КНС-5</replace>
@@ -415,7 +424,7 @@
 <!-- 1QF_21 -->
 
 	<g id="QF_FULL" transform="translate(320,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF21</replace>
         <replace find="LINE_NAME">1П-21</replace>
         <replace find="EC_NAME">НС ЯПС</replace>
@@ -432,7 +441,7 @@
 <!-- 1QF_22 -->
 
 	<g id="QF_FULL" transform="translate(360,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF22</replace>
         <replace find="LINE_NAME">1П-22</replace>
         <replace find="EC_NAME">Нар.Осв.</replace>
@@ -449,7 +458,7 @@
 <!-- 1QF_23 -->
 
 	<g id="QF_FULL" transform="translate(400,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF23</replace>
         <replace find="LINE_NAME">1П-23</replace>
         <replace find="EC_NAME">АСУД.СОТВ</replace>
@@ -465,7 +474,7 @@
 <!-- 1QF_24 -->
 
 	<g id="QF_FULL" transform="translate(440,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF24</replace>
         <replace find="LINE_NAME">1П-24</replace>
         <replace find="EC_NAME">ВРУ-2 Парк</replace>
@@ -482,7 +491,7 @@
 <!-- 1QF_25 -->
 
 	<g id="QF_FULL" transform="translate(480,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF25</replace>
         <replace find="LINE_NAME">1П-25</replace>
         <replace find="EC_NAME">ДЭС ШСН-1</replace>
@@ -520,7 +529,7 @@
 <!-- 1QF_29 -->
 
 	<g id="QF_FULL" transform="translate(600,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF29</replace>
         <replace find="LINE_NAME">1П-29</replace>
         <replace find="EC_NAME">Баня.Алтай</replace>
@@ -537,7 +546,7 @@
 <!-- 1QF_30 -->
 
 	<g id="QF_FULL" transform="translate(640,169)">
-		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRROR.svg">
+		<visiobas src="../svg/svg-element/TP/QF_FULL_MIRRORN.svg">
         <replace find="QF_NAME">1QF30</replace>
         <replace find="LINE_NAME">1П-30</replace>
         <replace find="EC_NAME">РЕЗЕРВ</replace>

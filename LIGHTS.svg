@@ -9,7 +9,7 @@
 
 <!-- QF1-->
 	<g id="2QF28" transform="translate(301,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tuN.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30118</replace>
       
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30018</replace>
@@ -33,7 +33,7 @@
 	
 <!-- QF2-->
 	<g id="2QF28" transform="translate(401,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30119</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30019</replace>
                	</visiobas>
@@ -56,7 +56,7 @@
 
 <!-- QF3-->
 	<g id="2QF28" transform="translate(501,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30120</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30020</replace>
                	</visiobas>
@@ -75,7 +75,7 @@
 	</g>
 <!-- QF4-->
 	<g id="2QF28" transform="translate(601,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30121</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30021</replace>
                	</visiobas>
@@ -95,7 +95,7 @@
 	</g>
 <!-- QF5-->
 	<g id="2QF28" transform="translate(701,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30122</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30022</replace>
                	</visiobas>
@@ -116,7 +116,7 @@
 
 	<!-- QF6-->
 	<g id="2QF28" transform="translate(801,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30123</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30023</replace>
                	</visiobas>
@@ -135,7 +135,7 @@
 	</g>
 	<!-- QF7-->
 	<g id="2QF28" transform="translate(901,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30124</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30024</replace>
                	</visiobas>
@@ -154,7 +154,7 @@
 	</g>
 	<!-- QF8-->
 	<g id="2QF28" transform="translate(1001,319)">
-			<visiobas src="../svg/svg-element/vru/qf-tu.svg">
+			<visiobas src="../svg/svg-element/vru/qf-NEW.svg">
         <replace find="QF-ON">Site:Engineering/LIGHTNING.BI_30125</replace>
               <replace find="QF-ALARM">Site:Engineering/LIGHTNING.BI_30025</replace>
                	</visiobas>

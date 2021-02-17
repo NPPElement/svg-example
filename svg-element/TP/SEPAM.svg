@@ -24,8 +24,8 @@
 </g>
 
 <!--FAULT -->
-<g class="fault inactive">
-<g class="animation-display">
+<g class="fault" reference="ON">
+<g class="qf-folt">
 <g transform="translate(17,84)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M16 0H14V9H0V39H14V48V49H16V48V39H30V9H16V0ZM28 11.0001H1.99999V37.0001H28V11.0001Z" fill="#BEBEBE"/>
 <path d="M26 37H4V37.3871H14V48.2258H13L15 49L17 48.2258H16V37.3871H26V37Z" fill="#BEBEBE"/>

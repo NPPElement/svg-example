@@ -38,7 +38,7 @@
 <!-- QF_5 -->
 
 	<g id="QF_FULL" transform="translate(496,416)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAINN.svg">
         <replace find="QF_NAME">QF5</replace>
          <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_5.AI_115</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_5.AI_116</replace>
@@ -53,7 +53,7 @@
 <!-- QF_6 -->
 
 	<g id="QF_FULL" transform="translate(735,416)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAINN.svg">
         <replace find="QF_NAME">QF6</replace>
         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_6.AI_105</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_6.AI_106</replace>
@@ -68,7 +68,7 @@
 <!-- QF_4-->
 
 	<g id="QF_FULL" transform="translate(898,450)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN_R.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RN.svg">
         <replace find="QF_NAME">QF4</replace>
         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1025</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_4.AI_1026</replace>
@@ -83,7 +83,7 @@
 <!-- QF_3-->
 
 	<g id="QF_FULL" transform="translate(208,452)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN_L.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_LN.svg">
         <replace find="QF_NAME">QF3</replace>
         <replace find="CURRENT1">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_3.AI_101</replace>
         <replace find="CURRENT2">Site:Engineering/Electricity.TP_1002.QF_SECTION.QF_3.AI_102</replace>

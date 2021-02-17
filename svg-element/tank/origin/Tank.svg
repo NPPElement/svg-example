@@ -1,0 +1,33 @@
+<svg width="100" height="200" viewBox="0 0 100 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+        #SEN
+        {
+        	font-family: "Antonio-Regular";
+			font-style: normal;
+			font-weight: normal;
+			font-size: 18px;
+			text-align: center;
+        }
+</style>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M100 190.928L100 12.1237C66.6666 -7.34201 11.9657 -0.368654 7.10977e-06 12.1237L-2.93846e-07 184.861L-5.53858e-07 190.928C39.0499 202.663 60.9496 203.38 100 190.928ZM94.54 188.783L94.54 21.423L7.18004 21.423L7.18003 188.783L94.54 188.783Z" fill="url(#paint0_linear)"/>
+<rect x="95" y="22" width="167" height="88" transform="rotate(90 95 22)" fill="#333333"/>
+<!-- Топливо -->
+<g id="FUEL" transform="translate(0,0)">
+    <path d="M6.8374 135.109H94.8717V189.152H6.8374V135.109Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<g>
+<text fill="#4F4F4F" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="50%" text-anchor="middle" y="16.4403">TEXT</tspan></text>
+<text fill="#FF9500" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="50%" text-anchor="middle" y="179.913">UNIT</tspan></text>
+<g id="SEN" class="fault" format="%.1f °C" reference="DATA">
+    <text fill="#4CD964" xml:space="preserve" style="white-space: pre" font-family="Antonio" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="50%" text-anchor="middle" y="162.637">... ..</tspan></text>
+</g>
+<g>
+
+<defs>
+<linearGradient id="paint0_linear" x1="100" y1="100" x2="3.34334e-06" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#848484"/>
+<stop offset="0.508287" stop-color="white"/>
+<stop offset="1" stop-color="#848484"/>
+</linearGradient>
+</defs>
+</svg>

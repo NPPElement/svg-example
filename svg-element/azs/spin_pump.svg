@@ -1,0 +1,24 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+	#speeeen {
+  -webkit-transform-origin: 15px 15px;
+  -moz-transform-origin: 15px 15px;
+  -ms-transform-origin: 15px 15px;
+  transform-origin: 15px 15px;
+}
+</style>
+
+
+<g class"fault inactive" reference="SPINNER">
+<circle id="Ellipse" r="15" transform="matrix(-1 -4.37114e-08 -4.37114e-08 1 15 15)"/>
+<g id="speeeen" class="animation-spin">
+<path d="M16.6227 27.7061L13.3727 27.7061L13.3727 1.70606L16.6227 1.70606L16.6227 27.7061Z" fill="#4F4F4F"/>
+<path d="M4.55464 22.6111L2.92964 19.7965L25.4463 6.79648L27.0713 9.61106L4.55464 22.6111Z" fill="#4F4F4F"/>
+<path d="M9.90534 26.7735L7.09076 25.1485L20.0908 2.63185L22.9053 4.25685L9.90534 26.7735Z" fill="#4F4F4F"/>
+<path d="M22.9063 25.1511L20.0917 26.7761L7.09172 4.25945L9.9063 2.63445L22.9063 25.1511Z" fill="#4F4F4F"/>
+<path d="M27.0684 19.8004L25.4434 22.615L2.92679 9.61498L4.55179 6.8004L27.0684 19.8004Z" fill="#4F4F4F"/>
+<path d="M2 16.3278L2 13.0778L28 13.0778L28 16.3278L2 16.3278Z" fill="#4F4F4F"/>
+</g>
+</g>
+
+</svg>
