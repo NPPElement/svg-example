@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+	
+	
+	
+<!-- Схема-->	
+<g>
+	<visiobas src="../svg/svg-schemes/ex_analyzer.svg"></visiobas>
+</g>
+
+<!-- прибор-->
+<g id="dataL" transform="translate(439,145)">
+	<visiobas src="../svg/svg-element/gas/analizer.svg">
+    <replace find="CH4">Site:GAS_ANALYZERS/GAS_ANALYZER_1.CH4_LEVEL</replace>
+    <replace find="C3H8">Site:GAS_ANALYZERS/GAS_ANALYZER_1.C3H8_LEVEL</replace>
+    <replace find="EX">Site:GAS_ANALYZERS/GAS_ANALYZER_1.Ex_LEVEL</replace>
+    <replace find="H2">Site:GAS_ANALYZERS/GAS_ANALYZER_1.H2_LEVEL</replace>
+    </visiobas>
+</g>
+
+</svg>

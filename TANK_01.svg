@@ -1,0 +1,56 @@
+<link rel="stylesheet" href="../svg/svg.css">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" >
+	
+	
+	
+
+<!-- Подпись -->
+<g>
+<text transform="translate(170,44)" font-size="36px" font-family="SF-Pro-Display" text-anchor="left" fill="#FFFFFF">Нефтехранилище-01</text>
+</g>
+
+<!--Trends-->
+<g class='graph' transform='translate(60,435)' gr-width="1150" gr-height='250' id='gr_chartist'>
+
+</g>
+
+<g class="trendlog">
+<!-- прибор-->
+<g id="dataL" transform="translate(559,245) scale(2,2)">
+	<visiobas src="../svg/svg-element/tank/Tank_A_2.svg">
+    <replace find="DATA">Site:PETROL-STATIONS/PETROL-STATION_1.tankDT_level</replace>
+    <replace find="TEXT">Нефть</replace>
+    <replace find="UNIT">тонн</replace>
+ 
+    </visiobas>
+</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	<!-- Переход вверх по меню-->
+	<g class="reference" reference="../svg/TANKS.svg">
+    <g transform="translate(0,0)">
+		<visiobas src="../svg/svg-element/main_menu/button_folder.svg">
+			
+        </visiobas>
+	</g>
+	</g>
+
+</svg>
+

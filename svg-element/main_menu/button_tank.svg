@@ -1,0 +1,18 @@
+<svg width="388" height="151" viewBox="0 0 388 151" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<g id="button" filter="url(#button)">
+<rect x="4" width="380" height="143" rx="7" fill="#202124"/>
+</g>
+<g>
+<path d="M90 5.45566L90 85.9174C54.8546 91.521 35.1449 91.1984 3.8306e-06 85.9174L4.05255e-06 83.1875L1.03724e-05 5.45566C10.7692 -0.165894 60 -3.3039 90 5.45566Z" fill="url(#paint0_linear)"/>
+<rect x="2" y="62" width="86" height="21" fill="#333333"/>
+<defs>
+<linearGradient id="paint0_linear" x1="89.9992" y1="47.2503" x2="-0.000752573" y2="47.2503" gradientUnits="userSpaceOnUse">
+<stop offset="0.232292" stop-color="#6A6A6A"/>
+<stop offset="0.648958" stop-color="#929393"/>
+<stop offset="0.95625" stop-color="white"/>
+</linearGradient>
+</defs>
+</g><text id="text" fill="#BEBEBE" xml:space="preserve" style="white-space: pre" font-family="SF Pro Text" font-size="24" font-weight="300" letter-spacing="0em"><tspan x="170" y="80.0312">LABEL</tspan></text>
+</g>
+</svg>

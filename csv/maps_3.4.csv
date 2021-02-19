@@ -1,0 +1,29 @@
+Device_ID;Идентификатор объекта;Имя объекта;Тип Объекта;Описание;371.center;371.zoom;371.bounds;371.id;371.kind;371.isBase;371.caption;371.minZoom;371.maxZoom;371.updateInterval;371.parent;371.reference;371.iconUrl;371.iconSize;371.popupAnchor;371.crd;371.description;371.visible;371.zooms;371.popupUrl;371.cols;371.html;371.visualization;371.replace.TEXT;371.replace.CH4;371.replace.C3H8;371.replace.CO;371.replace.H2;371.replace.DATA;371.replace.UNIT;371.content.icon;371.content.icon_active
+846;75;77;79;28;371.center;371.zoom;371.bounds;371.id;371.kind;371.isBase;371.caption;371.minZoom;371.maxZoom;371.updateInterval;371.parent;371.reference;371.iconUrl;371.iconSize;371.popupAnchor;371.crd;371.description;371.visible;371.zooms;371.popupUrl;371.cols;371.html;371.visualization;371.replace.TEXT;371.replace.CH4;371.replace.C3H8;371.replace.CO;371.replace.H2;371.replace.DATA;371.replace.UNIT;371.content.icon;371.content.icon_active
+1;43985;Map:base;54;Карта территории;[300,-190];2;[[0,0],[700,-400]];base;layer;1;Карта объекта;2;5;200;;;;;;;;;;;;;;;;;;;;;;
+1;43986;Map:base/azs;54;Автозаправочные;;;;azs;;;Автозаправочные;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;43987;Map:base/azs.1;54;АЗС-1;;;;;icon;;Маркер 1;;;;;Site:PETROL-STATIONS/PETROL-STATION_1.gas_gun_1_1_activated;/svg/marker/Gas.svg;[40,40];[0,-20];[318,-156];АЗС-1;1;[1,2,3,4,5];;;;;;;;;;;;;
+1;43988;Map:base/azs.2;54;АЗС-2;;;;;icon;;Маркер 2;;;;;Site:PETROL-STATIONS/PETROL-STATION_1.gas_gun_1_1_activated;/svg/marker/Gas.svg;[40,40];[0,-20];[240,-100];АЗС-2;1;[1,2,3,4,5];;;;;;;;;;;;;
+1;43992;Map:base/location;54;Локации сотрудников;;;;location;;;Локации сотрудников;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;43193;Map:base/location.1;54;Подключение;;;;;icon;;Подключено локаций;;;;;Map:level02/4/120/-34;/svg/marker/Loc.svg;[60,60];[0,-30];[156,-220];Подключено локаций;1;[1,2];;;;;;;;;;;;;
+1;43194;Map:base/location.2;54;Пивоваров Владлен;;;;;icon;;"Инженер конструктор
+<br>Пивоваров Владлен";;;;;Map:level02/4/120/-34;/svg/marker/People.svg;[30,30];[0,-15];[142,-233];"Инженер конструктор
+<br>Пивоваров Владлен";1;[3,4,5];;;;;;;;;;;;;
+1;43195;Map:base/location.3;54;Сластников Федор;;;;;icon;;"Инженер метролог
+<br>Сластников Федор";;;;;Map:level02/4/120/-34;/svg/marker/People.svg;[30,30];[0,-15];[194,-196];"Инженер метролог
+<br>Сластников Федор";1;[3,4,5];;;;;;;;;;;;;
+1;43196;Map:base/location.4;54;Травников Михаил;;;;;icon;;"Инженер геодезист
+<br>Травников Михаил";;;;;Map:level02/4/120/-34;/svg/marker/People.svg;[30,30];[0,-15];[93,-172];"Инженер геодезист
+<br>Травников Михаил";1;[3,4,5];;;;;;;;;;;;;
+1;43994;Map:base/car;54;Транспорт ;;;;Car;;;Транспорт;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;43995;Map:base/car.1;54;р047ак77;;;;;icon;;р047ак77;;;;;Map:level02/4/120/-34;/svg/marker/Car_truck.svg;[60,60];[0,-30];[178,-170];р047ак77;1;[3,4,5];;;;;;;;;;;;;
+1;43996;Map:base/car.2;54;р429ак77;;;;;icon;;р429ак77;;;;;Map:level02/4/120/-34;/svg/marker/Car_truck.svg;[60,60];[0,-30];[110,-274];р429ак77;1;[3,4,5];;;;;;;;;;;;;
+1;41994;Map:base/sen;54;Анализаторы ;;;;Sen;;;Анализаторы ;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;47000;Map:base/tank;54;Хранение;;;;Tank;;;Емкости ;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;47002;Map:base/light;54;Освещение;;;;Lights;;;Освещение;;;;base;;;;;;;;;;;;;;;;;;;;;
+1;47003;Map:base/light.1;54;Освещение 1;;;;;icon;;Свет 01;;;;;Site:Engineering/LIGHTNING.BV_30010;/svg/marker/light.svg;[40,40];[0,-20];[80.38,-144.22];light-1;1;[2,3,4,5];$map-controller;1;;;;;;;;;;;
+1;47004;Map:base/light.1.1;54;Включить свет;;;;;;;;;;;;Site:Engineering/LIGHTNING.BV_30010;;;;;;;;;;;;;;;;;;;/html_vdesk/template/svg/lamp-on.svg;/html_vdesk/template/svg/lamp-off.svg
+1;47006;Map:base/car.3;54;Видео;;;;;video;;Video cap;;;;;;/svg/marker/camera.svg;[40,40];[20,-20];[183,-200];Видео смотреть пример;1;[2,3,4,5];http://audiolang.info/kurs/nk/spotlight-video/10.mp4;;;;;;;;;;;;
+1;47009;Map:base/sen.2;54;PP-02;;;;;popup;;PP-02;;;;;Site:GAS_ANALYZERS/GAS_ANALYZER_1;/svg/marker/ex_icon.svg;[40,40];[20,-20];[200,-240];PP-03;1;[2,3,4,5];;;<visiobas src='/svg/svg-element/gas/ex_analyzer2.svg'></visiobas>;;PP-02;Site:GAS_ANALYZERS/GAS_ANALYZER_2.CH4_LEVEL;Site:GAS_ANALYZERS/GAS_ANALYZER_2.C3H8_LEVEL;Site:GAS_ANALYZERS/GAS_ANALYZER_2.Ex_LEVEL;Site:GAS_ANALYZERS/GAS_ANALYZER_2.H2_LEVEL;Site:GAS_ANALYZERS/GAS_ANALYZER_2.Ex_LEVEL;;;
+1;47007;Map:base/tank.1;54;Танк 01/3;;;;;popup;;Танк 01/3;;;;;Site:TANKS/Tank_01;/svg/marker/Tank.svg;[40,40];[0,-25];[130,-150];Танк 01/3;1;[2,3,4,5];;;<visiobas src='/svg/svg-element/tank/Tank_A.svg'></visiobas>;;Нефть;;;;;Site:PETROL-STATIONS/PETROL-STATION_1.tankDT_level;тонн;;
+1;47008;Map:base/car.4;54;Камера;;;;;popup;;Камера онлайн;;;;;;/svg/marker/camera.svg;[40,40];[0,-25];[210,-200];Камера онлайн внешняя;1;[2,3,4,5];;;<iframe src='https://cameras.inetcom.ru/embed/7' width='597' height='337' frameborder='0'></iframe>;;;;;;;;;;
