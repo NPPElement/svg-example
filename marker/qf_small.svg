@@ -1,0 +1,33 @@
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- off-->
+<g class="fault inactive" reference="OFF">
+<g class="animation-display">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 15H8H15V0H8H7.98699H7.27129H7H0V15H7ZM1 14H14V1H1V14Z" fill="white"/>
+</g>
+</g>
+
+<!-- on-->
+<g class="fault inactive" reference="ON">
+<g class="animation-display">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 15H8H15V0H8H7.5H6.99329H7H0V15H7ZM1 14H14V1H1V14Z" fill="#4CD964"/>
+<path d="M2 13H13V2H2V13Z" fill="#4CD964"/>
+</g>
+</g>
+
+<!-- alarm-->
+<g class="fault inactive" reference="ALARM">
+<g class="animation-fail">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 15H8H15V0H8H7.49034H7H0V15H7ZM13 14L1 2V14H13ZM14 1H2L14 13V7.5V1Z" fill="#FF0000"/>
+</g>
+</g>
+
+<!-- fault
+<g class="fault" reference="ALARM">
+<g class="fault-qf">
+<path d="M13 2H2V13H13V2Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 0H7H0V15H7H8H15V0H8ZM14 1.00005H0.999995V14H14V1.00005Z" fill="#BEBEBE"/>
+<path d="M5 5.27345H6.00197C6.06642 4.43555 6.62892 3.9141 7.51367 3.9141C8.38672 3.9141 8.94922 4.4473 8.94922 5.17385C8.94922 5.8008 8.68552 6.16995 8.00587 6.58595C7.20312 7.06645 6.82812 7.59375 6.83397 8.3672V8.90625H7.85937V8.5254C7.85937 7.91015 8.07032 7.58205 8.81447 7.1426C9.56447 6.69145 10.0391 6.04105 10.0391 5.1211C10.0391 3.9141 9.03127 3 7.55467 3C5.90822 3 5.06445 4.00785 5 5.27345ZM7.34962 11.5781C7.73047 11.5781 8.01757 11.2852 8.01757 10.9102C8.01757 10.5293 7.73047 10.2422 7.34962 10.2422C6.97462 10.2422 6.68162 10.5293 6.68162 10.9102C6.68162 11.2852 6.97462 11.5781 7.34962 11.5781Z" fill="#BEBEBE"/>
+</g>
+</g>-->
+
+</svg>

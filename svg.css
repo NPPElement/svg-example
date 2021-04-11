@@ -1,6 +1,4 @@
 /* Оставь надежду всяк сюда входящий */
-/* Здесь все не то, чем кажется ) */
-
 
 /* Стили флагов состояний */
 .hide {
@@ -15,27 +13,6 @@
   fill: #E2E7E9;
   color: #E2E7E9;
 }
-
-/* Тестовый класс для автоматов */
-.inactive .qf-hide,
-.fault .qf-folt
-{
-  display: block;
-}
-.active .qf-hide,
-.normal .qf-folt,
-.in-alarm .qf-folt
-{
-  display: none;
-}
-
-
-
-
-
-
-
-
 .in-alarm {
   fill: #FF0000;
   color: #FF0000;
@@ -51,9 +28,18 @@
   cursor: pointer;
 }
 
+/* Маркеры карты */
+#mapicon.sensor {
+    font-family: Antonio;
+    font-size: 24px;
+    text-align: center;
+}
+#mapicon.sensor.normal {
+  fill: #00FF00;
+  color:#00FF00;
+}
 
 /* Скрыть */
-
 .active .animation-hide,
 .inactive .animation-display,
 .array-1,
@@ -68,7 +54,6 @@
   display: none;
 }
 /* Отобразить */
-
 .inactive .animation-hide,
 .active .animation-display,
 .multi-state-1 .array-1,
@@ -84,15 +69,11 @@
 }
 
 /* Неактивные предупреждения */
-.inactive .animation-fail-alt {
-  display: block;
-}
 .inactive .animation-fail {
   display: none;
 }
 /* Мигания предупреждений */
-.active .animation-fail,
-.active .animation-fail-alt{
+.active .animation-fail {
   display: block;
   -webkit-animation: showhide .8s infinite; /* Safari 4+ */
   -moz-animation: showhide .8s infinite; /* Fx 5+ */
@@ -190,10 +171,10 @@
 /* Центры вращения вентиляторов, крыльчаток и пр. */
 .animation-revspin,
 .animation-spin {
-  -webkit-transform-origin: 15px 15px;
-  -moz-transform-origin: 15px 15px;
-  -ms-transform-origin: 15px 15px;
-  transform-origin: 15px 15px;
+  -webkit-transform-origin: 151px 170px;
+  -moz-transform-origin: 151px 170px;
+  -ms-transform-origin: 151px 170px;
+  transform-origin: 151px 170px;
 }
 
 /* Электроавтоматы */
@@ -374,4 +355,20 @@
 .generator.in-alarm {
   fill:  #e646e6;
   color: #e646e6;
+}
+
+
+/* Псевдокласс для отображения элемента FAULT   в эл.снабжение */
+.active .normal .qf,
+.active .in-alarm .qf,
+.inactive .normal .qf,
+.inactive .in-alarm .qf
+{
+    display: none;
+}
+.active .fault .qf,
+.inactive .fault .qf,
+.fault .qf
+{
+    display: block;
 }
