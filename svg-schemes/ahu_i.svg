@@ -88,7 +88,7 @@
 <circle cx="226.5" cy="390.5" r="1.5" fill="#C4C4C4"/>
 <circle cx="218.5" cy="374.5" r="1.5" fill="#C4C4C4"/>
 <circle cx="226.5" cy="374.5" r="1.5" fill="#C4C4C4"/>
-<path d="M134.477 296H1103L1070.31 328H103L134.477 296Z" fill="white" fill-opacity="0.5"/>
+<!-- <path d="M134.477 296H1103L1070.31 328H103L134.477 296Z" fill="white" fill-opacity="0.5"/> -->
 <defs>
 <linearGradient id="paint0_linear" x1="603" y1="364" x2="603" y2="409.333" gradientUnits="userSpaceOnUse">
 <stop stop-color="#A6A5A5"/>

@@ -25,13 +25,13 @@
 
 <!-- QF_7 -->
 	<g id="QF_FULL" transform="translate(384,248)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RLN.svg">
         <replace find="QF_NAME">QF7</replace>
            </visiobas>
 	</g>
 <!-- QF_8 -->
 	<g id="QF_FULL" transform="translate(623,248)">
-		<visiobas src="../svg/svg-element/TP/QF_MAIN_RL.svg">
+		<visiobas src="../svg/svg-element/TP/QF_MAIN_RLN.svg">
         <replace find="QF_NAME">QF8</replace>
            </visiobas>
 	</g>
